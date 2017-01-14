@@ -1,0 +1,10 @@
+/*
+ ***************************************
+*		 * CODED FRAMEWORK *  			*
+*	DEVELOPED BY: CASTERO - KUMASI		*
+*										*
+*			  AKA: CODED				*
+ ***************************************
+*/
+
+var _0xc7ec=["\x66\x75\x6E\x63\x74\x69\x6F\x6E","\x75\x70\x64\x61\x74\x65\x64","\x59\x6F\x75\x72\x20\x41\x70\x70\x20\x69\x73\x20\x74\x6F\x6F\x20\x6F\x6C\x64\x2C\x20\x0A\x43\x6C\x69\x63\x6B\x20\x4F\x4B\x20\x74\x6F\x20\x55\x70\x64\x61\x74\x65\x20\x6E\x6F\x77\x21","\x68\x72\x65\x66","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x6D\x61\x72\x6B\x65\x74\x3A\x2F\x2F\x64\x65\x74\x61\x69\x6C\x73\x3F\x69\x64\x3D\x63\x6F\x6D\x2E\x63\x61\x73\x74\x65\x72\x6F\x61\x70\x70\x73\x2E\x6C\x65\x61\x72\x6E\x6B\x75\x6E\x67\x66\x75\x6E\x65\x77","\x74\x72\x75\x65","\x74\x65\x78\x74","\x54\x49\x54\x4C\x45","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65","\x47\x48\x20\x53\x54\x41\x52\x53"];var _0xc642=[_0xc7ec[0],_0xc7ec[1],_0xc7ec[2],_0xc7ec[3],_0xc7ec[4],_0xc7ec[5],_0xc7ec[6],_0xc7ec[7],_0xc7ec[8],_0xc7ec[9],_0xc7ec[10]];var _0x8168=[_0xc642[0],_0xc642[1],_0xc642[2],_0xc642[3],_0xc642[4],_0xc642[5],_0xc642[6],_0xc642[7],_0xc642[8],_0xc642[9],_0xc642[10]];var _0x9cdf=[_0x8168[0],_0x8168[1],_0x8168[2],_0x8168[3],_0x8168[4],_0x8168[5],_0x8168[6],_0x8168[7],_0x8168[8],_0x8168[9],_0x8168[10]];var _0xf7e3=[_0x9cdf[0],_0x9cdf[1],_0x9cdf[2],_0x9cdf[3],_0x9cdf[4],_0x9cdf[5],_0x9cdf[6],_0x9cdf[7],_0x9cdf[8],_0x9cdf[9],_0x9cdf[10]];var _0x6c51=[_0xf7e3[0],_0xf7e3[1],_0xf7e3[2],_0xf7e3[3],_0xf7e3[4],_0xf7e3[5],_0xf7e3[6],_0xf7e3[7],_0xf7e3[8],_0xf7e3[9],_0xf7e3[10]];Notice();function updateChecker(){if( typeof netStatus=== _0x6c51[0]){updatecheck= _0x6c51[1]}else {checkversion()}}function checkversion(){if(appversion()< 1.0){if(confirm(_0x6c51[2])=== true){window[_0x6c51[4]][_0x6c51[3]]= _0x6c51[5]}}}function codedOnline(){connected= _0x6c51[6];return connected}function completeNotice(){var _0x3917xa=document[_0x6c51[9]](_0x6c51[8])[0][_0x6c51[7]];if(_0x3917xa=== _0x6c51[10]){}}
