@@ -5,10 +5,10 @@
                 playlistLink:"https://www.youtube.com/?listType=user_uploads&list=shemmati10yt",
                 
                 defaultTab:"Uploads",         //Uploads|Playlists|Featured
-                videoDisplayMode:"inline",       //popup|link|inline
+                videoDisplayMode:"popup",       //popup|link|inline
 
                 maxResults:"20",
-                autoPlay:1,
+                autoPlay:true,
                 displayFirstVideoOnLoad:true,       //for inline video display mode only
                 
 
