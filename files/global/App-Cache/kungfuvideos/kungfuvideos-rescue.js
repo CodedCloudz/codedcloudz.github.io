@@ -1,7 +1,4 @@
-
-        $(document).ready(function(){
-
-            $(".youmax").youmax({
+ $(".youmax").youmax({
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
 
                 channelLink:"https://www.youtube.com/user/shemmati10yt",
@@ -29,4 +26,3 @@
 
 
             });
-        });
