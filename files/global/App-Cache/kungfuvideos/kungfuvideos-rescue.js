@@ -8,7 +8,7 @@
                 videoDisplayMode:"inline",       //popup|link|inline
 
                 maxResults:"20",
-                autoPlay:true,
+                autoPlay:1,
                 displayFirstVideoOnLoad:true,       //for inline video display mode only
                 
 
