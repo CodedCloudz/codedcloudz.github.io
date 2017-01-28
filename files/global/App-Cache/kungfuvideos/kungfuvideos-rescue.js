@@ -5,7 +5,7 @@
                 playlistLink:"https://www.youtube.com/?listType=user_uploads&list=shemmati10yt",
                 
                 defaultTab:"Uploads",         //Uploads|Playlists|Featured
-                videoDisplayMode:"popup",       //popup|link|inline
+                videoDisplayMode:"inline",       //popup|link|inline
 
                 maxResults:"20",
                 autoPlay:true,
