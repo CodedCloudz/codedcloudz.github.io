@@ -1,0 +1,170 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Coded Ads</title>
+<link href="files/boilerplate.css" rel="stylesheet" type="text/css">
+<link href="files/style.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+body {
+	background-color: #FFF;
+}
+body,td,th {
+	color: #03F;
+	font-size: medium;
+	font-weight: bold;
+}
+</style>
+
+<style>
+	/* Slideshow container */
+	.slideshow-container {
+	  max-width: 1000px;
+	  position: relative;
+	  margin: auto;
+	}
+
+	/* Next & previous buttons */
+	.prev, .next {
+		cursor: pointer;
+		position: absolute;
+		top: 0;
+		top: 80%;
+		width: 5vw;
+		margin-top: -22px;
+		padding: 1px;
+		color: white;
+		font-weight: bold;
+		font-size: 50px;
+		transition: 0.6s ease;
+	  border-radius: 0 3px 3px 0;
+	}
+
+	/* Position the "next button" to the right */
+	.next {
+	  right: 0;
+	  border-radius: 3px 0 0 3px;
+	  background-color: rgba(0,0,0,0.04);
+	}
+
+	/* Position the "next button" to the right */
+	.prev {
+	  left: 0;
+	  border-radius: 3px 0 0 3px;
+	  background-color: rgba(0,0,0,0.04);
+	}
+
+	/* On hover, add a black background color with a little bit see-through */
+	.prev:hover, .next:hover {
+	  background-color: rgba(0,0,0,0.8);
+	}
+
+	.active, .dot:hover {
+	  background-color: #717171;
+	}
+
+	/* Fading animation */
+	.fade {
+	  -webkit-animation-name: fade;
+	  -webkit-animation-duration: 1.5s;
+	  animation-name: fade;
+	  animation-duration: 1.5s;
+	}
+
+	@-webkit-keyframes fade {
+	  from {opacity: .4} 
+	  to {opacity: 1}
+	}
+
+	@keyframes fade {
+	  from {opacity: .4} 
+	  to {opacity: 1}
+	}
+</style>
+<script src="files/respond.min.js"></script>
+<script src="files/coded.js"></script>
+
+</head>
+<body>
+<div class="gridContainer clearfix" style="margin-top:0px !important, padding-top:0px !important;">
+  <div id="LayoutDiv1">
+    <div align="center">
+	
+	<div id="mainmenu" style="width:100vw !important, top: 0px !important;">
+
+		
+		<div class="slideshow-container">
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.learnkungfunew" target="_self"><img src="images/learnkungfunew.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.learnkungfunew" target="_self"><img src="images/learnkungfunew.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.learnkungfunew" target="_self"><img src="images/learnkungfunew.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.learnkungfunew" target="_self"><img src="images/learnkungfunew.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.learnkungfunew" target="_self"><img src="images/learnkungfunew.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+		  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+		</div>
+		<br>
+		<div id="closebtncontainer">
+		<a id="fullscrAdsclsbtnbtm" href="#" onclick="clsfullscrAds ()" style="display:block; position: fixed; bottom: 6%; right: 2%; width: 80px; height: 80px; z-index: 5000;"><img id="fullscrAdsClsbtmimg" src="images/close.png"  style="width: 50px; height: 50px; padding: 5%;"><h4 style="margin: 0px;">SKIP</h4></a>
+		</div>
+	</div>
+</div>
+  </div>
+</div>
+</body>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  if (n > slides.length) {slideIndex = 1} 
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none"; 
+  }
+  
+  slideIndex++;
+    if (slideIndex> slides.length) {slideIndex = 1} 
+    slides[slideIndex-1].style.display = "block"; 
+    setTimeout(showSlides, 5000);
+}	
+</script>
+
+<script>
+//clsfullscrAds
+ function clsfullscrAds () {
+     window.location.href = '#';
+ };
+</script>
+</html>
