@@ -42,7 +42,7 @@ if (pagetitle === "GH STARS"){
 
 $(".youmax").youmax({
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
-
+                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
                 channelLink:"https://www.youtube.com/user/shemmati10yt",
                 playlistLink:"https://www.youtube.com/?listType=user_uploads&list=shemmati10yt",
                 
