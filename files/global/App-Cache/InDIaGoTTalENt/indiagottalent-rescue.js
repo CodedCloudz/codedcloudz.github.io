@@ -46,7 +46,7 @@ $(".youmax").youmax({
                 channelLink:"https://www.youtube.com/channel/UC3a4hzNdtMFes7TyzuhTRCg",
                	playlistLink:"https://www.youtube.com/playlist?list=PL6_h4dV9kuulOBDKgxu3q9DpvvJFZ6fB5",
                 //playlistLink:"https://www.youtube.com/channel/UC3a4hzNdtMFes7TyzuhTRCg/playlists",
-                defaultTab:"Uploads",         //Uploads|Playlists|Featured
+                defaultTab:"Playlists",         //Uploads|Playlists|Featured
                 videoDisplayMode:"popup",       //popup|link|inline
 
                 maxResults:"20",
