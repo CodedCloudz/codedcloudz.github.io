@@ -69,16 +69,3 @@ $(".youmax").youmax({
 
             });
 
-//---------------
-        
-        	jQuery(".youmax").youmax({
-		channelLink:"https://youtube.com/user/asiasgottalent",
-		playlistLink:"PLwGsKFM2lnRkArbGblvFnF9AUQq0pFqL3",
-		apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
-		maxResults:"20",
-		videoDisplayMode:"popup",
-		defaultTab:"Uploads",
-		hideHeader:false,
-		hideTabs:false,
-		hideLoadingMechanism:false,
-	});
