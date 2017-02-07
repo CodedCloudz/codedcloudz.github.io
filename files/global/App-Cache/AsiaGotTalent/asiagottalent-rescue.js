@@ -46,7 +46,7 @@ $(".youmax").youmax({
                 channelLink:"https://youtube.com/user/asiasgottalent",
                 playlistLink:"https://www.youtube.com/playlist?list=PLwGsKFM2lnRkArbGblvFnF9AUQq0pFqL3",
                 
-                defaultTab:"Uploads",         //Uploads|Playlists|Featured
+                defaultTab:"Playlists",         //Uploads|Playlists|Featured
                 videoDisplayMode:"popup",       //popup|link|inline
 
                 maxResults:"20",
