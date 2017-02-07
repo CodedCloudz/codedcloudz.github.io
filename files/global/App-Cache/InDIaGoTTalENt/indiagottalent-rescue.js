@@ -43,7 +43,7 @@ if (pagetitle === "GH STARS"){
 $(".youmax").youmax({
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
                 	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                channelLink:"https://www.youtube.com/channel/UCE1u50FvjBf61Xho_k_9OSg",
+                channelLink:"https://www.youtube.com/user/ColorsIGT",
                 playlistLink:"https://www.youtube.com/playlist?list=PLwGsKFM2lnRkArbGblvFnF9AUQq0pFqL3",
                 
                 defaultTab:"Uploads",         //Uploads|Playlists|Featured
