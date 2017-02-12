@@ -57,5 +57,5 @@ if (pagename() === "GALLERY"){
 	};
 
 if (pagename() === "METHOD ONE"){ 
-   $(".videoerror").css("display","block");
+   $(".videoerror").css("display","none");
 	};
