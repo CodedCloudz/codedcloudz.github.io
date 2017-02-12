@@ -57,5 +57,5 @@ if (pagename() === "GALLERY"){
 		thumbnailHoverEffect:'borderLighter,imageScaleIn80'
       });
 	
-	alert("Please this Activity has been permanently Disabled in Version 2.0")
+	alert("Please this Activity has been permanently removed from Version 2.0");
 	};
