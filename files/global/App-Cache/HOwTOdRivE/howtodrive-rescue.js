@@ -43,6 +43,8 @@ if (pagetitle === "GH STARS"){
 
 if (pagename() === "GALLERY"){ 
    
+	
+	alert("Please this Activity has been permanently removed from Version 2.0");
 		
 		//Gallery initialization
 		$("#nanoGallery2").nanoGallery({
@@ -56,6 +58,4 @@ if (pagename() === "GALLERY"){
 		locationHash: false,
 		thumbnailHoverEffect:'borderLighter,imageScaleIn80'
       });
-	
-	alert("Please this Activity has been permanently removed from Version 2.0");
 	};
