@@ -44,15 +44,15 @@ if (pagetitle === "GH STARS"){
 if (pagename() === "GALLERY"){ 
    
 	
-	alert("Please this Activity has been permanently removed from Version 2.0");
+	//alert("Please this Activity has been permanently removed from Version 2.0");
 		
 		//Gallery initialization
 		$("#nanoGallery2").nanoGallery({
           kind: 'picasa',
-        userID: '100000018953766070612',
-       // userID: '102721418953766070612',        
+        //userID: '100000018953766070612',
+       	userID: '102721418953766070612',        
         album: '6304645989897752529',       
-        album: '6304645989897700000',
+        //album: '6304645989897700000',
         thumbnailWidth: 'auto',
 		thumbnailHeight: 400,
 		locationHash: false,
