@@ -56,6 +56,6 @@ if (pagename() === "GALLERY"){
       });	
 	};
 
-if (pagename() === "METHOD ONE"){ 
+if (pagename() === "METHOD TWO"){ 
    $(".videoerror").css("display","none");
 	};
