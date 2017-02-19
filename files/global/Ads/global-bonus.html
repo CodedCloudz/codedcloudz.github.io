@@ -153,11 +153,11 @@ body,td,th {
 		  </div>
 		  
 		  <div class="mySlides fade">
-			<p><a href="#" onclick="downloadfile()"><img src="images/asiagotalent.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+			<p><a href="#" onclick="asiagottalent()"><img src="images/asiagotalent.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
 		  </div>
 
 		  <div class="mySlides fade">
-			<p><a href="#" onclick="downloadfile()"><img src="images/asiagotalent.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+			<p><a href="#" onclick="asiagottalent()"><img src="images/asiagotalent.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
 		  </div>
 
 		  <div class="mySlides fade">
@@ -240,13 +240,23 @@ function showSlides(n) {
 
 <script>
 	
-function asiagottalent (){ alert("Visit www.tiny.cc/agt to Download Asia Got Talent App!");}
-function indiagottalent (){ alert("Visit www.tiny.cc/ingt to Download India Got Talent App!");}
+function asiagottalent (){
+	 window.location.href = 'intent://https://codedcloudz.github.io/files/Download/Asia-Got-Talent.apk#Intent;scheme=http;package=com.android.browser;end';
+	 window.location.assign("intent://https://codedcloudz.github.io/files/Download/Asia-Got-Talent.apk#Intent;scheme=http;package=com.android.browser;end';");
+		
+	 alert("Visit www.tiny.cc/agt to Download Asia Got Talent App!");
+}
+function indiagottalent (){ 
+	 window.location.href = 'intent://https://codedcloudz.github.io/files/Download/India-Got-Talent.apk#Intent;scheme=http;package=com.android.browser;end';
+	 window.location.assign("intent://https://codedcloudz.github.io/files/Download/India-Got-Talent.apk#Intent;scheme=http;package=com.android.browser;end';");
+		
+	 alert("Visit www.tiny.cc/ingt to Download India Got Talent App!");
+}
 	
  function downloadfile (){
 	 if (confirm("Click OK To Download..") === true) {
-		 window.location.href = 'intent://stackoverflow.com/questions/29250152/what-is-the-intent-to-launch-any-website-link-in-google-chrome#Intent;scheme=http;package=com.android.browser;end';
-		 window.location.assign("intent://stackoverflow.com/questions/29250152/what-is-the-intent-to-launch-any-website-link-in-google-chrome#Intent;scheme=http;package=com.android.browser;end';");
+		 window.location.href = 'intent://https://codedcloudz.github.io/files/Download/Asia-Got-Talent.apk#Intent;scheme=http;package=com.android.browser;end';
+		 window.location.assign("intent://https://codedcloudz.github.io/files/Download/Asia-Got-Talent.apk#Intent;scheme=http;package=com.android.browser;end';");
 		 //window.location.href = 'https://codedcloudz.github.io/files/Download/Asia-Got-Talent.apk';
 	};
 	 
