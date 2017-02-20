@@ -127,6 +127,18 @@ body,td,th {
 		  <div class="mySlides fade">
 			<p><a href="market://details?id=com.casteroapps.learnkarate" target="_self"><img src="images/learnkarate.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
 		  </div>		  		  
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.taekwondo" target="_self"><img src="images/taekwondo.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.taekwondo" target="_self"><img src="images/taekwondo.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.taekwondo" target="_self"><img src="images/taekwondo.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>		  		  
 		 
 		  <div class="mySlides fade">
 			<p><a href="market://details?id=com.casteroapps.Kungfuvideos" target="_self"><img src="images/kungfuvideos.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
