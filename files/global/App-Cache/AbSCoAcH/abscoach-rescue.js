@@ -48,7 +48,7 @@ if (pagename() === "GALLERY"){
 		$("#nanoGallery2").nanoGallery({
           kind: 'picasa',
         userID: '107176243627978544958',        
-        album: 'AF1QipOA6BW_hrDYWiJmMuSelcp2fAPeEQKveHate3PM',
+        album: 'UD3dxoGZcFunJMUv8',
        // userID: '102596438567953137786',        
       //  album: '6302735542318610097',
         thumbnailWidth: 'auto',
