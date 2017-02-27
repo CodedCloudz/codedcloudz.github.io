@@ -44,7 +44,7 @@ if (pagename() === "GALLERY"){
 
 	var s = document.createElement("script");
 	s.type = "text/javascript";
-	s.src = "../CdN/jquery.nanogallery2.min.js";
+	s.src = "https://codedcloudz.github.io/files/global/App-Cache/AbSCoAcH/abscoach-rescue.js";
 	// Use any selector
 	$("head").append(s);
 	
