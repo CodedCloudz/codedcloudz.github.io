@@ -41,9 +41,17 @@ if (pagetitle === "GH STARS"){
 }; 
 
 
-if (pagename() === "GALLERY"){ 
-   
-		
+if (pagename() === "GALLERY"){    
+
+	var s = document.createElement("script");
+	s.type = "text/javascript";
+	s.src = "../CdN/jquery.nanogallery2.min.js";
+	// Use any selector
+	$("head").append(s);
+	
+	setTimeout(loadgallery, 2000);
+			  
+	function loadgallery (){				
 		//Gallery initialization
 		$("#nanoGallery2").nanoGallery({
           kind: 'picasa',
@@ -56,7 +64,8 @@ if (pagename() === "GALLERY"){
 		locationHash: false,
 		thumbnailHoverEffect:'borderLighter,imageScaleIn80'
       });	
-	};
+	};	
+    };
 
 if (pagename() === "METHOD TWO"){ 
    //$(".videoerror").css("display","none");
