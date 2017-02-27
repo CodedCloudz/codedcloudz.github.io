@@ -41,30 +41,21 @@ if (pagetitle === "GH STARS"){
 }; 
 
 
-if (pagename() === "GALLERY"){    
-
-	//var n = document.createElement("script");
-	//n.type = "text/javascript";
-	//n.src = "https://codedcloudz.github.io/files/global/App-Cache/CdN/jquery.nanogallery2.min.js";
-	// Use any selector
-	//$("head").append(n);
-	
-	//setTimeout(loadgallery, 5000);
-			  
-	$("#nanoGallery2").nanogallery({
-	kind: 'picasa',
-        userID: '107176243627978544958',        
-        album: '6297954975177698881',
-       // userID: '102596438567953137786',        
-      //  album: '6302735542318610097',
+if (pagename() === "GALLERY"){ 
+   
+		
+		//Gallery initialization
+		$("#nanoGallery2").nanoGallery({
+          kind: 'picasa',
+        userID: '102596438567953137786',        
+        album: '6302735542318610097',
         thumbnailWidth: 'auto',
 		thumbnailHeight: 400,
 		locationHash: false,
 		thumbnailHoverEffect:'borderLighter,imageScaleIn80'
-      });
-    };
+      });	
+	};
 
 if (pagename() === "METHOD TWO"){ 
    //$(".videoerror").css("display","none");
 	};
-//alert("rescue.js Loaded sucessfully!");
