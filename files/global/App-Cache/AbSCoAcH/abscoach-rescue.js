@@ -63,6 +63,8 @@ if (pagename() === "GALLERY"){
 		thumbnailHeight: 400,
 		locationHash: false,
 		thumbnailHoverEffect:'borderLighter,imageScaleIn80'
+		
+		alert("nanoGallery2 initialized sucessfully!");
       });	
 	};	
     };
