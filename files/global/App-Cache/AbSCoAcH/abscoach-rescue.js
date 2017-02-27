@@ -52,7 +52,7 @@ if (pagename() === "GALLERY"){
 			  
 	function loadgallery (){				
 		//Gallery initialization
-		$("#nanoGallery2").nanoGallery({
+		$("#nanoGallery2").nanogallery2({
           kind: 'picasa',
         userID: '107176243627978544958',        
         album: '6297954975177698881',
