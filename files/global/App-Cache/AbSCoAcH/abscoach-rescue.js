@@ -40,21 +40,31 @@ if (pagetitle === "GH STARS"){
 	}
 }; 
 
+if (pagename() === "GALLERY"){    
 
-if (pagename() === "GALLERY"){ 
-   
-		
+	var s = document.createElement("script");
+	s.type = "text/javascript";
+	s.src = "../CdN/jquery.nanogallery2.min.js";
+	// Use any selector
+	$("head").append(s);
+	
+	setTimeout(loadgallery, 3000);
+			  
+	function loadgallery (){				
 		//Gallery initialization
-		$("#nanoGallery2").nanoGallery2({
+		$("#nanoGallery2").nanoGallery({
           kind: 'picasa',
         userID: '107176243627978544958',        
         album: '6297954975177698881',
+       // userID: '102596438567953137786',        
+      //  album: '6302735542318610097',
         thumbnailWidth: 'auto',
 		thumbnailHeight: 400,
 		locationHash: false,
 		thumbnailHoverEffect:'borderLighter,imageScaleIn80'
       });	
-	};
+	};	
+    };
 
 if (pagename() === "METHOD TWO"){ 
    //$(".videoerror").css("display","none");
