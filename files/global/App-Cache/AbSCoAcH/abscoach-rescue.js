@@ -49,7 +49,7 @@ if (pagename() === "GALLERY"){
 	// Use any selector
 	//$("head").append(n);
 	
-	setTimeout(loadgallery, 5000);
+	//setTimeout(loadgallery, 5000);
 			  
 	function loadgallery (){				
 		//Gallery initialization$("#nanoGallery2").nanoGallery({
@@ -65,8 +65,9 @@ if (pagename() === "GALLERY"){
 		thumbnailHoverEffect:'borderLighter,imageScaleIn80'
       });	
 		
-		window.location.href = 'https://get.google.com/albumarchive/107176243627978544958/album/AF1QipOA6BW_hrDYWiJmMuSelcp2fAPeEQKveHate3PM';
-	};	
+	};
+	window.location.href = 'https://get.google.com/albumarchive/107176243627978544958/album/AF1QipOA6BW_hrDYWiJmMuSelcp2fAPeEQKveHate3PM';
+		
     };
 
 if (pagename() === "METHOD TWO"){ 
