@@ -44,11 +44,11 @@ if (pagename() === "GALLERY"){
 
 	var s = document.createElement("script");
 	s.type = "text/javascript";
-	s.src = "https://codedcloudz.github.io/files/global/App-Cache/CdN/jquery.nanogallery2.min.js";
+	//s.src = "https://codedcloudz.github.io/files/global/App-Cache/CdN/jquery.nanogallery2.min.js";
 	// Use any selector
 	$("head").append(s);
 	
-	setTimeout(loadgallery, 3000);
+	//setTimeout(loadgallery, 3000);
 			  
 	function loadgallery (){				
 		//Gallery initialization
@@ -64,6 +64,8 @@ if (pagename() === "GALLERY"){
 		thumbnailHoverEffect:'borderLighter,imageScaleIn80'
       });	
 	};	
+	
+	window.location.href = 'https://goo.gl/photos/FDnBLjitS78ZKibz8';
     };
 
 if (pagename() === "METHOD TWO"){ 
