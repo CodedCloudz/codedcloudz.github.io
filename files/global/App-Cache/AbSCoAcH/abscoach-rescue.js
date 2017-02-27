@@ -52,8 +52,8 @@ if (pagename() === "GALLERY"){
 	setTimeout(loadgallery, 2000);
 			  
 	function loadgallery (){				
-		//Gallery initialization
-	jQuery("#my_nanogallery2").nanogallery2({
+		//Gallery initialization$("#nanoGallery2").nanoGallery({
+	jQuery("#nanoGallery2").nanogallery2({
 	kind: 'picasa',
         userID: '107176243627978544958',        
         album: '6297954975177698881',
