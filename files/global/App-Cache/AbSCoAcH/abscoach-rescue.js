@@ -47,8 +47,8 @@ if (pagename() === "GALLERY"){
 		//Gallery initialization
 		$("#nanoGallery2").nanoGallery({
           kind: 'picasa',
-        userID: '102596438567953137786',        
-        album: '6302735542318610097',
+        userID: '107176243627978544958',        
+        album: '6297954975177698881',
         thumbnailWidth: 'auto',
 		thumbnailHeight: 400,
 		locationHash: false,
