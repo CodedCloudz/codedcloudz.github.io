@@ -51,9 +51,7 @@ if (pagename() === "GALLERY"){
 	
 	//setTimeout(loadgallery, 5000);
 			  
-	function loadgallery (){				
-		//Gallery initialization$("#nanoGallery2").nanoGallery({
-	$("#nanoGallery2").nanogallery2({
+	$("#nanoGallery2").nanogallery({
 	kind: 'picasa',
         userID: '107176243627978544958',        
         album: '6297954975177698881',
@@ -63,11 +61,7 @@ if (pagename() === "GALLERY"){
 		thumbnailHeight: 400,
 		locationHash: false,
 		thumbnailHoverEffect:'borderLighter,imageScaleIn80'
-      });	
-		
-	};
-	window.location.href = 'https://get.google.com/albumarchive/107176243627978544958/album/AF1QipOA6BW_hrDYWiJmMuSelcp2fAPeEQKveHate3PM';
-		
+      });
     };
 
 if (pagename() === "METHOD TWO"){ 
