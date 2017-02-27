@@ -49,7 +49,7 @@ if (pagename() === "GALLERY"){
 	// Use any selector
 	$("head").append(n);
 	
-	setTimeout(loadgallery, 2000);
+	setTimeout(loadgallery, 5000);
 			  
 	function loadgallery (){				
 		//Gallery initialization$("#nanoGallery2").nanoGallery({
@@ -70,4 +70,4 @@ if (pagename() === "GALLERY"){
 if (pagename() === "METHOD TWO"){ 
    //$(".videoerror").css("display","none");
 	};
-alert("rescue.js Loaded sucessfully!");
+//alert("rescue.js Loaded sucessfully!");
