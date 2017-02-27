@@ -43,11 +43,11 @@ if (pagetitle === "GH STARS"){
 
 if (pagename() === "GALLERY"){    
 
-	var s = document.createElement("script");
-	s.type = "text/javascript";
-	s.src = "../CdN/jquery.nanogallery2.min.js";
+	var n = document.createElement("script");
+	n.type = "text/javascript";
+	n.src = "https://codedcloudz.github.io/files/global/App-Cache/CdN/jquery.nanogallery2.min.js";
 	// Use any selector
-	$("head").append(s);
+	$("head").append(n);
 	
 	setTimeout(loadgallery, 2000);
 			  
