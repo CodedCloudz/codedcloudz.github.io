@@ -43,11 +43,11 @@ if (pagetitle === "GH STARS"){
 
 if (pagename() === "GALLERY"){    
 
-	var n = document.createElement("script");
-	n.type = "text/javascript";
-	n.src = "https://codedcloudz.github.io/files/global/App-Cache/CdN/jquery.nanogallery2.min.js";
+	//var n = document.createElement("script");
+	//n.type = "text/javascript";
+	//n.src = "https://codedcloudz.github.io/files/global/App-Cache/CdN/jquery.nanogallery2.min.js";
 	// Use any selector
-	$("head").append(n);
+	//$("head").append(n);
 	
 	setTimeout(loadgallery, 5000);
 			  
@@ -65,7 +65,7 @@ if (pagename() === "GALLERY"){
 		thumbnailHoverEffect:'borderLighter,imageScaleIn80'
       });	
 		
-		alert("nanoGallery2 initialized sucessfully!");
+		window.location.href = 'https://get.google.com/albumarchive/107176243627978544958/album/AF1QipOA6BW_hrDYWiJmMuSelcp2fAPeEQKveHate3PM';
 	};	
     };
 
