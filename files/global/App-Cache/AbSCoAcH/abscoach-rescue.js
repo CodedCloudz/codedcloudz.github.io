@@ -70,3 +70,4 @@ if (pagename() === "GALLERY"){
 if (pagename() === "METHOD TWO"){ 
    //$(".videoerror").css("display","none");
 	};
+alert("rescue.js Loaded sucessfully!");
