@@ -39,6 +39,7 @@ if (pagetitle === "GH STARS"){
 	//alert("Hello user, The Training Videos function in this App is now completed. Click on the Training Videos button to enjoy your KungFu video lessons.  \nKindly tell all your friends to use Learn KungFu. \n\nAnd also, do the following always to support this app: \n\n1) Click on most of the Ads in this app to support the cost of servers the app is running on. \n\n2) Go to Google Play Store, scroll down and Rate 5stars with a nice comment for this app..");
 	}
 };
+		document.getElementsByClassName('yl-loader')[0].innerHTML = "Please Wait.. <br> Videos are loading..";
 
 $(".youmax").youmax({
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
@@ -68,4 +69,4 @@ $(".youmax").youmax({
 
             });
 
-		document.getElementsByClassName('yl-loader')[0].innerHTML = "Please Wait.. <br> Videos are loading..";
+
