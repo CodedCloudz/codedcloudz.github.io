@@ -66,5 +66,5 @@ $(".youmax").youmax({
                 hideTabs                :false,
                 hideLoadingMechanism    :false,
 
-document.getElementsByClassName('yl-loader')[0].innerHTML = "Please Wait.. <br> Videos are loading.."
+		document.getElementsByClassName('yl-loader')[0].innerHTML = "Please Wait.. <br> Videos are loading..";
             });
