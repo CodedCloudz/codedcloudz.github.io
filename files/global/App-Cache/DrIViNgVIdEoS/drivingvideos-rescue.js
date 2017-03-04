@@ -45,7 +45,8 @@ if (pagename() === "CHANNEL 1"){
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
                 	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
                 channelLink:"https://m.youtube.com/channel/UCPwt-gLXAMMVVne6TFyCDFA",
-                playlistLink:"https://m.youtube.com/channel/UCPwt-gLXAMMVVne6TFyCDFA/playlists",
+	  	playlistLink:"https://www.youtube.com/?listType=user_uploads&list=shemmati10yt",
+                //playlistLink:"https://m.youtube.com/channel/UCPwt-gLXAMMVVne6TFyCDFA/playlists",
                 
                 defaultTab:"Playlists",         //Uploads|Playlists|Featured
                 videoDisplayMode:"popup",       //popup|link|inline
@@ -74,7 +75,8 @@ if (pagename() === "CHANNEL 2"){
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
                 	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
                 channelLink:"https://www.youtube.com/channel/UC94rkNhixyVA2N_UYTQyVeg",
-                playlistLink:"https://www.youtube.com/channel/UC94rkNhixyVA2N_UYTQyVeg/playlists",
+	  	playlistLink:"https://www.youtube.com/?listType=user_uploads&list=shemmati10yt",
+                //playlistLink:"https://www.youtube.com/channel/UC94rkNhixyVA2N_UYTQyVeg/playlists",
                 
                 defaultTab:"Playlists",         //Uploads|Playlists|Featured
                 videoDisplayMode:"popup",       //popup|link|inline
