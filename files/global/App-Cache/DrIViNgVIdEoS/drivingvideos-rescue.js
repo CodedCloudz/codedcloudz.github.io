@@ -44,8 +44,8 @@ if (pagename() === "CHANNEL 1"){
   $(".youmax").youmax({
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
                 	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                channelLink:"https://www.youtube.com/user/shemmati10yt",
-                playlistLink:"https://www.youtube.com/?listType=user_uploads&list=shemmati10yt",
+                channelLink:"https://m.youtube.com/channel/UCPwt-gLXAMMVVne6TFyCDFA",
+                playlistLink:"https://m.youtube.com/channel/UCPwt-gLXAMMVVne6TFyCDFA/playlists",
                 
                 defaultTab:"Uploads",         //Uploads|Playlists|Featured
                 videoDisplayMode:"popup",       //popup|link|inline
@@ -73,8 +73,8 @@ if (pagename() === "CHANNEL 2"){
   $(".youmax").youmax({
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
                 	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                channelLink:"https://www.youtube.com/user/shemmati10yt",
-                playlistLink:"https://www.youtube.com/?listType=user_uploads&list=shemmati10yt",
+                channelLink:"https://www.youtube.com/user/purpledriving",
+                playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
                 
                 defaultTab:"Uploads",         //Uploads|Playlists|Featured
                 videoDisplayMode:"popup",       //popup|link|inline
