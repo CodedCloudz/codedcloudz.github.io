@@ -59,7 +59,7 @@ $(".youmax").youmax({
                 loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
                 previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
                 nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
-                loadingText             :"loading...",
+                loadingText             :"Please Wait.. <br> Videos are loading..",
                 allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
 
                 hideHeader              :false,
