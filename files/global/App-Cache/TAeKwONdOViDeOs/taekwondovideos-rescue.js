@@ -104,7 +104,7 @@ if (pagename() === "CHANNEL 3"){
   $(".youmax").youmax({
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
                 	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                channelLink:"https://www.youtube.com/user/purpledriving",
+                channelLink:"https://www.youtube.com/user/ITFmovies/videos",
                 playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
                 
                 defaultTab:"Playlists",         //Uploads|Playlists|Featured
