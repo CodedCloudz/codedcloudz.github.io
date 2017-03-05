@@ -107,7 +107,7 @@ if (pagename() === "CHANNEL 3"){
                 channelLink:"https://www.youtube.com/user/ITFmovies/videos",
                 playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
                 
-                defaultTab:"Playlists",         //Uploads|Playlists|Featured
+                defaultTab:"Uploads",         //Uploads|Playlists|Featured
                 videoDisplayMode:"popup",       //popup|link|inline
 
                 maxResults:"20",
