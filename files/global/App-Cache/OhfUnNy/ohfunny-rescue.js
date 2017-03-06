@@ -74,7 +74,7 @@ if (pagename() === "CHANNEL 2"){
   $(".youmax").youmax({
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
                 	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                channelLink:"https://www.youtube.com/user/just4naija21",
+                channelLink:"https://www.youtube.com/channel/UCgSzaNue2wBYth36FdJrNjg",
 	  	playlistLink:"https://www.youtube.com/?listType=user_uploads&list=shemmati10yt",
                 //playlistLink:"https://www.youtube.com/channel/UC94rkNhixyVA2N_UYTQyVeg/playlists",
                 
@@ -195,7 +195,7 @@ if (pagename() === "CHANNEL 6"){
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
                 	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
                 //channelLink:"https://www.youtube.com/channel/UCcGJ1mFx0qN2nNVKWcKC45Q",
-                channelLink:"https://www.youtube.com/channel/UCUxMKrXEeSi8N0bqbjrLF_w"
+                channelLink:"https://www.youtube.com/channel/UCUxMKrXEeSi8N0bqbjrLF_w",
 	  	playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
                 
                 defaultTab:"Uploads",         //Uploads|Playlists|Featured
