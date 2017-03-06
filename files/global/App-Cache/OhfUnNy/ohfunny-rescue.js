@@ -195,7 +195,7 @@ if (pagename() === "CHANNEL 6"){
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
                 	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
                 //channelLink:"https://www.youtube.com/channel/UCcGJ1mFx0qN2nNVKWcKC45Q",
-                channelLink:"https://www.youtube.com/user/ChaplinArchive",
+                channelLink:"https://www.youtube.com/channel/UC3Z6-WC-9Ei9IEBUTEBl4gQ",
 	  	playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
                 
                 defaultTab:"Uploads",         //Uploads|Playlists|Featured
