@@ -623,7 +623,7 @@ if (pagename() === "CHANNEL 19"){
                 
 				//channelLink:"https://www.youtube.com/channel/UCcGJ1mFx0qN2nNVKWcKC45Q",
                 channelLink:"https://www.youtube.com/user/ReMix69LK",
-				playlistLink:"https://www.youtube.com/user/BreakingTrail",
+				playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
                 
                 defaultTab:"Uploads",         //Uploads|Playlists|Featured
                 videoDisplayMode:"popup",       //popup|link|inline
