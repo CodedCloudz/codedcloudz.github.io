@@ -622,7 +622,7 @@ if (pagename() === "CHANNEL 19"){
                 //apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
                 
 				//channelLink:"https://www.youtube.com/channel/UCcGJ1mFx0qN2nNVKWcKC45Q",
-                channelLink:"https://www.youtube.com/channel/UC3Z6-WC-9Ei9IEBUTEBl4gQ",
+                channelLink:"https://www.youtube.com/user/ReMix69LK",
 				playlistLink:"https://www.youtube.com/user/BreakingTrail",
                 
                 defaultTab:"Uploads",         //Uploads|Playlists|Featured
@@ -654,7 +654,7 @@ if (pagename() === "CHANNEL 20"){
                 //apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
                 
 				//channelLink:"https://www.youtube.com/channel/UCcGJ1mFx0qN2nNVKWcKC45Q",
-                channelLink:"https://www.youtube.com/user/ReMix69LK",
+                channelLink:"https://www.youtube.com/user/BreakingTrail",
 				playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
                 
                 defaultTab:"Uploads",         //Uploads|Playlists|Featured
