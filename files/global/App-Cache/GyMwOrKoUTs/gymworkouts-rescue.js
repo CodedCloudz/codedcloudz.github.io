@@ -47,7 +47,7 @@ if (pagename() === "CHANNEL 1"){
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
                 	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
 					
-                channelLink:"https://www.youtube.com/channel/UC-FD4KKrk5eURR_0r6ac58w",
+                channelLink:"https://www.youtube.com/user/bodybuildingcomvideo/videos",
 				playlistLink:"https://www.youtube.com/?listType=user_uploads&list=shemmati10yt",
                 //playlistLink:"https://m.youtube.com/channel/UCPwt-gLXAMMVVne6TFyCDFA/playlists",
                 
@@ -111,7 +111,7 @@ if (pagename() === "CHANNEL 3"){
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
                 	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
 					
-                channelLink:"https://www.youtube.com/user/XFitDaily/videos",
+                channelLink:"https://www.youtube.com/channel/UCU3juAek2IQClkV7eUw-a2w/videos",
                 playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
                 
                 defaultTab:"Uploads",         //Uploads|Playlists|Featured
@@ -142,7 +142,7 @@ if (pagename() === "CHANNEL 4"){
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
                 	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
 					
-                channelLink:"https://www.youtube.com/user/MarkAngelComedy",
+                channelLink:"https://www.youtube.com/user/ZuzkaLight/videos",
                 playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
                 
                 defaultTab:"Uploads",         //Uploads|Playlists|Featured
@@ -173,7 +173,7 @@ if (pagename() === "CHANNEL 5"){
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
                 //apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
 				
-                channelLink:"https://www.youtube.com/user/boyskasaghana/videos",
+                channelLink:"https://www.youtube.com/channel/UC5riOCur-oSuUIFn8oyLH1A/videos",
                 playlistLink:"https://www.youtube.com/watch?v=L7jua8p7su0&list=PLe9kjFJ6bWHhZyRXzwK3XPBqXPSuJSyUp",
                 
                 defaultTab:"Uploads",         //Uploads|Playlists|Featured
@@ -205,7 +205,7 @@ if (pagename() === "CHANNEL 6"){
                 //apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
                 
 				//channelLink:"https://www.youtube.com/channel/UCcGJ1mFx0qN2nNVKWcKC45Q",
-                channelLink:"https://www.youtube.com/channel/UCI4zH_MQz6NisQQaKj7TasQ",
+                channelLink:"https://www.youtube.com/channel/UCjiEkwIdaueJLz2y327pQtw/videos",
 				playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
                 
                 defaultTab:"Uploads",         //Uploads|Playlists|Featured
@@ -254,5 +254,6 @@ Extra
   https://www.youtube.com/user/scooby1961/videos
   https://www.youtube.com/user/charliejames1975/videos
   https://www.youtube.com/user/FitnessBlender/videos
+  https://www.youtube.com/user/iFitLive/videos
 */
 	
