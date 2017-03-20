@@ -41,7 +41,7 @@ if (pagetitle === "GH STARS"){
 };
 
 
-//Funny Clips
+//CHANNEL 1
 if (pagename() === "CHANNEL 1"){
   $(".youmax").youmax({
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
@@ -73,7 +73,7 @@ if (pagename() === "CHANNEL 1"){
 	}
 
 
-//Fails
+//CHANNEL 2
 if (pagename() === "CHANNEL 2"){
   $(".youmax").youmax({
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
@@ -105,7 +105,7 @@ if (pagename() === "CHANNEL 2"){
 	}
 
 
-//Babies
+//CHANNEL 3
 if (pagename() === "CHANNEL 3"){
   $(".youmax").youmax({
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
@@ -136,7 +136,7 @@ if (pagename() === "CHANNEL 3"){
 	}
 
 
-//EMMANUELLA (NIGERIA)
+//CHANNEL 4
 if (pagename() === "CHANNEL 4"){
   $(".youmax").youmax({
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
@@ -167,7 +167,7 @@ if (pagename() === "CHANNEL 4"){
 	}
 
 
-//KALLY BOS (GHANA)
+//CHANNEL 5
 if (pagename() === "CHANNEL 5"){
   $(".youmax").youmax({
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
@@ -198,7 +198,7 @@ if (pagename() === "CHANNEL 5"){
 	}
 
 
-//Pets
+//CHANNEL 6
 if (pagename() === "CHANNEL 6"){
   $(".youmax").youmax({
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
@@ -206,454 +206,6 @@ if (pagename() === "CHANNEL 6"){
                 
 				//channelLink:"https://www.youtube.com/channel/UCcGJ1mFx0qN2nNVKWcKC45Q",
                 channelLink:"https://www.youtube.com/channel/UCI4zH_MQz6NisQQaKj7TasQ",
-				playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
-                
-                defaultTab:"Uploads",         //Uploads|Playlists|Featured
-                videoDisplayMode:"popup",       //popup|link|inline
-
-                maxResults:"20",
-                autoPlay:true,
-                displayFirstVideoOnLoad:true,       //for inline video display mode only                
-
-                responsiveBreakpoints   :[600,900,2000,2500],
-
-                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
-                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
-                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
-                loadingText             :"Please Wait.. <br> Videos are loading..",
-                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
-
-                hideHeader              :false,
-                hideTabs                :false,
-                hideLoadingMechanism    :false,
-            });
-	}
-
-
-//WhatsApp
-if (pagename() === "CHANNEL 7"){
-  $(".youmax").youmax({
-                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
-                //apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                
-				//channelLink:"https://www.youtube.com/channel/UCcGJ1mFx0qN2nNVKWcKC45Q",
-                channelLink:"https://www.youtube.com/channel/UClPjfqyU9vrAxb2K_CUPTeA",
-				playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
-                
-                defaultTab:"Uploads",         //Uploads|Playlists|Featured
-                videoDisplayMode:"popup",       //popup|link|inline
-
-                maxResults:"20",
-                autoPlay:true,
-                displayFirstVideoOnLoad:true,       //for inline video display mode only                
-
-                responsiveBreakpoints   :[600,900,2000,2500],
-
-                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
-                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
-                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
-                loadingText             :"Please Wait.. <br> Videos are loading..",
-                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
-
-                hideHeader              :false,
-                hideTabs                :false,
-                hideLoadingMechanism    :false,
-            });
-	}
-
-
-//Sports
-if (pagename() === "CHANNEL 8"){
-  $(".youmax").youmax({
-                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
-                //apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                
-				//channelLink:"https://www.youtube.com/channel/UCcGJ1mFx0qN2nNVKWcKC45Q",
-                channelLink:"https://www.youtube.com/channel/UCjXt2Jma9pQSw2ZwalG6qXQ",
-				playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
-                
-                defaultTab:"Uploads",         //Uploads|Playlists|Featured
-                videoDisplayMode:"popup",       //popup|link|inline
-
-                maxResults:"20",
-                autoPlay:true,
-                displayFirstVideoOnLoad:true,       //for inline video display mode only                
-
-                responsiveBreakpoints   :[600,900,2000,2500],
-
-                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
-                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
-                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
-                loadingText             :"Please Wait.. <br> Videos are loading..",
-                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
-
-                hideHeader              :false,
-                hideTabs                :false,
-                hideLoadingMechanism    :false,
-            });
-	}
-
-
-//Cartoons
-if (pagename() === "CHANNEL 9"){
-  $(".youmax").youmax({
-                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
-                //apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                
-				//channelLink:"https://www.youtube.com/channel/UCcGJ1mFx0qN2nNVKWcKC45Q",
-                channelLink:"https://www.youtube.com/channel/UCi0vvYE1OQoG25FCSoPGTRw",
-				playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
-                
-                defaultTab:"Uploads",         //Uploads|Playlists|Featured
-                videoDisplayMode:"popup",       //popup|link|inline
-
-                maxResults:"20",
-                autoPlay:true,
-                displayFirstVideoOnLoad:true,       //for inline video display mode only                
-
-                responsiveBreakpoints   :[600,900,2000,2500],
-
-                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
-                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
-                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
-                loadingText             :"Please Wait.. <br> Videos are loading..",
-                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
-
-                hideHeader              :false,
-                hideTabs                :false,
-                hideLoadingMechanism    :false,
-            });
-	}
-
-
-//Wild Life
-if (pagename() === "CHANNEL 10"){
-  $(".youmax").youmax({
-                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
-                //apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                
-				//channelLink:"https://www.youtube.com/channel/UCcGJ1mFx0qN2nNVKWcKC45Q",
-                channelLink:"https://www.youtube.com/user/Animatedcams",
-				playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
-                
-                defaultTab:"Uploads",         //Uploads|Playlists|Featured
-                videoDisplayMode:"popup",       //popup|link|inline
-
-                maxResults:"20",
-                autoPlay:true,
-                displayFirstVideoOnLoad:true,       //for inline video display mode only                
-
-                responsiveBreakpoints   :[600,900,2000,2500],
-
-                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
-                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
-                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
-                loadingText             :"Please Wait.. <br> Videos are loading..",
-                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
-
-                hideHeader              :false,
-                hideTabs                :false,
-                hideLoadingMechanism    :false,
-            });
-	}
-
-
-//Pranks
-if (pagename() === "CHANNEL 11"){
-  $(".youmax").youmax({
-                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
-                //apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                
-				//channelLink:"https://www.youtube.com/channel/UCcGJ1mFx0qN2nNVKWcKC45Q",
-                channelLink:"https://www.youtube.com/channel/UCcf0WYfeIkecTLQ_GzkBu1w",
-				playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
-                
-                defaultTab:"Uploads",         //Uploads|Playlists|Featured
-                videoDisplayMode:"popup",       //popup|link|inline
-
-                maxResults:"20",
-                autoPlay:true,
-                displayFirstVideoOnLoad:true,       //for inline video display mode only                
-
-                responsiveBreakpoints   :[600,900,2000,2500],
-
-                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
-                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
-                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
-                loadingText             :"Please Wait.. <br> Videos are loading..",
-                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
-
-                hideHeader              :false,
-                hideTabs                :false,
-                hideLoadingMechanism    :false,
-            });
-	}
-
-
-//Instant Karma
-if (pagename() === "CHANNEL 12"){
-  $(".youmax").youmax({
-                apiKey:"https://www.youtube.com/channel/UCv-LyelbTlUAOJRFhJV7Y1Q",
-                //apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                
-				//channelLink:"https://www.youtube.com/channel/UCcGJ1mFx0qN2nNVKWcKC45Q",
-                channelLink:"https://www.youtube.com/channel/UC3Z6-WC-9Ei9IEBUTEBl4gQ",
-				playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
-                
-                defaultTab:"Uploads",         //Uploads|Playlists|Featured
-                videoDisplayMode:"popup",       //popup|link|inline
-
-                maxResults:"20",
-                autoPlay:true,
-                displayFirstVideoOnLoad:true,       //for inline video display mode only                
-
-                responsiveBreakpoints   :[600,900,2000,2500],
-
-                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
-                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
-                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
-                loadingText             :"Please Wait.. <br> Videos are loading..",
-                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
-
-                hideHeader              :false,
-                hideTabs                :false,
-                hideLoadingMechanism    :false,
-            });
-	}
-
-
-//Awesome People
-if (pagename() === "CHANNEL 13"){
-  $(".youmax").youmax({
-                apiKey:"https://www.youtube.com/user/Hadoukentheband",
-                //apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                
-				//channelLink:"https://www.youtube.com/channel/UCcGJ1mFx0qN2nNVKWcKC45Q",
-                channelLink:"https://www.youtube.com/channel/UC3Z6-WC-9Ei9IEBUTEBl4gQ",
-				playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
-                
-                defaultTab:"Uploads",         //Uploads|Playlists|Featured
-                videoDisplayMode:"popup",       //popup|link|inline
-
-                maxResults:"20",
-                autoPlay:true,
-                displayFirstVideoOnLoad:true,       //for inline video display mode only                
-
-                responsiveBreakpoints   :[600,900,2000,2500],
-
-                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
-                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
-                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
-                loadingText             :"Please Wait.. <br> Videos are loading..",
-                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
-
-                hideHeader              :false,
-                hideTabs                :false,
-                hideLoadingMechanism    :false,
-            });
-	}
-
-
-//LIL WIN (GHANA)
-if (pagename() === "CHANNEL 14"){
-  $(".youmax").youmax({
-                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
-                //apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                
-				//channelLink:"https://www.youtube.com/channel/UCcGJ1mFx0qN2nNVKWcKC45Q",
-                channelLink:"https://www.youtube.com/channel/UCEVDWC7RSk1LW7WkASmqeVA",
-				playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
-                
-                defaultTab:"Uploads",         //Uploads|Playlists|Featured
-                videoDisplayMode:"popup",       //popup|link|inline
-
-                maxResults:"20",
-                autoPlay:true,
-                displayFirstVideoOnLoad:true,       //for inline video display mode only                
-
-                responsiveBreakpoints   :[600,900,2000,2500],
-
-                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
-                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
-                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
-                loadingText             :"Please Wait.. <br> Videos are loading..",
-                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
-
-                hideHeader              :false,
-                hideTabs                :false,
-                hideLoadingMechanism    :false,
-            });
-	}
-
-
-//Careless
-if (pagename() === "CHANNEL 15"){
-  $(".youmax").youmax({
-                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
-                //apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                
-				//channelLink:"https://www.youtube.com/channel/UCcGJ1mFx0qN2nNVKWcKC45Q",
-                channelLink:"https://www.youtube.com/channel/UCE6_fESnh9IOJDT7NzTfK7Q",
-				playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
-                
-                defaultTab:"Uploads",         //Uploads|Playlists|Featured
-                videoDisplayMode:"popup",       //popup|link|inline
-
-                maxResults:"20",
-                autoPlay:true,
-                displayFirstVideoOnLoad:true,       //for inline video display mode only                
-
-                responsiveBreakpoints   :[600,900,2000,2500],
-
-                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
-                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
-                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
-                loadingText             :"Please Wait.. <br> Videos are loading..",
-                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
-
-                hideHeader              :false,
-                hideTabs                :false,
-                hideLoadingMechanism    :false,
-            });
-	}
-
-
-//Comedy
-if (pagename() === "CHANNEL 16"){
-  $(".youmax").youmax({
-                apiKey:"https://www.youtube.com/user/comedycentral",
-                //apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                
-				//channelLink:"https://www.youtube.com/channel/UCcGJ1mFx0qN2nNVKWcKC45Q",
-                channelLink:"https://www.youtube.com/channel/UC3Z6-WC-9Ei9IEBUTEBl4gQ",
-				playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
-                
-                defaultTab:"Uploads",         //Uploads|Playlists|Featured
-                videoDisplayMode:"popup",       //popup|link|inline
-
-                maxResults:"20",
-                autoPlay:true,
-                displayFirstVideoOnLoad:true,       //for inline video display mode only                
-
-                responsiveBreakpoints   :[600,900,2000,2500],
-
-                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
-                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
-                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
-                loadingText             :"Please Wait.. <br> Videos are loading..",
-                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
-
-                hideHeader              :false,
-                hideTabs                :false,
-                hideLoadingMechanism    :false,
-            });
-	}
-
-
-//Adverts	
-if (pagename() === "CHANNEL 17"){
-  $(".youmax").youmax({
-                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
-                //apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                
-				//channelLink:"https://www.youtube.com/channel/UCcGJ1mFx0qN2nNVKWcKC45Q",
-                channelLink:"https://www.youtube.com/channel/UCc34puv2B8dTn25POI2zFgw",
-				playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
-                
-                defaultTab:"Uploads",         //Uploads|Playlists|Featured
-                videoDisplayMode:"popup",       //popup|link|inline
-
-                maxResults:"20",
-                autoPlay:true,
-                displayFirstVideoOnLoad:true,       //for inline video display mode only                
-
-                responsiveBreakpoints   :[600,900,2000,2500],
-
-                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
-                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
-                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
-                loadingText             :"Please Wait.. <br> Videos are loading..",
-                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
-
-                hideHeader              :false,
-                hideTabs                :false,
-                hideLoadingMechanism    :false,
-            });
-	}
-
-
-//Games
-if (pagename() === "CHANNEL 18"){
-  $(".youmax").youmax({
-                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
-                //apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                
-				//channelLink:"https://www.youtube.com/channel/UCcGJ1mFx0qN2nNVKWcKC45Q",
-                channelLink:"https://www.youtube.com/channel/UCOpNcN46UbXVtpKMrmU4Abg",
-				playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
-                
-                defaultTab:"Uploads",         //Uploads|Playlists|Featured
-                videoDisplayMode:"popup",       //popup|link|inline
-
-                maxResults:"20",
-                autoPlay:true,
-                displayFirstVideoOnLoad:true,       //for inline video display mode only                
-
-                responsiveBreakpoints   :[600,900,2000,2500],
-
-                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
-                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
-                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
-                loadingText             :"Please Wait.. <br> Videos are loading..",
-                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
-
-                hideHeader              :false,
-                hideTabs                :false,
-                hideLoadingMechanism    :false,
-            });
-	}
-
-
-//Animals	
-if (pagename() === "CHANNEL 19"){
-  $(".youmax").youmax({
-                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
-                //apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                
-				//channelLink:"https://www.youtube.com/channel/UCcGJ1mFx0qN2nNVKWcKC45Q",
-                channelLink:"https://www.youtube.com/user/ReMix69LK",
-				playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
-                
-                defaultTab:"Uploads",         //Uploads|Playlists|Featured
-                videoDisplayMode:"popup",       //popup|link|inline
-
-                maxResults:"20",
-                autoPlay:true,
-                displayFirstVideoOnLoad:true,       //for inline video display mode only                
-
-                responsiveBreakpoints   :[600,900,2000,2500],
-
-                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
-                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
-                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
-                loadingText             :"Please Wait.. <br> Videos are loading..",
-                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
-
-                hideHeader              :false,
-                hideTabs                :false,
-                hideLoadingMechanism    :false,
-            });
-	}
-
-
-//Zoology
-if (pagename() === "CHANNEL 20"){
-  $(".youmax").youmax({
-                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
-                //apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                
-				//channelLink:"https://www.youtube.com/channel/UCcGJ1mFx0qN2nNVKWcKC45Q",
-                channelLink:"https://www.youtube.com/user/BreakingTrail",
 				playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
                 
                 defaultTab:"Uploads",         //Uploads|Playlists|Featured
