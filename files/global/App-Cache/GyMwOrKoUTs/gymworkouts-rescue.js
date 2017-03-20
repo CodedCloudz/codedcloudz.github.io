@@ -231,20 +231,21 @@ if (pagename() === "CHANNEL 6"){
 	
 /*
 1.
-
+https://www.youtube.com/user/bodybuildingcomvideo/videos
 2.
-
+https://www.youtube.com/user/charliejames1975/videos
 3.
 https://www.youtube.com/channel/UCU3juAek2IQClkV7eUw-a2w/videos
 4.
-https://www.youtube.com/user/charliejames1975/videos
-5.
-
-6.
 https://www.youtube.com/user/ZuzkaLight/videos
+5.
+https://www.youtube.com/channel/UC5riOCur-oSuUIFn8oyLH1A/videos
+6.
+https://www.youtube.com/channel/UCjiEkwIdaueJLz2y327pQtw/videos
 
 Extra
 -----
+  https://www.youtube.com/channel/UC5RyvJU2X3AcBaCtpPUmgxw/videos
   https://www.youtube.com/user/popsugartvfit/videos
   https://www.youtube.com/user/womensworkoutchannel/videos
   https://www.youtube.com/user/ZuzkaLight/videos
