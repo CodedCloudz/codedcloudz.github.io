@@ -79,7 +79,7 @@ if (pagename() === "CHANNEL 2"){
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
                 	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
 					
-                channelLink:"https://www.youtube.com/channel/UC2SsAVII74KAz0m8SXrmcvQ",
+                channelLink:"https://www.youtube.com/user/charliejames1975/videos",
 				playlistLink:"https://www.youtube.com/?listType=user_uploads&list=shemmati10yt",
                 //playlistLink:"https://www.youtube.com/channel/UC94rkNhixyVA2N_UYTQyVeg/playlists",
                 
@@ -111,7 +111,7 @@ if (pagename() === "CHANNEL 3"){
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
                 	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
 					
-                channelLink:"https://www.youtube.com/user/BabyClipsDaily",
+                channelLink:"https://www.youtube.com/user/XFitDaily/videos",
                 playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
                 
                 defaultTab:"Uploads",         //Uploads|Playlists|Featured
@@ -230,13 +230,28 @@ if (pagename() === "CHANNEL 6"){
 	}
 	
 /*
+1.
+
+2.
+
+3.
+https://www.youtube.com/channel/UCU3juAek2IQClkV7eUw-a2w/videos
+4.
+https://www.youtube.com/user/charliejames1975/videos
+5.
+
+6.
+https://www.youtube.com/user/ZuzkaLight/videos
+
+Extra
+-----
   https://www.youtube.com/user/popsugartvfit/videos
   https://www.youtube.com/user/womensworkoutchannel/videos
   https://www.youtube.com/user/ZuzkaLight/videos
   https://www.youtube.com/user/XFitDaily/videos
   https://www.youtube.com/user/BeFit/videos
   https://www.youtube.com/user/scooby1961/videos
-	https://www.youtube.com/user/charliejames1975/videos
+  https://www.youtube.com/user/charliejames1975/videos
   https://www.youtube.com/user/FitnessBlender/videos
 */
 	
