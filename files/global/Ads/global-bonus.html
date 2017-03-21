@@ -13,6 +13,11 @@
 <title>Coded Ads</title>
 
 <script>
+function pagetitle (){
+	 var pgtitle = document.getElementsByTagName("TITLE")[0].text;
+	 return pgtitle;
+ }
+	
 if (pagetitle () === "GYM WORKOUTS" || pagetitle () === "CAR DRIVING"){
 	 window.location.href = 'http://tiny.cc/men-at-work';
 }
