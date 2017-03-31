@@ -57,6 +57,36 @@ if (pagename() === "GALLERY"){
       });	
 	};
 
-if (pagename() === "METHOD TWO"){ 
+
+if (pagename() === "CHANNEL 1"){
+  $(".youmax").youmax({
+                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
+                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
+                //channelLink:"https://www.youtube.com/channel/UCcGJ1mFx0qN2nNVKWcKC45Q",
+                channelLink:"https://www.youtube.com/user/karmen2260",
+	            	playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
+                
+                defaultTab:"Uploads",         //Uploads|Playlists|Featured
+                videoDisplayMode:"popup",       //popup|link|inline
+
+                maxResults:"20",
+                autoPlay:true,
+                displayFirstVideoOnLoad:true,       //for inline video display mode only                
+
+                responsiveBreakpoints   :[600,900,2000,2500],
+
+                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
+                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
+                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
+                loadingText             :"Please Wait.. <br> Videos are loading..",
+                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
+
+                hideHeader              :false,
+                hideTabs                :false,
+                hideLoadingMechanism    :false,
+            });
+	}
+
+if (pagename() === "METHOD 1" || pagename() === "METHOD 2" || pagename() === "METHOD 3" || pagename() === "METHOD 4" || pagename() === "METHOD 5" || pagename() === "METHOD 6" || pagename() === "METHOD 7"){ 
    $(".videoerror").css("display","none");
 	};
