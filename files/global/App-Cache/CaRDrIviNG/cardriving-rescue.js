@@ -59,3 +59,5 @@ if (pagename() === "GALLERY"){
 		thumbnailHoverEffect:'borderLighter,imageScaleIn80'
       });
 	};
+
+alert("Update in Progress..");
