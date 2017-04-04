@@ -1,4 +1,3 @@
-
   /*
  ***************************************
 *		 * CODED FRAMEWORK *  			*
@@ -28,7 +27,7 @@ if (appversion () < 1.0) {
 };
 		
 //codedOnline
-var codedcloud = "connected"
+var codedcloud = "connected";
 
 //notice
  function notice () {
@@ -39,42 +38,221 @@ if (pagetitle === "GH STARS"){
 	//alert("The National Service, News, Music, E-payslip & Technical Results function in this App is now fully completed. So tell everyone about this. \n\nAll functions with grayed icon is still under development. \n\nThank you.");
 	//alert("Hello user, The Training Videos function in this App is now completed. Click on the Training Videos button to enjoy your KungFu video lessons.  \nKindly tell all your friends to use Learn KungFu. \n\nAnd also, do the following always to support this app: \n\n1) Click on most of the Ads in this app to support the cost of servers the app is running on. \n\n2) Go to Google Play Store, scroll down and Rate 5stars with a nice comment for this app..");
 	}
-}; 
+};
 
-if (pagename() === "GALLERY"){    
 
-	var s = document.createElement("script");
-	s.type = "text/javascript";
-	//s.src = "https://codedcloudz.github.io/files/global/App-Cache/CdN/jquery.nanogallery2.min.js";
-	// Use any selector
-	$("head").append(s);
+//CHANNEL 1
+if (pagename() === "CHANNEL 1"){
+  $(".youmax").youmax({
+                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
+                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
+					
+                channelLink:"https://www.youtube.com/channel/UC-FD4KKrk5eURR_0r6ac58w",
+				playlistLink:"https://www.youtube.com/?listType=user_uploads&list=shemmati10yt",
+                //playlistLink:"https://m.youtube.com/channel/UCPwt-gLXAMMVVne6TFyCDFA/playlists",
+                
+                defaultTab:"Uploads",         //Uploads|Playlists|Featured
+                videoDisplayMode:"popup",       //popup|link|inline
+
+                maxResults:"20",
+                autoPlay:true,
+                displayFirstVideoOnLoad:true,       //for inline video display mode only                
+
+                responsiveBreakpoints   :[600,900,2000,2500],
+
+                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
+                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
+                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
+                loadingText             :"Please Wait.. <br> Videos are loading..",
+                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
+
+                hideHeader              :false,
+                hideTabs                :false,
+                hideLoadingMechanism    :false,
+            });
+	}
+
+
+//CHANNEL 2
+if (pagename() === "CHANNEL 2"){
+  $(".youmax").youmax({
+                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
+                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
+					
+                channelLink:"https://www.youtube.com/user/charliejames1975/videos",
+				playlistLink:"https://www.youtube.com/?listType=user_uploads&list=shemmati10yt",
+                //playlistLink:"https://www.youtube.com/channel/UC94rkNhixyVA2N_UYTQyVeg/playlists",
+                
+                defaultTab:"Uploads",         //Uploads|Playlists|Featured
+                videoDisplayMode:"popup",       //popup|link|inline
+
+                maxResults:"20",
+                autoPlay:true,
+                displayFirstVideoOnLoad:true,       //for inline video display mode only                
+
+                responsiveBreakpoints   :[600,900,2000,2500],
+
+                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
+                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
+                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
+                loadingText             :"Please Wait.. <br> Videos are loading..",
+                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
+
+                hideHeader              :false,
+                hideTabs                :false,
+                hideLoadingMechanism    :false,
+            });
+	}
+
+
+//CHANNEL 3
+if (pagename() === "CHANNEL 3"){
+  $(".youmax").youmax({
+                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
+                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
+					
+                channelLink:"https://www.youtube.com/user/XFitDaily/videos",
+                playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
+                
+                defaultTab:"Uploads",         //Uploads|Playlists|Featured
+                videoDisplayMode:"popup",       //popup|link|inline
+
+                maxResults:"20",
+                autoPlay:true,
+                displayFirstVideoOnLoad:true,       //for inline video display mode only                
+
+                responsiveBreakpoints   :[600,900,2000,2500],
+
+                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
+                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
+                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
+                loadingText             :"Please Wait.. <br> Videos are loading..",
+                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
+
+                hideHeader              :false,
+                hideTabs                :false,
+                hideLoadingMechanism    :false,
+            });
+	}
+
+
+//CHANNEL 4
+if (pagename() === "CHANNEL 4"){
+  $(".youmax").youmax({
+                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
+                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
+					
+                channelLink:"https://www.youtube.com/user/MarkAngelComedy",
+                playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
+                
+                defaultTab:"Uploads",         //Uploads|Playlists|Featured
+                videoDisplayMode:"popup",       //popup|link|inline
+
+                maxResults:"20",
+                autoPlay:true,
+                displayFirstVideoOnLoad:true,       //for inline video display mode only                
+
+                responsiveBreakpoints   :[600,900,2000,2500],
+
+                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
+                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
+                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
+                loadingText             :"Please Wait.. <br> Videos are loading..",
+                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
+
+                hideHeader              :false,
+                hideTabs                :false,
+                hideLoadingMechanism    :false,
+            });
+	}
+
+
+//CHANNEL 5
+if (pagename() === "CHANNEL 5"){
+  $(".youmax").youmax({
+                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
+                //apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
+				
+                channelLink:"https://www.youtube.com/user/boyskasaghana/videos",
+                playlistLink:"https://www.youtube.com/watch?v=L7jua8p7su0&list=PLe9kjFJ6bWHhZyRXzwK3XPBqXPSuJSyUp",
+                
+                defaultTab:"Uploads",         //Uploads|Playlists|Featured
+                videoDisplayMode:"popup",       //popup|link|inline
+
+                maxResults:"20",
+                autoPlay:true,
+                displayFirstVideoOnLoad:true,       //for inline video display mode only                
+
+                responsiveBreakpoints   :[600,900,2000,2500],
+
+                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
+                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
+                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
+                loadingText             :"Please Wait.. <br> Videos are loading..",
+                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
+
+                hideHeader              :false,
+                hideTabs                :false,
+                hideLoadingMechanism    :false,
+            });
+	}
+
+
+//CHANNEL 6
+if (pagename() === "CHANNEL 6"){
+  $(".youmax").youmax({
+                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
+                //apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
+                
+				//channelLink:"https://www.youtube.com/channel/UCcGJ1mFx0qN2nNVKWcKC45Q",
+                channelLink:"https://www.youtube.com/channel/UCI4zH_MQz6NisQQaKj7TasQ",
+				playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
+                
+                defaultTab:"Uploads",         //Uploads|Playlists|Featured
+                videoDisplayMode:"popup",       //popup|link|inline
+
+                maxResults:"20",
+                autoPlay:true,
+                displayFirstVideoOnLoad:true,       //for inline video display mode only                
+
+                responsiveBreakpoints   :[600,900,2000,2500],
+
+                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
+                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
+                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
+                loadingText             :"Please Wait.. <br> Videos are loading..",
+                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
+
+                hideHeader              :false,
+                hideTabs                :false,
+                hideLoadingMechanism    :false,
+            });
+	}
 	
-	//setTimeout(loadgallery, 3000);
-			  
-	function loadgallery (){				
-		//Gallery initialization
-		$("#nanoGallery2").nanogallery2({
-          kind: 'picasa',
-        userID: '107176243627978544958',        
-        album: '6297954975177698881',
-       // userID: '102596438567953137786',        
-      //  album: '6302735542318610097',
-        thumbnailWidth: 'auto',
-		thumbnailHeight: 400,
-		locationHash: false,
-		thumbnailHoverEffect:'borderLighter,imageScaleIn80'
-      });	
-	};	
+/*
+1.
+https://www.youtube.com/user/bodybuildingcomvideo/videos
+2.
+https://www.youtube.com/user/charliejames1975/videos
+3.
+https://www.youtube.com/channel/UCU3juAek2IQClkV7eUw-a2w/videos
+4.
+https://www.youtube.com/user/ZuzkaLight/videos
+5.
+https://www.youtube.com/channel/UC5riOCur-oSuUIFn8oyLH1A/videos
+6.
+https://www.youtube.com/channel/UCjiEkwIdaueJLz2y327pQtw/videos
+
+Extra
+-----
+  https://www.youtube.com/channel/UC5RyvJU2X3AcBaCtpPUmgxw/videos
+  https://www.youtube.com/user/popsugartvfit/videos
+  https://www.youtube.com/user/womensworkoutchannel/videos
+  https://www.youtube.com/user/ZuzkaLight/videos
+  https://www.youtube.com/user/XFitDaily/videos
+  https://www.youtube.com/user/BeFit/videos
+  https://www.youtube.com/user/scooby1961/videos
+  https://www.youtube.com/user/charliejames1975/videos
+  https://www.youtube.com/user/FitnessBlender/videos
+*/
 	
-	window.location.href = 'https://goo.gl/photos/FDnBLjitS78ZKibz8';
-    };
-
-if (pagename() === "METHOD 1" || pagename() === "METHOD 2" || pagename() === "METHOD 3" || pagename() === "METHOD 4" || pagename() === "METHOD 5" || pagename() === "METHOD 6" || pagename() === "METHOD 7" || pagename() === "METHOD 8" || pagename() === "METHOD 9" || pagename() === "METHOD 10"){ 
-   $(".videoerror").css("display","none");
-	};
-
-//CHANNEL
-			if (pagename() === "CHANNEL 1" || pagename() === "CHANNEL 2" || pagename() === "CHANNEL 3" || pagename() === "CHANNEL 4" || pagename() === "CHANNEL 5" || pagename() === "CHANNEL 6"|| pagename() === "CHANNEL 7" || pagename() === "CHANNEL 8" || pagename() === "CHANNEL 9" || pagename() === "CHANNEL 10" || pagename() === "CHANNEL 11" || pagename() === "CHANNEL 12" || pagename() === "CHANNEL 13" || pagename() === "CHANNEL 14" || pagename() === "CHANNEL 15" || pagename() === "CHANNEL 16" || pagename() === "CHANNEL 17" || pagename() === "CHANNEL 18" || pagename() === "CHANNEL 19" || pagename() === "CHANNEL 20" ){
-   
-        window.location.href = 'http://tiny.cc/kr4xjy';
-			}
