@@ -41,7 +41,7 @@ if (pagetitle === "GH STARS"){
 }; 
 
 
-if (pagename() === "DEFENSE STANCE"){ 
+if (pagename() === "GALLERY"){ 
    
 		
 		//Gallery initialization
