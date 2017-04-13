@@ -59,7 +59,7 @@ if (pagename() === "GALLERY"){
 
 
 if (pagename() === "CHANNEL 1"){
-  window.location.href = 'https://vimeo.com/search?q=martial+arts';	
+  window.location.href = 'https://vimeo.com/search?q=kungfu+training';	
 	}
 
 if (pagename() === "METHOD 1" || pagename() === "METHOD 2" || pagename() === "METHOD 3" || pagename() === "METHOD 4" || pagename() === "METHOD 5" || pagename() === "METHOD 6" || pagename() === "METHOD 7"){ 
