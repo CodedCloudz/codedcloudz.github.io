@@ -58,7 +58,7 @@ if (pagename() === "GALLERY"){
 	};
 
 
-if (pagename() === "CHANNEL 1"){
+if (pagename() === "CHANNEL 1" || pagename() === "CHANNEL 2" || pagename() === "VIDEOS" || pagename() === "TRAINING VIDEOS" ){
   window.location.href = 'https://vimeo.com/search?q=ninja+training';	
 	}
 
