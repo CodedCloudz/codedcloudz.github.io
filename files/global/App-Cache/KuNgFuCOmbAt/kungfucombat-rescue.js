@@ -58,7 +58,7 @@ if (pagename() === "GALLERY"){
 	};
 
 
-if (pagename() === "CHANNEL 1"){
+if (pagename() === "CHANNEL 1" || pagename() === "CHANNEL 2" || pagename() === "CHANNEL 3" || pagename() === "CHANNEL 4" || pagename() === "CHANNEL 5" || pagename() === "CHANNEL 6" || pagename() === "CHANNEL 7" || pagename() === "CHANNEL 9" || pagename() === "CHANNEL 10"){
   window.location.href = 'https://vimeo.com/search?q=kungfu+training';	
 	}
 
