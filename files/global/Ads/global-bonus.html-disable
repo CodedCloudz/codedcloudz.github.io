@@ -117,13 +117,61 @@ body,td,th {
 		<div class="slideshow-container" style="top: 0px !important;">
 			
 		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.martialarts" target="_self"><img src="images/martialarts.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.martialarts" target="_self"><img src="images/martialarts.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.martialarts" target="_self"><img src="images/martialarts.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+				
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.martialarts" target="_self"><img src="images/martialarts.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.martialarts" target="_self"><img src="images/martialarts.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.martialarts" target="_self"><img src="images/martialarts.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+				
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.kungfucombat" target="_self"><img src="images/kungfucombat.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.kungfucombat" target="_self"><img src="images/kungfucombat.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.kungfucombat" target="_self"><img src="images/kungfucombat.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+				
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.ninja3D" target="_self"><img src="images/ninja3D.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.ninja3D" target="_self"><img src="images/ninja3D.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.ninja3D" target="_self"><img src="images/ninja3D.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+	
+		  <div class="mySlides fade">
 			<p><a href="market://details?id=com.casteroapps.sixpacks" target="_self"><img src="images/sixpacks.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
 		  </div>
 
 		  <div class="mySlides fade">
 			<p><a href="market://details?id=com.casteroapps.sixpacks" target="_self"><img src="images/sixpacks.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
 		  </div>
-
+	
 		  <div class="mySlides fade">
 			<p><a href="market://details?id=com.casteroapps.sixpacks" target="_self"><img src="images/sixpacks.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
 		  </div>
