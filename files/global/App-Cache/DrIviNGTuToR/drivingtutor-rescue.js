@@ -46,3 +46,9 @@ if (pagename() === "GALLERY"){
 	window.location.href = 'http://www.hdcarwallpapers.com/';
 	//alert("Please this Activity has been permanently removed from Version 2.0");
 	};
+
+//CHANNEL
+if (pagename() === "CHANNEL 1" || pagename() === "CHANNEL 2" || pagename() === "CHANNEL 3" || pagename() === "CHANNEL 4" || pagename() === "CHANNEL 5" || pagename() === "CHANNEL 6"){
+   
+        window.location.href = 'http://vimeo.com/search?q=driving+school';
+	}
