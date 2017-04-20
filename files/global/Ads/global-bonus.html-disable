@@ -18,7 +18,7 @@ function pagetitle (){
 	 return pgtitle;
  }
 	
-if (pagetitle () === "GYM WORKOUTS" || pagetitle () === "CAR DRIVING"){
+if (pagetitle () === "GYM WORKOUTS" || pagetitle () === "CAR DRIVING" || pagetitle () === "DRIVING TUTOR"){
 	 window.location.href = 'http://tiny.cc/men-at-work';
 }
 </script>
