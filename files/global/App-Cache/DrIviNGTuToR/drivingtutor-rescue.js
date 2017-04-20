@@ -43,7 +43,7 @@ if (pagetitle === "GH STARS"){
 
 if (pagename() === "GALLERY"){ 
    
-	
+	window.location.href = 'https://www.google.com.gh/search?q=car+wallpapers&espv=2&biw=1300&bih=702&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwibtJrfgbTTAhWSYVAKHfWxAgAQsAQIHw#spf=1';
 	//alert("Please this Activity has been permanently removed from Version 2.0");
 		
 		//Gallery initialization
