@@ -45,17 +45,4 @@ if (pagename() === "GALLERY"){
    
 	window.location.href = 'https://www.google.com.gh/search?q=car+wallpapers&espv=2&biw=1300&bih=702&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwibtJrfgbTTAhWSYVAKHfWxAgAQsAQIHw#spf=1';
 	//alert("Please this Activity has been permanently removed from Version 2.0");
-		
-		//Gallery initialization
-		$("#nanoGallery2").nanoGallery({
-          kind: 'picasa',
-        //userID: '100000018953766070612',
-       	userID: '102721418953766070612',        
-        album: '6304645989897752529',       
-        //album: '6304645989897700000',
-        thumbnailWidth: 'auto',
-		thumbnailHeight: 400,
-		locationHash: false,
-		thumbnailHoverEffect:'borderLighter,imageScaleIn80'
-      });
 	};
