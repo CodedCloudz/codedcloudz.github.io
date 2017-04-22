@@ -126,7 +126,7 @@ if (pagename() === "CHANNEL 3"){
   $(".youmax").youmax({
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
                 	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                channelLink:"https://www.youtube.com/user/ShaolinCenter",
+                channelLink:"https://www.youtube.com/user/ShaolinXinyiba",
                 playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
                 
                 defaultTab:"Uploads",         //Uploads|Playlists|Featured
@@ -155,7 +155,7 @@ if (pagename() === "CHANNEL 4"){
   $(".youmax").youmax({
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
                 	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                channelLink:"https://www.youtube.com/user/ShaolinXinyiba",
+                channelLink:"https://www.youtube.com/user/shaolinskungfu",
                 playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
                 
                 defaultTab:"Uploads",         //Uploads|Playlists|Featured
@@ -184,7 +184,7 @@ if (pagename() === "CHANNEL 5"){
   $(".youmax").youmax({
                 apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
                 	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                channelLink:"https://www.youtube.com/user/shaolinskungfu",
+                channelLink:"https://www.youtube.com/user/ShaolinCenter",
                 playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
                 
                 defaultTab:"Uploads",         //Uploads|Playlists|Featured
