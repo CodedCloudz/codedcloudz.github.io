@@ -12,9 +12,6 @@
 //updateChecker
      // checkversion ();
 
-//checkVersionLable
-checkVersionLable ();
-
 //Notice
       notice ();
 
@@ -68,3 +65,7 @@ if (pagename() === "CHANNEL 1" || pagename() === "CHANNEL 2" || pagename() === "
    
         window.location.href = 'http://vimeo.com/search?q=self+defense';
 	}
+
+
+//checkVersionLable
+checkVersionLable ();
