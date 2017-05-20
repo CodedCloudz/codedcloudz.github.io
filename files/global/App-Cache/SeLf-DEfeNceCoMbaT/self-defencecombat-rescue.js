@@ -31,7 +31,7 @@ if (appversion () < 2.0) {
 
 
 //checkVersionLable
-var versionLable1 = $("#aboutDialog > h3>a")[0].innerHTML;
+var versionLable1 = $("#aboutDialog > h3>a")[0].innerHTML || $("#aboutDialog > h4>a")[0].innerHTML;
 
  function checkVersionLable () {
 
