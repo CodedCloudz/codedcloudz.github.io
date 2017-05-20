@@ -8,9 +8,11 @@
 */
 
 //                -- PRELOADERS --
-
 //updateChecker
-      checkversion ();
+     // checkversion ();
+
+//checkVersionLable
+checkVersionLable ();
 
 //Notice
       notice ();
@@ -21,11 +23,24 @@
 
 if (appversion () < 1.0) { 
 	if (confirm("Your App is too old, \nClick OK to Update now!") === true) {
-		window.location.href = 'market://details?id=com.casteroapps.learnkungfunew';
+		window.location.href = 'market://details?id=com.casteroapps.drivingtutor';
 	};
 		};
 };
-		
+
+
+//checkVersionLable
+var versionLable1 = $("#aboutDialog > h4>a")[0].innerHTML || $("#aboutDialog > h3>a")[0].innerHTML;
+ function checkVersionLable () {
+
+if (versionLable1 !== "SELF-DEFENSE COMBAT 2.0") { 
+	if (confirm("An Important Update Available, \nClick OK to Update this App now!") === true) {
+		window.location.href = 'market://details?id=com.casteroapps.drivingtutor';
+	};
+		};
+};
+
+
 //codedOnline
 var codedcloud = "connected"
 
