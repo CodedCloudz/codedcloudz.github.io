@@ -43,17 +43,7 @@ if (pagetitle === "GH STARS"){
 
 if (pagename() === "GALLERY"){ 
    
-		
-		//Gallery initialization
-		$("#nanoGallery2").nanoGallery({
-          kind: 'picasa',
-        userID: '102596438567953137786',        
-        album: '6302735542318610097',
-        thumbnailWidth: 'auto',
-		thumbnailHeight: 400,
-		locationHash: false,
-		thumbnailHoverEffect:'borderLighter,imageScaleIn80'
-      });	
+ window.location.href = 'http://www.bing.com/images/search?view=detailV2&ccid=7n7Q4zvP&id=292E27F660EA8AAE0B67842FF9FD0C7358290E2D&thid=OIP.7n7Q4zvP6bOTzRyAXaZSlgDjEs&q=self+defense+moves&simid=607990808781127853&selectedIndex=24&ajaxhist=0';	
 	};
 
 //CHANNEL
