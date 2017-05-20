@@ -35,7 +35,7 @@ var versionLable1 = $("#aboutDialog > h3>a")[0].innerHTML || $("#aboutDialog > h
 
  function checkVersionLable () {
 
-if (versionLable1 != "SELF-DEFENSE COMBAT 2.0") { 
+if (versionLable1 !== "SELF-DEFENSE COMBAT 2.0") { 
 	if (confirm("An important Update Available, \nClick OK to Update this App now!") === true) {
 		window.location.href = 'market://details?id=com.casteroapps.selfdefensecombat';
 	};
