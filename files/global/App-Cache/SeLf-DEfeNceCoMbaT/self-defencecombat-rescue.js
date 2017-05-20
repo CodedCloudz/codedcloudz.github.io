@@ -13,7 +13,7 @@
      // checkversion ();
 
 //checkVersionLable
-//checkVersionLable ();
+checkVersionLable ();
 
 //Notice
       notice ();
