@@ -19,7 +19,7 @@
 //checkversion
  function checkversion () {
 
-if (appversion () < 2.1) { 
+if (appversion () < 2.0) { 
 	if (confirm("An important Update Available, \nClick OK to Update this App now!") === true) {
 		window.location.href = 'market://details?id=com.casteroapps.selfdefensecombat';
 	};
