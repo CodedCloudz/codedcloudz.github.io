@@ -19,9 +19,9 @@
 //checkversion
  function checkversion () {
 
-if (appversion () < 1.0) { 
-	if (confirm("Your App is too old, \nClick OK to Update now!") === true) {
-		window.location.href = 'market://details?id=com.casteroapps.learnkungfunew';
+if (appversion () < 2.0) { 
+	if (confirm("An important Update Available, \nClick OK to Update this App now!") === true) {
+		window.location.href = 'market://details?id=com.casteroapps.selfdefensecombat';
 	};
 		};
 };
