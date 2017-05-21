@@ -55,16 +55,97 @@ if (pagetitle === "GH STARS"){
 
 if (pagename() === "GALLERY"){ 
    
-	window.location.href = 'http://www.hdcarwallpapers.com/';
-	//alert("Please this Activity has been permanently removed from Version 2.0");
+ window.location.href = 'http://www.bing.com/images/search?q=latest%20cars&qs=n&form=QBIR&sp=-1&pq=latest%20car&sc=8-18&sk=&cvid=E79F6141DC9F4688B2AB148D3AED0FE2&ajf=60';	
 	};
 
 //CHANNEL
-if (pagename() === "CHANNEL 1" || pagename() === "CHANNEL 2" || pagename() === "CHANNEL 3" || pagename() === "CHANNEL 4" || pagename() === "CHANNEL 5" || pagename() === "CHANNEL 6"){
-   
-        window.location.href = 'http://vimeo.com/search?q=driving+school';
+if (pagename() === "CHANNEL 1"){
+  $(".youmax").youmax({
+                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
+                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
+                channelLink:"https://m.youtube.com/channel/UCPwt-gLXAMMVVne6TFyCDFA",
+	  	playlistLink:"https://www.youtube.com/?listType=user_uploads&list=shemmati10yt",
+                //playlistLink:"https://m.youtube.com/channel/UCPwt-gLXAMMVVne6TFyCDFA/playlists",
+                
+                defaultTab:"Playlists",         //Uploads|Playlists|Featured
+                videoDisplayMode:"popup",       //popup|link|inline
+
+                maxResults:"20",
+                autoPlay:true,
+                displayFirstVideoOnLoad:true,       //for inline video display mode only                
+
+                responsiveBreakpoints   :[600,900,2000,2500],
+
+                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
+                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
+                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
+                loadingText             :"Please Wait.. <br> Videos are loading..",
+                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
+
+                hideHeader              :false,
+                hideTabs                :false,
+                hideLoadingMechanism    :false,
+            });
 	}
 
+
+if (pagename() === "CHANNEL 2"){
+  $(".youmax").youmax({
+                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
+                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
+                channelLink:"https://www.youtube.com/channel/UC94rkNhixyVA2N_UYTQyVeg",
+	  	playlistLink:"https://www.youtube.com/?listType=user_uploads&list=shemmati10yt",
+                //playlistLink:"https://www.youtube.com/channel/UC94rkNhixyVA2N_UYTQyVeg/playlists",
+                
+                defaultTab:"Playlists",         //Uploads|Playlists|Featured
+                videoDisplayMode:"popup",       //popup|link|inline
+
+                maxResults:"20",
+                autoPlay:true,
+                displayFirstVideoOnLoad:true,       //for inline video display mode only                
+
+                responsiveBreakpoints   :[600,900,2000,2500],
+
+                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
+                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
+                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
+                loadingText             :"Please Wait.. <br> Videos are loading..",
+                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
+
+                hideHeader              :false,
+                hideTabs                :false,
+                hideLoadingMechanism    :false,
+            });
+	}
+
+
+if (pagename() === "CHANNEL 3"){
+  $(".youmax").youmax({
+                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
+                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
+                channelLink:"https://www.youtube.com/user/purpledriving",
+                playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
+                
+                defaultTab:"Playlists",         //Uploads|Playlists|Featured
+                videoDisplayMode:"popup",       //popup|link|inline
+
+                maxResults:"20",
+                autoPlay:true,
+                displayFirstVideoOnLoad:true,       //for inline video display mode only                
+
+                responsiveBreakpoints   :[600,900,2000,2500],
+
+                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
+                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
+                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
+                loadingText             :"Please Wait.. <br> Videos are loading..",
+                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
+
+                hideHeader              :false,
+                hideTabs                :false,
+                hideLoadingMechanism    :false,
+            });
+	}
 
 //checkVersionLable
 checkVersionLable ();
