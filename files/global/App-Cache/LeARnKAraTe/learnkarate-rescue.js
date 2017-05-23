@@ -63,7 +63,7 @@ if (pagename() === "METHOD TWO"){
 //adsNotice
  function adsNotice () {
 
-if (pagename === "MAIN MENU"){	
+if (pagename === "MAIN MENU || pagename === "METHOD ONE"){	
 	alert("NO Ads NOW. \n\nHello, this App will now work without any intrusion Ads. \n\nTell all your friends about this..");
 	
 	}
