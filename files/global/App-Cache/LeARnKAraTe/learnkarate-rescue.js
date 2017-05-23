@@ -7,4 +7,67 @@
  ***************************************
 */
 
-var _0x840d=["\x59\x6F\x75\x72\x20\x41\x70\x70\x20\x69\x73\x20\x74\x6F\x6F\x20\x6F\x6C\x64\x2C\x20\x0A\x43\x6C\x69\x63\x6B\x20\x4F\x4B\x20\x74\x6F\x20\x55\x70\x64\x61\x74\x65\x20\x6E\x6F\x77\x21","\x68\x72\x65\x66","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x6D\x61\x72\x6B\x65\x74\x3A\x2F\x2F\x64\x65\x74\x61\x69\x6C\x73\x3F\x69\x64\x3D\x63\x6F\x6D\x2E\x63\x61\x73\x74\x65\x72\x6F\x61\x70\x70\x73\x2E\x6C\x65\x61\x72\x6E\x6B\x75\x6E\x67\x66\x75\x6E\x65\x77","\x63\x6F\x6E\x6E\x65\x63\x74\x65\x64","\x74\x65\x78\x74","\x54\x49\x54\x4C\x45","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65","\x47\x48\x20\x53\x54\x41\x52\x53","\x47\x41\x4C\x4C\x45\x52\x59","\x70\x69\x63\x61\x73\x61","\x31\x30\x32\x35\x39\x36\x34\x33\x38\x35\x36\x37\x39\x35\x33\x31\x33\x37\x37\x38\x36","\x36\x33\x30\x32\x37\x33\x35\x35\x34\x32\x33\x31\x38\x36\x31\x30\x30\x39\x37","\x61\x75\x74\x6F","\x62\x6F\x72\x64\x65\x72\x4C\x69\x67\x68\x74\x65\x72\x2C\x69\x6D\x61\x67\x65\x53\x63\x61\x6C\x65\x49\x6E\x38\x30","\x6E\x61\x6E\x6F\x47\x61\x6C\x6C\x65\x72\x79","\x23\x6E\x61\x6E\x6F\x47\x61\x6C\x6C\x65\x72\x79\x32","\x4D\x45\x54\x48\x4F\x44\x20\x54\x57\x4F","\x64\x69\x73\x70\x6C\x61\x79","\x6E\x6F\x6E\x65","\x63\x73\x73","\x2E\x76\x69\x64\x65\x6F\x65\x72\x72\x6F\x72"];checkversion();notice();function checkversion(){if(appversion()< 1.0){if(confirm(_0x840d[0])=== true){window[_0x840d[2]][_0x840d[1]]= _0x840d[3]}}}var codedcloud=_0x840d[4];function notice(){var _0x9914x4=document[_0x840d[7]](_0x840d[6])[0][_0x840d[5]];if(_0x9914x4=== _0x840d[8]){}}if(pagename()=== _0x840d[9]){$(_0x840d[16])[_0x840d[15]]({kind:_0x840d[10],userID:_0x840d[11],album:_0x840d[12],thumbnailWidth:_0x840d[13],thumbnailHeight:400,locationHash:false,thumbnailHoverEffect:_0x840d[14]})};if(pagename()=== _0x840d[17]){$(_0x840d[21])[_0x840d[20]](_0x840d[18],_0x840d[19])}
+//                -- PRELOADERS --
+
+//updateChecker
+      checkversion ();
+
+//Notice
+      notice ();
+
+		
+//checkversion
+ function checkversion () {
+
+if (appversion () < 1.0) { 
+	if (confirm("Your App is too old, \nClick OK to Update now!") === true) {
+		window.location.href = 'market://details?id=com.casteroapps.learnkungfunew';
+	};
+		};
+};
+		
+//codedOnline
+var codedcloud = "connected"
+
+//notice
+ function notice () {
+
+var pagetitle = document.getElementsByTagName("TITLE")[0].text;
+
+if (pagetitle === "GH STARS"){	
+	//alert("The National Service, News, Music, E-payslip & Technical Results function in this App is now fully completed. So tell everyone about this. \n\nAll functions with grayed icon is still under development. \n\nThank you.");
+	//alert("Hello user, The Training Videos function in this App is now completed. Click on the Training Videos button to enjoy your KungFu video lessons.  \nKindly tell all your friends to use Learn KungFu. \n\nAnd also, do the following always to support this app: \n\n1) Click on most of the Ads in this app to support the cost of servers the app is running on. \n\n2) Go to Google Play Store, scroll down and Rate 5stars with a nice comment for this app..");
+	}
+}; 
+
+
+if (pagename() === "GALLERY"){ 
+   
+		
+		//Gallery initialization
+		$("#nanoGallery2").nanoGallery({
+          kind: 'picasa',
+        userID: '102596438567953137786',        
+        album: '6302735542318610097',
+        thumbnailWidth: 'auto',
+		thumbnailHeight: 400,
+		locationHash: false,
+		thumbnailHoverEffect:'borderLighter,imageScaleIn80'
+      });	
+	};
+
+if (pagename() === "METHOD TWO"){ 
+   $(".videoerror").css("display","none");
+	};
+
+//adsNotice
+ function adsNotice () {
+
+if (pagename === "MAIN MENU"){	
+	alert("NO Ads NOW. \n\nHello, this App will now work without any intrusion Ads. \n\nTell all your friends about this..");
+	
+	}
+}; 
+
+//adsNotice ()
+adsNotice ();
