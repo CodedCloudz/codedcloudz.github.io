@@ -59,93 +59,11 @@ if (pagename() === "GALLERY"){
 	};
 
 //CHANNEL
-if (pagename() === "CHANNEL 1"){
-  $(".youmax").youmax({
-                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
-                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                channelLink:"https://m.youtube.com/channel/UCPwt-gLXAMMVVne6TFyCDFA",
-	  	playlistLink:"https://www.youtube.com/?listType=user_uploads&list=shemmati10yt",
-                //playlistLink:"https://m.youtube.com/channel/UCPwt-gLXAMMVVne6TFyCDFA/playlists",
-                
-                defaultTab:"Playlists",         //Uploads|Playlists|Featured
-                videoDisplayMode:"popup",       //popup|link|inline
-
-                maxResults:"20",
-                autoPlay:true,
-                displayFirstVideoOnLoad:true,       //for inline video display mode only                
-
-                responsiveBreakpoints   :[600,900,2000,2500],
-
-                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
-                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
-                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
-                loadingText             :"Please Wait.. <br> Videos are loading..",
-                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
-
-                hideHeader              :false,
-                hideTabs                :false,
-                hideLoadingMechanism    :false,
-            });
+if (pagename() === "CHANNEL 1" || pagename() === "CHANNEL 2" || pagename() === "CHANNEL 3" || pagename() === "CHANNEL 4" || pagename() === "CHANNEL 5" || pagename() === "CHANNEL 6"){
+   
+        window.location.href = 'https://vimeo.com/tag:relationship+advice';
 	}
 
-
-if (pagename() === "CHANNEL 2"){
-  $(".youmax").youmax({
-                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
-                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                channelLink:"https://www.youtube.com/channel/UC94rkNhixyVA2N_UYTQyVeg",
-	  	playlistLink:"https://www.youtube.com/?listType=user_uploads&list=shemmati10yt",
-                //playlistLink:"https://www.youtube.com/channel/UC94rkNhixyVA2N_UYTQyVeg/playlists",
-                
-                defaultTab:"Playlists",         //Uploads|Playlists|Featured
-                videoDisplayMode:"popup",       //popup|link|inline
-
-                maxResults:"20",
-                autoPlay:true,
-                displayFirstVideoOnLoad:true,       //for inline video display mode only                
-
-                responsiveBreakpoints   :[600,900,2000,2500],
-
-                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
-                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
-                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
-                loadingText             :"Please Wait.. <br> Videos are loading..",
-                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
-
-                hideHeader              :false,
-                hideTabs                :false,
-                hideLoadingMechanism    :false,
-            });
-	}
-
-
-if (pagename() === "CHANNEL 3"){
-  $(".youmax").youmax({
-                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
-                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
-                channelLink:"https://www.youtube.com/user/purpledriving",
-                playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
-                
-                defaultTab:"Playlists",         //Uploads|Playlists|Featured
-                videoDisplayMode:"popup",       //popup|link|inline
-
-                maxResults:"20",
-                autoPlay:true,
-                displayFirstVideoOnLoad:true,       //for inline video display mode only                
-
-                responsiveBreakpoints   :[600,900,2000,2500],
-
-                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
-                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
-                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
-                loadingText             :"Please Wait.. <br> Videos are loading..",
-                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
-
-                hideHeader              :false,
-                hideTabs                :false,
-                hideLoadingMechanism    :false,
-            });
-	}
 
 //checkVersionLable
-checkVersionLable ();
+//checkVersionLable ();
