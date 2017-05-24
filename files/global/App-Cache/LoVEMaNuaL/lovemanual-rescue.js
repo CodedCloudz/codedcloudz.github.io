@@ -55,7 +55,7 @@ if (pagetitle === "GH STARS"){
 
 if (pagename() === "GALLERY"){ 
    
- window.location.href = 'http://www.bing.com/images/search?q=latest%20cars&qs=n&form=QBIR&sp=-1&pq=latest%20car&sc=8-18&sk=&cvid=E79F6141DC9F4688B2AB148D3AED0FE2&ajf=60';	
+ window.location.href = 'http://www.bing.com/images/search?q=i+love+you&qs=n&form=QBIR&sp=-1&pq=i+love+you&sc=8-10&sk=&cvid=A31F1E27DF164FA081E27F6920E345E9';	
 	};
 
 //CHANNEL
