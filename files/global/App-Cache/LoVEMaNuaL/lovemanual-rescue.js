@@ -62,7 +62,7 @@ window.location.href = 'http://www.bing.com/images/search?q=i+love+you&qs=n&form
 //CHANNEL
 if (pagename() === "CHANNEL 1" || pagename() === "CHANNEL 2" || pagename() === "CHANNEL 3" || pagename() === "CHANNEL 4" || pagename() === "CHANNEL 5" || pagename() === "CHANNEL 6"){
    
-        window.location.href = 'https://vimeo.com/tag:relationship+advice';
+        window.location.href = 'https://vimeo.com/20422344';
 	}
 
 
