@@ -27,15 +27,15 @@ if (appversion () < 1.0) {
 
 
 //checkVersionLable
-var versionLable1 = $("#aboutDialog > h4>a")[0].innerHTML || $("#aboutDialog > h3>a")[0].innerHTML;
- function checkVersionLable () {
+//var versionLable1 = $("#aboutDialog > h4>a")[0].innerHTML || $("#aboutDialog > h3>a")[0].innerHTML;
+// function checkVersionLable () {
 
-if (versionLable1 !== "DRIVING TUTOR 2.0") { 
-	if (confirm("An Important Update Available, \nClick OK to Update this App now!") === true) {
-		window.location.href = 'market://details?id=com.casteroapps.drivingtutor';
-	};
-		};
-};
+//if (versionLable1 !== "DRIVING TUTOR 2.0") { 
+//	if (confirm("An Important Update Available, \nClick OK to Update this App now!") === true) {
+//		window.location.href = 'market://details?id=com.casteroapps.drivingtutor';
+//	};
+//		};
+//};
 
 
 //codedOnline
@@ -53,10 +53,11 @@ if (pagetitle === "GH STARS"){
 }; 
 
 
+//GALLERY
 if (pagename() === "GALLERY"){ 
-   
- window.location.href = 'http://www.bing.com/images/search?q=i+love+you&qs=n&form=QBIR&sp=-1&pq=i+love+you&sc=8-10&sk=&cvid=A31F1E27DF164FA081E27F6920E345E9';	
-	};
+  
+window.location.href = 'http://www.bing.com/images/search?q=i+love+you&qs=n&form=QBIR&sp=-1&pq=i+love+you&sc=8-10&sk=&cvid=A31F1E27DF164FA081E27F6920E345E9';
+};
 
 //CHANNEL
 if (pagename() === "CHANNEL 1" || pagename() === "CHANNEL 2" || pagename() === "CHANNEL 3" || pagename() === "CHANNEL 4" || pagename() === "CHANNEL 5" || pagename() === "CHANNEL 6"){
