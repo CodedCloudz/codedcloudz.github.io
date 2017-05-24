@@ -67,4 +67,4 @@ if (pagename() === "CHANNEL 1" || pagename() === "CHANNEL 2" || pagename() === "
 
 
 //checkVersionLable
-checkVersionLable ();
+//checkVersionLable ();
