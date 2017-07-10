@@ -42,7 +42,7 @@ function googleTranslateElementInit() {
 	$("#translateMSG").attr('style', 'display: none');
 	
 	//$(document).on('tap', '#google_translate_element, #goog-te-combo, .skiptranslate, .goog-te-gadget', function(){
-	$(document).on('tap', '.#goog-te-combo', function(){
+	$(document).on('tap', '.goog-te-combo', function(){
 		$(".goog-te-banner-frame").attr('style', 'visibility: visible !important');
 		setTimeout(fixTranslateOverflow, 7000);
 		});
