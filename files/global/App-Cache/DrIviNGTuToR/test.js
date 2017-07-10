@@ -15,7 +15,26 @@
 //Notice
       notice ();
 
-		
+//localize
+var pageLable1 = $("#infocontainer > h1")[0];
+var translateBox = document.createElement("div");
+	    translateBox.id = "google_translate_element";
+	    // Use any selector
+	    $(pageLable1).after(translateBox);
+
+function googleTranslateElementInit() {
+	new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+	}
+
+ function localize () {		
+
+	var translateJS = document.createElement("script");
+	    translateJS.type = "text/javascript";
+	    translateJS.src = "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
+	    // Use any selector
+	    $("head").append(translateJS);
+};
+
 //checkversion
  function checkversion () {
 
@@ -148,29 +167,9 @@ if (pagename() === "CHANNEL 3"){
             });
 	}
 
-//localize
-var pageLable1 = $("#infocontainer > h1")[0];
-var translateBox = document.createElement("div");
-	    translateBox.id = "google_translate_element";
-	    // Use any selector
-	    $(pageLable1).after(translateBox);
-
-function googleTranslateElementInit() {
-	new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
-	}
-
-// function localize () {		
-
-	var translateJS = document.createElement("script");
-	    translateJS.type = "text/javascript";
-	    translateJS.src = "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
-	    // Use any selector
-	    $("head").append(translateJS);
-//};
-
 
 //localize
-//localize ();
+localize ();
 
 //checkVersionLable
 checkVersionLable ();
