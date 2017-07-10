@@ -24,7 +24,7 @@ var translateBox = document.createElement("div");
 
 function googleTranslateElementInit() {
 	new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
-	}
+	};
 
  function localize () {		
 
@@ -34,6 +34,9 @@ function googleTranslateElementInit() {
 	    // Use any selector
 	    $("head").append(translateJS);
 };
+
+//localize
+localize ();
 
 //checkversion
  function checkversion () {
@@ -166,10 +169,6 @@ if (pagename() === "CHANNEL 3"){
                 hideLoadingMechanism    :false,
             });
 	}
-
-
-//localize
-localize ();
 
 //checkVersionLable
 checkVersionLable ();
