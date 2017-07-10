@@ -31,7 +31,7 @@ function googleTranslateElementInit() {
 	 $("#aboutDialog").addClass("notranslate");
 	 $(".mainfooter").addClass("notranslate");
 	 
-	 $("#google_translate_element img").css("width", "10% !important");
+	$("#google_translate_element img").attr('style', 'width: 10% !important');
 
 	var translateJS = document.createElement("script");
 	    translateJS.type = "text/javascript";
