@@ -19,14 +19,14 @@
 var pageLable1 = $("#infocontainer > h1")[0];
 var translateInfo = document.createElement("div");
 	    translateInfo.id = "translateMSG";
-	    translateInfo.innerHTML = "[Language Loading...]";
+	    translateInfo.innerHTML = "[ Language Loading... ]";
+	    translateInfo.attr('style', 'color: #00ff00');
+	    translateInfo.attr('style', 'background: black');
+	    translateInfo.attr('style', 'padding: 2%');
+	    translateInfo.attr('style', 'zoom: 1.2');
+	    translateInfo.attr('style', 'text-shadow: 0 1px 0 #000');
 	    // Use any selector
 	    $(pageLable1).after(translateInfo);
-	    $("#translateMSG").attr('style', 'color: #00ff00');
-	    $("#translateMSG").attr('style', 'background: black');
-	    $("#translateMSG").attr('style', 'padding: 2%');
-	    $("#translateMSG").attr('style', 'zoom: 1.2');
-	    $("#translateMSG").attr('style', 'text-shadow: 0 1px 0 #000');
 
 var translateBox = document.createElement("div");
 	    translateBox.id = "google_translate_element";
