@@ -17,10 +17,16 @@
 
 //localize
 var pageLable1 = $("#infocontainer > h1")[0];
+var translateInfo = document.createElement("div");
+	    translateInfo.id = "google_translate_element";
+	    translateInfo.innerHTML = "Language Loading..";
+	    // Use any selector
+	    $(pageLable1).after(translateInfo);
+
 var translateBox = document.createElement("div");
 	    translateBox.id = "google_translate_element";
 	    // Use any selector
-	    $(pageLable1).after(translateBox);
+	    $(#translateInfo).after(translateBox);
 
 function googleTranslateElementInit() {
 	new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
