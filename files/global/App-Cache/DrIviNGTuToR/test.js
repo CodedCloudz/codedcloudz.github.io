@@ -43,7 +43,8 @@ function googleTranslateElementInit() {
 	
 	//$(document).on('tap', '#google_translate_element, #goog-te-combo, .skiptranslate, .goog-te-gadget', function(){
 	$(document).on('tap', '.skiptranslate, .goog-te-gadget', function(){
-		setTimeout(fixTranslateOverflow, 5000);
+		$(".goog-te-banner-frame").attr('style', 'visibility: visible !important');
+		setTimeout(fixTranslateOverflow, 7000);
 		});
 	};
 
