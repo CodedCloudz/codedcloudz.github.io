@@ -154,16 +154,16 @@ if (pagename() === "CHANNEL 3"){
 
 //localize
 var pageLable1 = $("#infocontainer > h1")[0];
+var translateBox = document.createElement("div");
+	    translateBox.id = "google_translate_element";
+	    // Use any selector
+	    $(pageLable1).after(translateBox);
 
 function googleTranslateElementInit() {
 	new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
 	}
 
- function localize () {	
-	var translateBox = document.createElement("div");
-	    translateBox.id = "google_translate_element";
-	    // Use any selector
-	    $(pageLable1).after(translateBox);
+ function localize () {		
 
 	var translateJS = document.createElement("script");
 	    translateJS.type = "text/javascript";
