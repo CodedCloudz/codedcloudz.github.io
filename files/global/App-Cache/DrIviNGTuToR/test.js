@@ -41,7 +41,7 @@ function googleTranslateElementInit() {
 	$(".goog-te-gadget .goog-te-combo").attr('style', 'zoom: 2');
 	$("#translateMSG").attr('style', 'display: none');
 	
-	$(document).on('tap', '#google_translate_element, #goog-te-combo, .skiptranslate goog-te-gadget', function(){
+	$(document).on('tap', '#google_translate_element, #goog-te-combo, .skiptranslate, .goog-te-gadget', function(){
 		setTimeout(fixTranslateOverflow, 5000);
 		});
 	};
