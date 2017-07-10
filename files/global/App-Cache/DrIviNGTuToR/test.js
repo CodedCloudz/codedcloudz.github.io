@@ -38,7 +38,8 @@ function googleTranslateElementInit() {
 	
 	//fixTranslateUI
 	$("#google_translate_element img").attr('style', 'width: 10% !important');
-	$(".goog-te-banner-frame .skiptranslate").attr('style', 'visibilty: hidden');
+	$(".goog-te-banner-frame .skiptranslate").attr('style', 'visibilty: hidden !important');
+	$(".goog-gt-tt").attr('style', 'visibilty: hidden !important');
 	$(".goog-te-gadget .goog-te-combo").attr('style', 'zoom: 2');
 	$("#translateMSG").attr('style', 'display: none');
 	};
