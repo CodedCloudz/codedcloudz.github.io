@@ -66,7 +66,7 @@ function googleTranslateElementInit() {
  function fixTranslateOverflow () {
 	$(".goog-te-banner-frame").attr('style', 'visibility: hidden');
 	$("#goog-gt-tt").attr('style', 'visibility: hidden !important');
-	$(".goog-tooltip").attr('style', 'visibility: hidden !important');	 
+	$(".goog-tooltip").attr('style', 'visibility: hidden !important');
 };
 
 //localize
