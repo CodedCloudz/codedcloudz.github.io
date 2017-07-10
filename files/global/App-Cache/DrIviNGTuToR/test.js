@@ -157,7 +157,6 @@ var pageLable1 = $("#infocontainer > h1")[0];
 	
 	var translateBox = document.createElement("div");
 	    translateBox.id = "google_translate_element";
-	    translateBox.src = "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
 	    // Use any selector
 	    $(pageLable1).after(translateBox);
 
