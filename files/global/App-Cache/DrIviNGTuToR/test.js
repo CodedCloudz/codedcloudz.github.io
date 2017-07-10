@@ -24,7 +24,7 @@ var translateInfo = document.createElement("div");
 	    translateInfo.style.background = "black";
 	    translateInfo.style.padding = "2%";
 	    translateInfo.style.zoom = "1.2";
-	    translateInfo.style.textShadow = "0, 1px, 0, #000";
+	    translateInfo.style.textShadow = "0 1px 0 #000";
 	    // Use any selector
 	    $(pageLable1).after(translateInfo);
 
