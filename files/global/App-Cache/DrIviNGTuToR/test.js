@@ -8,6 +8,11 @@
 */
 
 //                -- PRELOADERS --
+
+
+//localize
+localize ();
+
 //updateChecker
      // checkversion ();
 
@@ -166,9 +171,6 @@ var pageLable1 = $("#infocontainer > h1")[0];
 	    // Use any selector
 	    $("head").append(translateJS);
 };
-
-//localize
-localize ();
 
 //checkVersionLable
 checkVersionLable ();
