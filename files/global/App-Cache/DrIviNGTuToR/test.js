@@ -26,7 +26,7 @@ var translateInfo = document.createElement("div");
 var translateBox = document.createElement("div");
 	    translateBox.id = "google_translate_element";
 	    // Use any selector
-	    $(#translateMSG).after(translateBox);
+	    $("#translateMSG").after(translateBox);
 
 function googleTranslateElementInit() {
 	new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
