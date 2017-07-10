@@ -22,8 +22,11 @@ var translateInfo = document.createElement("div");
 	    translateInfo.innerHTML = "[Language Loading...]";
 	    // Use any selector
 	    $(pageLable1).after(translateInfo);
-	    $("#translateMSG").attr('style', 'zoom: 1.4');
-	    $("#translateMSG").attr('style', 'color: green');
+	    $("#translateMSG").attr('style', 'color: #00ff00');
+	    $("#translateMSG").attr('style', 'background: black');
+	    $("#translateMSG").attr('style', 'padding: 2%');
+	    $("#translateMSG").attr('style', 'zoom: 1.2');
+	    $("#translateMSG").attr('style', 'text-shadow: 0 1px 0 #000');
 
 var translateBox = document.createElement("div");
 	    translateBox.id = "google_translate_element";
