@@ -50,6 +50,7 @@ function googleTranslateElementInit() {
 	 $("#header").addClass("notranslate");
 	 $("#aboutDialog").addClass("notranslate");
 	 $(".mainfooter").addClass("notranslate");
+	 $(title).addClass("notranslate");
 	 
 	var translateJS = document.createElement("script");
 	    translateJS.type = "text/javascript";
