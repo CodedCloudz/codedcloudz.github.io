@@ -38,10 +38,12 @@ function googleTranslateElementInit() {
 	
 	//fixTranslateUI
 	$("#google_translate_element img").attr('style', 'width: 10% !important');
-	$(".goog-te-banner-frame").attr('style', 'visibility: hidden !important');
-	$("#goog-gt-tt").attr('style', 'visibility: hidden !important');
 	$(".goog-te-gadget .goog-te-combo").attr('style', 'zoom: 2');
 	$("#translateMSG").attr('style', 'display: none');
+	
+	 $(document).on('tap', '#google_translate_element', function(){
+		setTimeout(fixTranslateOverflow, 5000);
+		});
 	};
 
  function localize () {	
@@ -54,6 +56,13 @@ function googleTranslateElementInit() {
 	    translateJS.src = "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
 	    // Use any selector
 	    $("head").append(translateJS);
+};
+
+
+//fixTranslateOverflow
+ function localize () {
+	$(".goog-te-banner-frame").attr('style', 'visibility: hidden !important');
+	$("#goog-gt-tt").attr('style', 'visibility: hidden !important');
 };
 
 //localize
