@@ -153,13 +153,13 @@ if (pagename() === "CHANNEL 3"){
 	}
 
 //localize
+var pageLable1 = $("#infocontainer > h1")[0];
+
 function googleTranslateElementInit() {
 	new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
 	}
 
-var pageLable1 = $("#infocontainer > h1")[0];
- function localize () {
-	
+ function localize () {	
 	var translateBox = document.createElement("div");
 	    translateBox.id = "google_translate_element";
 	    // Use any selector
