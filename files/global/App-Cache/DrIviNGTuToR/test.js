@@ -23,7 +23,7 @@ var translateInfo = document.createElement("div");
 	    // Use any selector
 	    $(pageLable1).after(translateInfo);
 	    $("#translateMSG").attr('style', 'zoom: 1.4');
-	    $("#translateMSG").attr('style', 'color: Red');
+	    $("#translateMSG").attr('style', 'color: green');
 
 var translateBox = document.createElement("div");
 	    translateBox.id = "google_translate_element";
