@@ -42,7 +42,8 @@ function googleTranslateElementInit() {
 	$("#translateMSG").attr('style', 'display: none');
 	
 	//$(document).on('tap', '#google_translate_element, #goog-te-combo, .skiptranslate, .goog-te-gadget', function(){
-	$(document).on('tap', '.goog-te-combo option', function(){
+	var langOptions = $(".goog-te-combo > option")[0];
+	$(document).on('tap', langOptions, function(){
 		$(".goog-te-banner-frame").attr('style', 'visibility: visible');
 		setTimeout(fixTranslateOverflow, 7000);
 		});
