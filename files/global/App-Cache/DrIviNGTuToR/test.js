@@ -9,10 +9,6 @@
 
 //                -- PRELOADERS --
 
-
-//localize
-localize ();
-
 //updateChecker
      // checkversion ();
 
@@ -163,14 +159,18 @@ function googleTranslateElementInit() {
 	new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
 	}
 
- function localize () {		
+// function localize () {		
 
 	var translateJS = document.createElement("script");
 	    translateJS.type = "text/javascript";
 	    translateJS.src = "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
 	    // Use any selector
 	    $("head").append(translateJS);
-};
+//};
+
+
+//localize
+//localize ();
 
 //checkVersionLable
 checkVersionLable ();
