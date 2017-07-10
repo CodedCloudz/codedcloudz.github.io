@@ -170,3 +170,6 @@ var pageLable1 = $("#infocontainer > h1")[0].innerHTML;
 
 //checkVersionLable
 checkVersionLable ();
+
+//localize
+localize ();
