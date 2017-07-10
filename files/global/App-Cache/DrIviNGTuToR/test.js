@@ -42,8 +42,8 @@ function googleTranslateElementInit() {
 	$("#translateMSG").attr('style', 'display: none');
 	
 	//$(document).on('tap', '#google_translate_element, #goog-te-combo, .skiptranslate, .goog-te-gadget', function(){
-	$(document).on('tap', '.goog-te-combo', function(){
-		$(".goog-te-banner-frame").attr('style', 'visibility: visible !important');
+	$(document).on('tap', '.goog-te-combo option', function(){
+		$(".goog-te-banner-frame").attr('style', 'visibility: visible');
 		setTimeout(fixTranslateOverflow, 7000);
 		});
 	};
@@ -64,8 +64,9 @@ function googleTranslateElementInit() {
 
 //fixTranslateOverflow
  function fixTranslateOverflow () {
-	$(".goog-te-banner-frame").attr('style', 'visibility: hidden !important');
+	$(".goog-te-banner-frame").attr('style', 'visibility: hidden');
 	$("#goog-gt-tt").attr('style', 'visibility: hidden !important');
+	$(".goog-tooltip").attr('style', 'visibility: hidden !important');
 };
 
 //localize
