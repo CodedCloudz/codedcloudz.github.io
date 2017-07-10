@@ -19,9 +19,11 @@
 var pageLable1 = $("#infocontainer > h1")[0];
 var translateInfo = document.createElement("div");
 	    translateInfo.id = "translateMSG";
-	    translateInfo.innerHTML = "Language Loading..";
+	    translateInfo.innerHTML = "[Language Loading...]";
 	    // Use any selector
 	    $(pageLable1).after(translateInfo);
+	    $("#translateMSG").attr('style', 'zoom: 1.4');
+	    $("#translateMSG").attr('style', 'color: Red');
 
 var translateBox = document.createElement("div");
 	    translateBox.id = "google_translate_element";
@@ -35,6 +37,7 @@ function googleTranslateElementInit() {
 	$("#google_translate_element img").attr('style', 'width: 10% !important');
 	$(".goog-te-banner-frame .skiptranslate").attr('style', 'visibilty: hidden');
 	$(".goog-te-gadget .goog-te-combo").attr('style', 'zoom: 2');
+	$("#translateMSG").attr('style', 'display: none');
 	};
 
  function localize () {	
