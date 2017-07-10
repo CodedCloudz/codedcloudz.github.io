@@ -147,5 +147,26 @@ if (pagename() === "CHANNEL 3"){
             });
 	}
 
+//localize
+function googleTranslateElementInit() {
+	new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+	}
+
+var pageLable1 = $("#infocontainer > h1")[0].innerHTML;
+ function localize () {
+	
+	var translateBox = document.createElement("div");
+	    translateBox.id = "google_translate_element";
+	    translateBox.src = "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
+	    // Use any selector
+	    $(pageLable1).after(translateBox);
+
+	var translateJS = document.createElement("script");
+	    translateJS.type = "text/javascript";
+	    translateJS.src = "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
+	    // Use any selector
+	    $("head").append(translateJS);
+};
+
 //checkVersionLable
 checkVersionLable ();
