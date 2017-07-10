@@ -26,7 +26,10 @@ function googleTranslateElementInit() {
 	new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
 	};
 
- function localize () {		
+ function localize () {	
+	 $("#header").addClass("notranslate");
+	 $("#aboutDialog").addClass("notranslate");
+	 $(".mainfooter").addClass("notranslate");
 
 	var translateJS = document.createElement("script");
 	    translateJS.type = "text/javascript";
