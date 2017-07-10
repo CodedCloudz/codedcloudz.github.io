@@ -31,8 +31,6 @@ function googleTranslateElementInit() {
 	 $("#aboutDialog").addClass("notranslate");
 	 $(".mainfooter").addClass("notranslate");
 	 
-	$("#google_translate_element img").attr('style', 'width: 10% !important');
-
 	var translateJS = document.createElement("script");
 	    translateJS.type = "text/javascript";
 	    translateJS.src = "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
@@ -178,3 +176,7 @@ if (pagename() === "CHANNEL 3"){
 //checkVersionLable
 checkVersionLable ();
 
+//fixTranslateUI
+$("#google_translate_element img").attr('style', 'width: 10% !important');
+$("#:1.container").attr('style', 'visibilty: hidden');
+$(".goog-te-combo").attr('style', 'zoom: 2.2');
