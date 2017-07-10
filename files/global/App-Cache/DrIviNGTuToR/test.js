@@ -152,7 +152,7 @@ function googleTranslateElementInit() {
 	new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
 	}
 
-var pageLable1 = $("#infocontainer > h1")[0].innerHTML;
+var pageLable1 = $("#infocontainer > h1")[0];
  function localize () {
 	
 	var translateBox = document.createElement("div");
