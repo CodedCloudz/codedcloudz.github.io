@@ -167,8 +167,9 @@ var pageLable1 = $("#infocontainer > h1")[0];
 	    $("head").append(translateJS);
 };
 
+//localize
+localize ();
+
 //checkVersionLable
 checkVersionLable ();
 
-//localize
-localize ();
