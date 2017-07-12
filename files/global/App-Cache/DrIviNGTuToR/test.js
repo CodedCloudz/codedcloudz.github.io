@@ -18,7 +18,9 @@
 
 //allUIfixes
 $(document).on('tap', '#infocontainer', function(){
-	$("body").attr('style', 'width: 100vw !important; border: none !important; top: 0px !important');
+	document.getElementsByTagName("body").style.width =  "100vw" + "!important";
+	document.getElementsByTagName("body").style.border =  "none" + "!important";
+	document.getElementsByTagName("body").style.top =  "0px" + "!important";
 	});
 
  function allUIfixes () {
