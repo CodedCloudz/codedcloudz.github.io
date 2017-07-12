@@ -17,6 +17,8 @@
 
 
 //allUIfixes
+$("body").attr('style', 'width: 100vw !important; top: 0px !important; border: none !important');
+
  function allUIfixes () {
 	$("body").attr('style', 'width: 100vw !important; top: 0px !important; border: none !important');
 	$("#infocontainer").attr('style', 'width: 92vw !important');
