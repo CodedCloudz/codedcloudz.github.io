@@ -40,13 +40,13 @@ function googleTranslateElementInit() {
 	$("#google_translate_element img").attr('style', 'width: 10% !important');
 	$(".goog-te-gadget .goog-te-combo").attr('style', 'zoom: 2');
 	$("#translateMSG").attr('style', 'display: none');
- 	$("body").attr('style', 'width: 100vw !important; top: 10% !important');
+ 	$("body").attr('style', 'width: 100vw !important; top: 0px !important');
 	
 	//$(document).on('tap', '#google_translate_element, #goog-te-combo, .skiptranslate, .goog-te-gadget', function(){
 	var langOptions = $(".goog-te-combo > option")[0];
 	$(document).on('tap', langOptions, function(){
 		$(".goog-te-banner-frame").attr('style', 'visibility: visible');
-		$("body").attr('style', 'width: 100vw !important; top: 10% !important');
+		$("body").attr('style', 'width: 100vw !important; top: 0px !important');
 		setTimeout(fixTranslateOverflow, 7000);
 		});
 	};
@@ -70,7 +70,7 @@ function googleTranslateElementInit() {
 	$(".goog-te-banner-frame").attr('style', 'visibility: hidden');
 	$("#goog-gt-tt").attr('style', 'visibility: hidden !important');
 	$(".goog-tooltip").attr('style', 'visibility: hidden !important');
-  	$("body").attr('style', 'width: 100vw !important; top: 10% !important');
+  	$("body").attr('style', 'width: 100vw !important; top: 0px !important');
 };
 
 //localize
@@ -207,6 +207,16 @@ if (pagename() === "CHANNEL 3"){
                 hideLoadingMechanism    :false,
             });
 	}
+	
+
+//allUIfixes
+ function allUIfixes () {
+	$("#IntroContent").attr('style', 'width: 100vw !important; padding-top: 15% !important');
+	$("#all-content").attr('style', 'width: 100vw !important');
+	$("#infocontainer").attr('style', 'width: 92vw !important');
+ };
+ 
+allUIfixes ();
 
 //checkVersionLable
 checkVersionLable ();
