@@ -214,7 +214,7 @@ if (pagename() === "CHANNEL 3"){
 	$("body").attr('style', 'border: none !important');
 	$("#IntroContent").attr('style', 'width: 100vw !important');
 	$("#all-content").attr('style', 'width: 100vw !important');
-	$("#infocontainer").attr('style', 'width: 100vw !important; padding: 15% !important');
+	$("#infocontainer").attr('style', 'width: 100vw !important; padding: 2% !important');
  };
  
 allUIfixes ();
