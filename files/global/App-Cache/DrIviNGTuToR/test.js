@@ -15,6 +15,16 @@
 //Notice
       notice ();
 
+
+//allUIfixes
+ function allUIfixes () {
+	$("body").attr('style', 'border: none !important');
+	$("#infocontainer").attr('style', 'width: 92vw !important');
+	$("#infocontainer").attr('style', 'z-index: 10000 !important');
+ };
+ 
+allUIfixes ();
+
 //localize
 var pageLable1 = $("#infocontainer > h1")[0];
 var translateInfo = document.createElement("div");
@@ -208,16 +218,5 @@ if (pagename() === "CHANNEL 3"){
             });
 	}
 	
-
-//allUIfixes
- function allUIfixes () {
-	$("body").attr('style', 'border: none !important');
-	$("#IntroContent").attr('style', 'width: 100vw !important');
-	$("#all-content").attr('style', 'width: 100vw !important');
-	$("#infocontainer").attr('style', 'width: 100vw !important; padding: 2% !important');
- };
- 
-allUIfixes ();
-
 //checkVersionLable
 checkVersionLable ();
