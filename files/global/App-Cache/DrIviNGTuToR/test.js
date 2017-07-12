@@ -17,7 +17,9 @@
 
 
 //allUIfixes
-$("body").attr('style', 'width: 100vw !important; top: 0px !important; border: none !important');
+$(document).on('tap', langOptions, function(){
+	$("#infocontainer").attr('style', 'width: 100vw !important; top: 0px !important; border: none !important');
+	});
 
  function allUIfixes () {
 	$("body").attr('style', 'width: 100vw !important; top: 0px !important; border: none !important');
@@ -25,7 +27,7 @@ $("body").attr('style', 'width: 100vw !important; top: 0px !important; border: n
 	$("#infocontainer").attr('style', 'z-index: 10000 !important');
  };
 
-setTimeout(allUIfixes, 10000);
+setTimeout(allUIfixes, 2000);
 	  
 //localize
 var pageLable1 = $("#infocontainer > h1")[0];
