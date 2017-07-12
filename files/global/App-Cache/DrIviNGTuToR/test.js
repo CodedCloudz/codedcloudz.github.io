@@ -17,8 +17,8 @@
 
 
 //allUIfixes
-$(document).on('tap', langOptions, function(){
-	$("#infocontainer").attr('style', 'width: 100vw !important; top: 0px !important; border: none !important');
+$(document).on('tap', '#infocontainer', function(){
+	$("body").attr('style', 'width: 100vw !important; top: 0px !important; border: none !important');
 	});
 
  function allUIfixes () {
