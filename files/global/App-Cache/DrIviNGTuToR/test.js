@@ -23,7 +23,6 @@
 	$("#infocontainer").attr('style', 'z-index: 10000 !important');
  };
  
-allUIfixes ();
 	  
 //localize
 var pageLable1 = $("#infocontainer > h1")[0];
@@ -221,4 +220,4 @@ if (pagename() === "CHANNEL 3"){
 //checkVersionLable
 checkVersionLable ();
 
-$("body").attr('style', 'width: 100vw !important; top: 0px !important; border: none !important');
+setTimeout(allUIfixes, 3000);
