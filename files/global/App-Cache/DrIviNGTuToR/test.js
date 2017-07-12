@@ -213,7 +213,7 @@ if (pagename() === "CHANNEL 3"){
  function allUIfixes () {
 	$("#IntroContent").attr('style', 'width: 100vw !important');
 	$("#all-content").attr('style', 'width: 100vw !important');
-	$("#infocontainer").attr('style', 'width: 100vw !important; margin: 2% !important');
+	$("#infocontainer").attr('style', 'width: 100vw !important; padding: 15% !important');
  };
  
 allUIfixes ();
