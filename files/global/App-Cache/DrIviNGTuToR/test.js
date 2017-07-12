@@ -18,13 +18,13 @@
 
 //allUIfixes
  function allUIfixes () {
-	$("body").attr('style', 'border: none !important');
+	$("body").attr('style', 'width: 100vw !important; top: 0px !important; border: none !important');
 	$("#infocontainer").attr('style', 'width: 92vw !important');
 	$("#infocontainer").attr('style', 'z-index: 10000 !important');
  };
  
 allUIfixes ();
-
+	  
 //localize
 var pageLable1 = $("#infocontainer > h1")[0];
 var translateInfo = document.createElement("div");
@@ -217,6 +217,6 @@ if (pagename() === "CHANNEL 3"){
                 hideLoadingMechanism    :false,
             });
 	}
-	
+
 //checkVersionLable
 checkVersionLable ();
