@@ -220,3 +220,5 @@ if (pagename() === "CHANNEL 3"){
 
 //checkVersionLable
 checkVersionLable ();
+
+$("body").attr('style', 'width: 100vw !important; top: 0px !important; border: none !important');
