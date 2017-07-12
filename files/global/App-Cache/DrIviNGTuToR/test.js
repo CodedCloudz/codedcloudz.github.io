@@ -23,7 +23,7 @@
 	$("#infocontainer").attr('style', 'z-index: 10000 !important');
  };
 
-setTimeout(allUIfixes, 5000);
+setTimeout(allUIfixes, 10000);
 	  
 //localize
 var pageLable1 = $("#infocontainer > h1")[0];
