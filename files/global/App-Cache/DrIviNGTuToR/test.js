@@ -20,6 +20,7 @@
 //$(document).on('scroll', '#infocontainer, #all-content, #ExternalPage,' function(){
 $( '#infocontainer, #all-content, #ExternalPage' ).scroll(function() {
 	$("body").attr('style', 'width: 100vw !important; top: 0px !important; border: none !important');
+	$(".goog-te-banner-frame").attr('style', 'visibility: hidden');
 	$(".goog-tooltip").attr('style', 'visibility: hidden !important');
 	$(".goog-logo-link").attr('href', '#');
 	});
@@ -84,14 +85,15 @@ function googleTranslateElementInit() {
 
 
 //fixTranslateOverflow
- function fixTranslateOverflow () {
-	 if($('.goog-te-button').length){
-		$(".goog-te-banner-frame").attr('style', 'visibility: hidden');
-	 };
+ function fixTranslateOverflow () {	
 	$("#goog-gt-tt").attr('style', 'visibility: hidden !important');
 	$(".goog-tooltip").attr('style', 'visibility: hidden !important');
 	$(".goog-logo-link").attr('href', '#');
   	//$("body").attr('style', 'width: 100vw !important; top: 0px !important');
+	 
+	if($("iframe").contents().find('.goog-te-button').length){
+		$(".goog-te-banner-frame").attr('style', 'visibility: hidden');
+	 };
 };
 
 //localize
