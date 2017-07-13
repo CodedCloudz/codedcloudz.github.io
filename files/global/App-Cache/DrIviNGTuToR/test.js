@@ -17,7 +17,7 @@
 
 
 //allUIfixes
-$(document).on('tap', '#infocontainer', function(){
+$(document).on('scroll', '#infocontainer, #all-content, #ExternalPage,' function(){
 	document.getElementsByTagName("body")[0].style.width =  "100vw" + "!important";
 	document.getElementsByTagName("body")[0].style.border =  "none" + "!important";
 	document.getElementsByTagName("body")[0].style.top =  "0px" + "!important";
