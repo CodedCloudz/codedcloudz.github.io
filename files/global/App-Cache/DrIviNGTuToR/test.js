@@ -19,10 +19,8 @@
 //allUIfixes
 //$(document).on('scroll', '#infocontainer, #all-content, #ExternalPage,' function(){
 $( '#infocontainer, #all-content, #ExternalPage' ).scroll(function() {
-	document.getElementsByTagName("body")[0].style.width =  "100vw" + "!important";
-	document.getElementsByTagName("body")[0].style.border =  "none" + "!important";
-	document.getElementsByTagName("body")[0].style.top =  "0px" + "!important";
 	$("body").attr('style', 'width: 100vw !important; top: 0px !important; border: none !important');
+	$(".goog-tooltip").attr('style', 'visibility: hidden !important');
 	$(".goog-logo-link").attr('href', '#');
 	});
 
@@ -87,7 +85,9 @@ function googleTranslateElementInit() {
 
 //fixTranslateOverflow
  function fixTranslateOverflow () {
-	$(".goog-te-banner-frame").attr('style', 'visibility: hidden');
+	 if($('.goog-te-button').length){
+		$(".goog-te-banner-frame").attr('style', 'visibility: hidden');
+	 };
 	$("#goog-gt-tt").attr('style', 'visibility: hidden !important');
 	$(".goog-tooltip").attr('style', 'visibility: hidden !important');
 	$(".goog-logo-link").attr('href', '#');
