@@ -1,9 +1,9 @@
   /*
  ***************************************
-*	     * CODED FRAMEWORK *	*
-*	DEVELOPED BY: CASTERO - KUMASI	*
-*					*
-*		 AKA: CODED		*
+*		 * CODED FRAMEWORK *  			*
+*	DEVELOPED BY: CASTERO - KUMASI		*
+*										*
+*			  AKA: CODED				*
  ***************************************
 */
 
