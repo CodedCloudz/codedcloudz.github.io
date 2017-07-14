@@ -7,4 +7,246 @@
  ***************************************
 */
 
-var _0x644f=["\x73\x74\x79\x6C\x65","\x77\x69\x64\x74\x68\x3A\x20\x31\x30\x30\x76\x77\x20\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74\x3B\x20\x74\x6F\x70\x3A\x20\x30\x70\x78\x20\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74\x3B\x20\x62\x6F\x72\x64\x65\x72\x3A\x20\x6E\x6F\x6E\x65\x20\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74","\x61\x74\x74\x72","\x62\x6F\x64\x79","\x76\x69\x73\x69\x62\x69\x6C\x69\x74\x79\x3A\x20\x68\x69\x64\x64\x65\x6E","\x2E\x67\x6F\x6F\x67\x2D\x74\x65\x2D\x62\x61\x6E\x6E\x65\x72\x2D\x66\x72\x61\x6D\x65","\x76\x69\x73\x69\x62\x69\x6C\x69\x74\x79\x3A\x20\x68\x69\x64\x64\x65\x6E\x20\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74","\x2E\x67\x6F\x6F\x67\x2D\x74\x6F\x6F\x6C\x74\x69\x70","\x68\x72\x65\x66","\x23","\x2E\x67\x6F\x6F\x67\x2D\x6C\x6F\x67\x6F\x2D\x6C\x69\x6E\x6B","\x73\x63\x72\x6F\x6C\x6C","\x23\x69\x6E\x66\x6F\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72\x2C\x20\x23\x61\x6C\x6C\x2D\x63\x6F\x6E\x74\x65\x6E\x74\x2C\x20\x23\x45\x78\x74\x65\x72\x6E\x61\x6C\x50\x61\x67\x65","\x77\x69\x64\x74\x68\x3A\x20\x39\x32\x76\x77\x20\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74","\x23\x69\x6E\x66\x6F\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72","\x7A\x2D\x69\x6E\x64\x65\x78\x3A\x20\x31\x30\x30\x30\x30\x20\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74","\x23\x69\x6E\x66\x6F\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72\x20\x3E\x20\x68\x31","\x64\x69\x76","\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74","\x69\x64","\x74\x72\x61\x6E\x73\x6C\x61\x74\x65\x4D\x53\x47","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x5B\x20\x4C\x61\x6E\x67\x75\x61\x67\x65\x20\x4C\x6F\x61\x64\x69\x6E\x67\x2E\x2E\x2E\x20\x5D","\x63\x6F\x6C\x6F\x72","\x23\x30\x30\x66\x66\x30\x30","\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64","\x62\x6C\x61\x63\x6B","\x70\x61\x64\x64\x69\x6E\x67","\x32\x25","\x7A\x6F\x6F\x6D","\x31\x2E\x32","\x74\x65\x78\x74\x53\x68\x61\x64\x6F\x77","\x30\x20\x31\x70\x78\x20\x30\x20\x23\x30\x30\x30","\x61\x66\x74\x65\x72","\x67\x6F\x6F\x67\x6C\x65\x5F\x74\x72\x61\x6E\x73\x6C\x61\x74\x65\x5F\x65\x6C\x65\x6D\x65\x6E\x74","\x23\x74\x72\x61\x6E\x73\x6C\x61\x74\x65\x4D\x53\x47","\x65\x6E","\x74\x72\x61\x6E\x73\x6C\x61\x74\x65","\x77\x69\x64\x74\x68\x3A\x20\x31\x30\x25\x20\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74","\x23\x67\x6F\x6F\x67\x6C\x65\x5F\x74\x72\x61\x6E\x73\x6C\x61\x74\x65\x5F\x65\x6C\x65\x6D\x65\x6E\x74\x20\x69\x6D\x67","\x7A\x6F\x6F\x6D\x3A\x20\x32","\x2E\x67\x6F\x6F\x67\x2D\x74\x65\x2D\x67\x61\x64\x67\x65\x74\x20\x2E\x67\x6F\x6F\x67\x2D\x74\x65\x2D\x63\x6F\x6D\x62\x6F","\x64\x69\x73\x70\x6C\x61\x79\x3A\x20\x6E\x6F\x6E\x65","\x2E\x67\x6F\x6F\x67\x2D\x74\x65\x2D\x63\x6F\x6D\x62\x6F\x20\x3E\x20\x6F\x70\x74\x69\x6F\x6E","\x74\x61\x70","\x76\x69\x73\x69\x62\x69\x6C\x69\x74\x79\x3A\x20\x76\x69\x73\x69\x62\x6C\x65","\x6F\x6E","\x6E\x6F\x74\x72\x61\x6E\x73\x6C\x61\x74\x65","\x61\x64\x64\x43\x6C\x61\x73\x73","\x23\x68\x65\x61\x64\x65\x72","\x23\x61\x62\x6F\x75\x74\x44\x69\x61\x6C\x6F\x67","\x2E\x6D\x61\x69\x6E\x66\x6F\x6F\x74\x65\x72","\x74\x69\x74\x6C\x65","\x73\x63\x72\x69\x70\x74","\x74\x79\x70\x65","\x74\x65\x78\x74\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74","\x73\x72\x63","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x74\x72\x61\x6E\x73\x6C\x61\x74\x65\x2E\x67\x6F\x6F\x67\x6C\x65\x2E\x63\x6F\x6D\x2F\x74\x72\x61\x6E\x73\x6C\x61\x74\x65\x5F\x61\x2F\x65\x6C\x65\x6D\x65\x6E\x74\x2E\x6A\x73\x3F\x63\x62\x3D\x67\x6F\x6F\x67\x6C\x65\x54\x72\x61\x6E\x73\x6C\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74\x49\x6E\x69\x74","\x61\x70\x70\x65\x6E\x64","\x68\x65\x61\x64","\x23\x67\x6F\x6F\x67\x2D\x67\x74\x2D\x74\x74","\x6C\x65\x6E\x67\x74\x68","\x2E\x67\x6F\x6F\x67\x2D\x74\x65\x2D\x62\x75\x74\x74\x6F\x6E","\x66\x69\x6E\x64","\x63\x6F\x6E\x74\x65\x6E\x74\x73","\x69\x66\x72\x61\x6D\x65","\x59\x6F\x75\x72\x20\x41\x70\x70\x20\x69\x73\x20\x74\x6F\x6F\x20\x6F\x6C\x64\x2C\x20\x0A\x43\x6C\x69\x63\x6B\x20\x4F\x4B\x20\x74\x6F\x20\x55\x70\x64\x61\x74\x65\x20\x6E\x6F\x77\x21","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x6D\x61\x72\x6B\x65\x74\x3A\x2F\x2F\x64\x65\x74\x61\x69\x6C\x73\x3F\x69\x64\x3D\x63\x6F\x6D\x2E\x63\x61\x73\x74\x65\x72\x6F\x61\x70\x70\x73\x2E\x64\x72\x69\x76\x69\x6E\x67\x74\x75\x74\x6F\x72","\x23\x61\x62\x6F\x75\x74\x44\x69\x61\x6C\x6F\x67\x20\x3E\x20\x68\x34\x3E\x61","\x23\x61\x62\x6F\x75\x74\x44\x69\x61\x6C\x6F\x67\x20\x3E\x20\x68\x33\x3E\x61","\x44\x52\x49\x56\x49\x4E\x47\x20\x54\x55\x54\x4F\x52\x20\x32\x2E\x30","\x41\x6E\x20\x49\x6D\x70\x6F\x72\x74\x61\x6E\x74\x20\x55\x70\x64\x61\x74\x65\x20\x41\x76\x61\x69\x6C\x61\x62\x6C\x65\x2C\x20\x0A\x43\x6C\x69\x63\x6B\x20\x4F\x4B\x20\x74\x6F\x20\x55\x70\x64\x61\x74\x65\x20\x74\x68\x69\x73\x20\x41\x70\x70\x20\x6E\x6F\x77\x21","\x63\x6F\x6E\x6E\x65\x63\x74\x65\x64","\x74\x65\x78\x74","\x54\x49\x54\x4C\x45","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65","\x47\x48\x20\x53\x54\x41\x52\x53","\x47\x41\x4C\x4C\x45\x52\x59","\x68\x74\x74\x70\x3A\x2F\x2F\x77\x77\x77\x2E\x62\x69\x6E\x67\x2E\x63\x6F\x6D\x2F\x69\x6D\x61\x67\x65\x73\x2F\x73\x65\x61\x72\x63\x68\x3F\x71\x3D\x6C\x61\x74\x65\x73\x74\x25\x32\x30\x63\x61\x72\x73\x26\x71\x73\x3D\x6E\x26\x66\x6F\x72\x6D\x3D\x51\x42\x49\x52\x26\x73\x70\x3D\x2D\x31\x26\x70\x71\x3D\x6C\x61\x74\x65\x73\x74\x25\x32\x30\x63\x61\x72\x26\x73\x63\x3D\x38\x2D\x31\x38\x26\x73\x6B\x3D\x26\x63\x76\x69\x64\x3D\x45\x37\x39\x46\x36\x31\x34\x31\x44\x43\x39\x46\x34\x36\x38\x38\x42\x32\x41\x42\x31\x34\x38\x44\x33\x41\x45\x44\x30\x46\x45\x32\x26\x61\x6A\x66\x3D\x36\x30","\x43\x48\x41\x4E\x4E\x45\x4C\x20\x31","\x41\x49\x7A\x61\x53\x79\x41\x6C\x68\x41\x71\x50\x35\x52\x53\x37\x47\x78\x77\x67\x5F\x30\x72\x5F\x72\x68\x39\x6A\x4F\x76\x5F\x35\x57\x66\x61\x4A\x67\x58\x77","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x6D\x2E\x79\x6F\x75\x74\x75\x62\x65\x2E\x63\x6F\x6D\x2F\x63\x68\x61\x6E\x6E\x65\x6C\x2F\x55\x43\x50\x77\x74\x2D\x67\x4C\x58\x41\x4D\x4D\x56\x56\x6E\x65\x36\x54\x46\x79\x43\x44\x46\x41","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x79\x6F\x75\x74\x75\x62\x65\x2E\x63\x6F\x6D\x2F\x3F\x6C\x69\x73\x74\x54\x79\x70\x65\x3D\x75\x73\x65\x72\x5F\x75\x70\x6C\x6F\x61\x64\x73\x26\x6C\x69\x73\x74\x3D\x73\x68\x65\x6D\x6D\x61\x74\x69\x31\x30\x79\x74","\x50\x6C\x61\x79\x6C\x69\x73\x74\x73","\x70\x6F\x70\x75\x70","\x32\x30","\x3C\x69\x20\x63\x6C\x61\x73\x73\x3D\x22\x66\x61\x20\x66\x61\x2D\x70\x6C\x75\x73\x22\x3E\x3C\x2F\x69\x3E\x26\x6E\x62\x73\x70\x3B\x26\x6E\x62\x73\x70\x3B\x53\x68\x6F\x77\x20\x6D\x65\x20\x6D\x6F\x72\x65\x20\x76\x69\x64\x65\x6F\x73\x2E\x2E","\x3C\x69\x20\x63\x6C\x61\x73\x73\x3D\x22\x66\x61\x20\x66\x61\x2D\x61\x6E\x67\x6C\x65\x2D\x6C\x65\x66\x74\x22\x3E\x3C\x2F\x69\x3E\x26\x6E\x62\x73\x70\x3B\x26\x6E\x62\x73\x70\x3B\x50\x72\x65\x76\x69\x6F\x75\x73","\x4E\x65\x78\x74\x26\x6E\x62\x73\x70\x3B\x26\x6E\x62\x73\x70\x3B\x3C\x69\x20\x63\x6C\x61\x73\x73\x3D\x22\x66\x61\x20\x66\x61\x2D\x61\x6E\x67\x6C\x65\x2D\x72\x69\x67\x68\x74\x22\x3E\x3C\x2F\x69\x3E","\x50\x6C\x65\x61\x73\x65\x20\x57\x61\x69\x74\x2E\x2E\x20\x3C\x62\x72\x3E\x20\x56\x69\x64\x65\x6F\x73\x20\x61\x72\x65\x20\x6C\x6F\x61\x64\x69\x6E\x67\x2E\x2E","\x3C\x69\x20\x63\x6C\x61\x73\x73\x3D\x22\x66\x61\x20\x66\x61\x2D\x74\x69\x6D\x65\x73\x22\x3E\x3C\x2F\x69\x3E\x26\x6E\x62\x73\x70\x3B\x26\x6E\x62\x73\x70\x3B\x41\x6C\x6C\x20\x64\x6F\x6E\x65\x2E\x2E","\x79\x6F\x75\x6D\x61\x78","\x2E\x79\x6F\x75\x6D\x61\x78","\x43\x48\x41\x4E\x4E\x45\x4C\x20\x32","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x79\x6F\x75\x74\x75\x62\x65\x2E\x63\x6F\x6D\x2F\x63\x68\x61\x6E\x6E\x65\x6C\x2F\x55\x43\x39\x34\x72\x6B\x4E\x68\x69\x78\x79\x56\x41\x32\x4E\x5F\x55\x59\x54\x51\x79\x56\x65\x67","\x43\x48\x41\x4E\x4E\x45\x4C\x20\x33","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x79\x6F\x75\x74\x75\x62\x65\x2E\x63\x6F\x6D\x2F\x75\x73\x65\x72\x2F\x70\x75\x72\x70\x6C\x65\x64\x72\x69\x76\x69\x6E\x67","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x79\x6F\x75\x74\x75\x62\x65\x2E\x63\x6F\x6D\x2F\x3F\x6C\x69\x73\x74\x54\x79\x70\x65\x3D\x75\x73\x65\x72\x5F\x75\x70\x6C\x6F\x61\x64\x73\x26\x6C\x69\x73\x74\x3D\x70\x75\x72\x70\x6C\x65\x64\x72\x69\x76\x69\x6E\x67"];var _0xcd4a=[_0x644f[0],_0x644f[1],_0x644f[2],_0x644f[3],_0x644f[4],_0x644f[5],_0x644f[6],_0x644f[7],_0x644f[8],_0x644f[9],_0x644f[10],_0x644f[11],_0x644f[12],_0x644f[13],_0x644f[14],_0x644f[15],_0x644f[16],_0x644f[17],_0x644f[18],_0x644f[19],_0x644f[20],_0x644f[21],_0x644f[22],_0x644f[23],_0x644f[24],_0x644f[25],_0x644f[26],_0x644f[27],_0x644f[28],_0x644f[29],_0x644f[30],_0x644f[31],_0x644f[32],_0x644f[33],_0x644f[34],_0x644f[35],_0x644f[36],_0x644f[37],_0x644f[38],_0x644f[39],_0x644f[40],_0x644f[41],_0x644f[42],_0x644f[43],_0x644f[44],_0x644f[45],_0x644f[46],_0x644f[47],_0x644f[48],_0x644f[49],_0x644f[50],_0x644f[51],_0x644f[52],_0x644f[53],_0x644f[54],_0x644f[55],_0x644f[56],_0x644f[57],_0x644f[58],_0x644f[59],_0x644f[60],_0x644f[61],_0x644f[62],_0x644f[63],_0x644f[64],_0x644f[65],_0x644f[66],_0x644f[67],_0x644f[68],_0x644f[69],_0x644f[70],_0x644f[71],_0x644f[72],_0x644f[73],_0x644f[74],_0x644f[75],_0x644f[76],_0x644f[77],_0x644f[78],_0x644f[79],_0x644f[80],_0x644f[81],_0x644f[82],_0x644f[83],_0x644f[84],_0x644f[85],_0x644f[86],_0x644f[87],_0x644f[88],_0x644f[89],_0x644f[90],_0x644f[91],_0x644f[92],_0x644f[93],_0x644f[94],_0x644f[95],_0x644f[96],_0x644f[97],_0x644f[98]];notice();$(_0xcd4a[12])[_0xcd4a[11]](function(){$(_0xcd4a[3])[_0xcd4a[2]](_0xcd4a[0],_0xcd4a[1]);$(_0xcd4a[5])[_0xcd4a[2]](_0xcd4a[0],_0xcd4a[4]);$(_0xcd4a[7])[_0xcd4a[2]](_0xcd4a[0],_0xcd4a[6]);$(_0xcd4a[10])[_0xcd4a[2]](_0xcd4a[8],_0xcd4a[9])});function allUIfixes(){$(_0xcd4a[3])[_0xcd4a[2]](_0xcd4a[0],_0xcd4a[1]);$(_0xcd4a[14])[_0xcd4a[2]](_0xcd4a[0],_0xcd4a[13]);$(_0xcd4a[14])[_0xcd4a[2]](_0xcd4a[0],_0xcd4a[15])}setTimeout(allUIfixes,2000);var pageLable1=$(_0xcd4a[16])[0];var translateInfo=document[_0xcd4a[18]](_0xcd4a[17]);translateInfo[_0xcd4a[19]]= _0xcd4a[20];translateInfo[_0xcd4a[21]]= _0xcd4a[22];translateInfo[_0xcd4a[0]][_0xcd4a[23]]= _0xcd4a[24];translateInfo[_0xcd4a[0]][_0xcd4a[25]]= _0xcd4a[26];translateInfo[_0xcd4a[0]][_0xcd4a[27]]= _0xcd4a[28];translateInfo[_0xcd4a[0]][_0xcd4a[29]]= _0xcd4a[30];translateInfo[_0xcd4a[0]][_0xcd4a[31]]= _0xcd4a[32];$(pageLable1)[_0xcd4a[33]](translateInfo);var translateBox=document[_0xcd4a[18]](_0xcd4a[17]);translateBox[_0xcd4a[19]]= _0xcd4a[34];$(_0xcd4a[35])[_0xcd4a[33]](translateBox);function googleTranslateElementInit(){ new google[_0xcd4a[37]].TranslateElement({pageLanguage:_0xcd4a[36]},_0xcd4a[34]);$(_0xcd4a[39])[_0xcd4a[2]](_0xcd4a[0],_0xcd4a[38]);$(_0xcd4a[41])[_0xcd4a[2]](_0xcd4a[0],_0xcd4a[40]);$(_0xcd4a[35])[_0xcd4a[2]](_0xcd4a[0],_0xcd4a[42]);$(_0xcd4a[10])[_0xcd4a[2]](_0xcd4a[8],_0xcd4a[9]);var _0x4a49x7=$(_0xcd4a[43])[0];$(document)[_0xcd4a[46]](_0xcd4a[44],_0x4a49x7,function(){$(_0xcd4a[5])[_0xcd4a[2]](_0xcd4a[0],_0xcd4a[45]);setTimeout(fixTranslateOverflow,7000)})}function localize(){$(_0xcd4a[49])[_0xcd4a[48]](_0xcd4a[47]);$(_0xcd4a[50])[_0xcd4a[48]](_0xcd4a[47]);$(_0xcd4a[51])[_0xcd4a[48]](_0xcd4a[47]);$(_0xcd4a[52])[_0xcd4a[48]](_0xcd4a[47]);var _0x4a49x9=document[_0xcd4a[18]](_0xcd4a[53]);_0x4a49x9[_0xcd4a[54]]= _0xcd4a[55];_0x4a49x9[_0xcd4a[56]]= _0xcd4a[57];$(_0xcd4a[59])[_0xcd4a[58]](_0x4a49x9)}function fixTranslateOverflow(){$(_0xcd4a[60])[_0xcd4a[2]](_0xcd4a[0],_0xcd4a[6]);$(_0xcd4a[7])[_0xcd4a[2]](_0xcd4a[0],_0xcd4a[6]);$(_0xcd4a[10])[_0xcd4a[2]](_0xcd4a[8],_0xcd4a[9]);if($(_0xcd4a[65])[_0xcd4a[64]]()[_0xcd4a[63]](_0xcd4a[62])[_0xcd4a[61]]){$(_0xcd4a[5])[_0xcd4a[2]](_0xcd4a[0],_0xcd4a[4])}}localize();function checkversion(){if(appversion()< 1.0){if(confirm(_0xcd4a[66])=== true){window[_0xcd4a[67]][_0xcd4a[8]]= _0xcd4a[68]}}}var versionLable1=$(_0xcd4a[69])[0][_0xcd4a[21]]|| $(_0xcd4a[70])[0][_0xcd4a[21]];function checkVersionLable(){if(versionLable1!== _0xcd4a[71]){if(confirm(_0xcd4a[72])=== true){window[_0xcd4a[67]][_0xcd4a[8]]= _0xcd4a[68]}}}var codedcloud=_0xcd4a[73];function notice(){var _0x4a49x10=document[_0xcd4a[76]](_0xcd4a[75])[0][_0xcd4a[74]];if(_0x4a49x10=== _0xcd4a[77]){}}if(pagename()=== _0xcd4a[78]){window[_0xcd4a[67]][_0xcd4a[8]]= _0xcd4a[79]};if(pagename()=== _0xcd4a[80]){$(_0xcd4a[93])[_0xcd4a[92]]({apiKey:_0xcd4a[81],channelLink:_0xcd4a[82],playlistLink:_0xcd4a[83],defaultTab:_0xcd4a[84],videoDisplayMode:_0xcd4a[85],maxResults:_0xcd4a[86],autoPlay:true,displayFirstVideoOnLoad:true,responsiveBreakpoints:[600,900,2000,2500],loadMoreText:_0xcd4a[87],previousButtonText:_0xcd4a[88],nextButtonText:_0xcd4a[89],loadingText:_0xcd4a[90],allDoneText:_0xcd4a[91],hideHeader:false,hideTabs:false,hideLoadingMechanism:false})};if(pagename()=== _0xcd4a[94]){$(_0xcd4a[93])[_0xcd4a[92]]({apiKey:_0xcd4a[81],channelLink:_0xcd4a[95],playlistLink:_0xcd4a[83],defaultTab:_0xcd4a[84],videoDisplayMode:_0xcd4a[85],maxResults:_0xcd4a[86],autoPlay:true,displayFirstVideoOnLoad:true,responsiveBreakpoints:[600,900,2000,2500],loadMoreText:_0xcd4a[87],previousButtonText:_0xcd4a[88],nextButtonText:_0xcd4a[89],loadingText:_0xcd4a[90],allDoneText:_0xcd4a[91],hideHeader:false,hideTabs:false,hideLoadingMechanism:false})};if(pagename()=== _0xcd4a[96]){$(_0xcd4a[93])[_0xcd4a[92]]({apiKey:_0xcd4a[81],channelLink:_0xcd4a[97],playlistLink:_0xcd4a[98],defaultTab:_0xcd4a[84],videoDisplayMode:_0xcd4a[85],maxResults:_0xcd4a[86],autoPlay:true,displayFirstVideoOnLoad:true,responsiveBreakpoints:[600,900,2000,2500],loadMoreText:_0xcd4a[87],previousButtonText:_0xcd4a[88],nextButtonText:_0xcd4a[89],loadingText:_0xcd4a[90],allDoneText:_0xcd4a[91],hideHeader:false,hideTabs:false,hideLoadingMechanism:false})};checkVersionLable()
+//                -- PRELOADERS --
+
+//updateChecker
+     // checkversion ();
+
+//criticalfixes	 
+criticalfixes ();
+
+//Notice
+      notice ();
+
+//criticalfixes
+ function criticalfixes () {
+	$("body").attr('style', 'width: 100vw !important; top: 0px !important; border: none !important');
+	$("#infocontainer").attr('style', 'width: 100% !important');
+	$("#all-content").attr('style', 'width: 90vw !important');
+	document.getElementById("all-content").style.background = "none";
+	document.getElementById("infocontainer").style.background = "none";
+	//$("#all-content").attr('style', 'z-index: 9000 !important');
+	//$("#infocontainer").attr('style', 'z-index: 10000 !important');
+ };
+
+//allUIfixes
+//$(document).on('scroll', '#infocontainer, #all-content, #ExternalPage,' function(){
+$( '#infocontainer, #all-content, #ExternalPage' ).scroll(function() {
+	$("body").attr('style', 'width: 100vw !important; top: 0px !important; border: none !important');
+	$(".goog-te-banner-frame").attr('style', 'visibility: hidden');
+	$(".goog-tooltip").attr('style', 'visibility: hidden !important');
+	$(".goog-logo-link").attr('href', '#');
+	});
+
+ function allUIfixes () {
+	$("body").attr('style', 'width: 100vw !important; top: 0px !important; border: none !important');
+	$("#infocontainer").attr('style', 'width: 100% !important');
+	$("#all-content").attr('style', 'width: 90vw !important');
+	document.getElementById("all-content").style.background = "none";
+	document.getElementById("infocontainer").style.background = "none";
+	//$("#all-content").attr('style', 'z-index: 9000 !important');
+	//$("#infocontainer").attr('style', 'z-index: 10000 !important');
+ };
+
+setTimeout(allUIfixes, 2000);
+	  
+//localize
+var pageLable1 = $("#infocontainer > h1")[0];
+var translateInfo = document.createElement("div");
+	    translateInfo.id = "translateMSG";
+	    translateInfo.innerHTML = "[ Language Loading... ]";
+	    translateInfo.style.color = "#00ff00";
+	    translateInfo.style.background = "black";
+	    translateInfo.style.padding = "2%";
+	    translateInfo.style.zoom = "1.2";
+	    translateInfo.style.textShadow = "0 1px 0 #000";
+	    // Use any selector
+	    $(pageLable1).after(translateInfo);
+
+var translateBox = document.createElement("div");
+	    translateBox.id = "google_translate_element";
+	    // Use any selector
+	    $("#translateMSG").after(translateBox);
+
+function googleTranslateElementInit() {
+	new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+	
+	//fixTranslateUI
+	$("#google_translate_element img").attr('style', 'width: 10% !important');
+	$(".goog-te-gadget .goog-te-combo").attr('style', 'zoom: 2');
+	$("#translateMSG").attr('style', 'display: none');
+	$(".goog-logo-link").attr('href', '#');
+ 	//$("body").attr('style', 'width: 100vw !important; top: 0px !important');
+	
+	//$(document).on('tap', '#google_translate_element, #goog-te-combo, .skiptranslate, .goog-te-gadget', function(){
+	var langOptions = $(".goog-te-combo > option")[0];
+	$(document).on('tap', langOptions, function(){
+		$(".goog-te-banner-frame").attr('style', 'visibility: visible');
+		//$("body").attr('style', 'width: 100vw !important; top: 0px !important');
+		setTimeout(fixTranslateOverflow, 7000);
+		});
+	};
+
+ function localize () {	
+	 $("#header").addClass("notranslate");
+	 $("#aboutDialog").addClass("notranslate");
+	 $(".mainfooter").addClass("notranslate");
+	 $("title").addClass("notranslate");
+	 
+	var translateJS = document.createElement("script");
+	    translateJS.type = "text/javascript";
+	    translateJS.src = "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
+	    // Use any selector
+	    $("head").append(translateJS);
+};
+
+
+//fixTranslateOverflow
+ function fixTranslateOverflow () {	
+	$("#goog-gt-tt").attr('style', 'visibility: hidden !important');
+	$(".goog-tooltip").attr('style', 'visibility: hidden !important');
+	$(".goog-logo-link").attr('href', '#');
+  	//$("body").attr('style', 'width: 100vw !important; top: 0px !important');
+	 
+	if($("iframe").contents().find('.goog-te-button').length){
+		$(".goog-te-banner-frame").attr('style', 'visibility: hidden');
+	 };
+};
+
+//localize
+localize ();
+
+//checkversion
+ function checkversion () {
+
+if (appversion () < 1.0) { 
+	if (confirm("Your App is too old, \nClick OK to Update now!") === true) {
+		window.location.href = 'market://details?id=com.casteroapps.drivingtutor';
+	};
+		};
+};
+
+
+//checkVersionLable
+var versionLable1 = $("#aboutDialog > h4>a")[0].innerHTML || $("#aboutDialog > h3>a")[0].innerHTML;
+ function checkVersionLable () {
+
+if (versionLable1 !== "DRIVING TUTOR 2.0") { 
+	if (confirm("An Important Update Available, \nClick OK to Update this App now!") === true) {
+		window.location.href = 'market://details?id=com.casteroapps.drivingtutor';
+	};
+		};
+};
+
+
+//codedOnline
+var codedcloud = "connected"
+
+//notice
+ function notice () {
+
+var pagetitle = document.getElementsByTagName("TITLE")[0].text;
+
+if (pagetitle === "GH STARS"){	
+	//alert("The National Service, News, Music, E-payslip & Technical Results function in this App is now fully completed. So tell everyone about this. \n\nAll functions with grayed icon is still under development. \n\nThank you.");
+	//alert("Hello user, The Training Videos function in this App is now completed. Click on the Training Videos button to enjoy your KungFu video lessons.  \nKindly tell all your friends to use Learn KungFu. \n\nAnd also, do the following always to support this app: \n\n1) Click on most of the Ads in this app to support the cost of servers the app is running on. \n\n2) Go to Google Play Store, scroll down and Rate 5stars with a nice comment for this app..");
+	}
+}; 
+
+
+if (pagename() === "GALLERY"){ 
+   
+ window.location.href = 'http://www.bing.com/images/search?q=latest%20cars&qs=n&form=QBIR&sp=-1&pq=latest%20car&sc=8-18&sk=&cvid=E79F6141DC9F4688B2AB148D3AED0FE2&ajf=60';	
+	};
+
+//CHANNEL
+if (pagename() === "CHANNEL 1"){
+  $(".youmax").youmax({
+                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
+                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
+                channelLink:"https://m.youtube.com/channel/UCPwt-gLXAMMVVne6TFyCDFA",
+	  	playlistLink:"https://www.youtube.com/?listType=user_uploads&list=shemmati10yt",
+                //playlistLink:"https://m.youtube.com/channel/UCPwt-gLXAMMVVne6TFyCDFA/playlists",
+                
+                defaultTab:"Playlists",         //Uploads|Playlists|Featured
+                videoDisplayMode:"popup",       //popup|link|inline
+
+                maxResults:"20",
+                autoPlay:true,
+                displayFirstVideoOnLoad:true,       //for inline video display mode only                
+
+                responsiveBreakpoints   :[600,900,2000,2500],
+
+                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
+                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
+                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
+                loadingText             :"Please Wait.. <br> Videos are loading..",
+                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
+
+                hideHeader              :false,
+                hideTabs                :false,
+                hideLoadingMechanism    :false,
+            });
+	}
+
+
+if (pagename() === "CHANNEL 2"){
+  $(".youmax").youmax({
+                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
+                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
+                channelLink:"https://www.youtube.com/channel/UC94rkNhixyVA2N_UYTQyVeg",
+	  	playlistLink:"https://www.youtube.com/?listType=user_uploads&list=shemmati10yt",
+                //playlistLink:"https://www.youtube.com/channel/UC94rkNhixyVA2N_UYTQyVeg/playlists",
+                
+                defaultTab:"Playlists",         //Uploads|Playlists|Featured
+                videoDisplayMode:"popup",       //popup|link|inline
+
+                maxResults:"20",
+                autoPlay:true,
+                displayFirstVideoOnLoad:true,       //for inline video display mode only                
+
+                responsiveBreakpoints   :[600,900,2000,2500],
+
+                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
+                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
+                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
+                loadingText             :"Please Wait.. <br> Videos are loading..",
+                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
+
+                hideHeader              :false,
+                hideTabs                :false,
+                hideLoadingMechanism    :false,
+            });
+	}
+
+
+if (pagename() === "CHANNEL 3"){
+  $(".youmax").youmax({
+                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
+                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
+                channelLink:"https://www.youtube.com/user/purpledriving",
+                playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
+                
+                defaultTab:"Playlists",         //Uploads|Playlists|Featured
+                videoDisplayMode:"popup",       //popup|link|inline
+
+                maxResults:"20",
+                autoPlay:true,
+                displayFirstVideoOnLoad:true,       //for inline video display mode only                
+
+                responsiveBreakpoints   :[600,900,2000,2500],
+
+                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
+                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
+                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
+                loadingText             :"Please Wait.. <br> Videos are loading..",
+                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
+
+                hideHeader              :false,
+                hideTabs                :false,
+                hideLoadingMechanism    :false,
+            });
+	}
+
+//checkVersionLable
+checkVersionLable ();
