@@ -11,19 +11,11 @@
 
 
 //allUIfixes
-$( '#all-content, #ExternalPage' ).scroll(function() {
+$( '#infocontainer, #all-content, #ExternalPage' ).scroll(function() {
 	$("body").attr('style', 'width: 100vw !important; top: 0px !important; border: none !important');
 	$(".goog-te-banner-frame").attr('style', 'visibility: hidden');
 	$(".goog-tooltip").attr('style', 'visibility: hidden !important');
 	$(".goog-logo-link").attr('href', '#');
-	
-	$('.lazy').each(function(){
-	    if ($(this).is(":in-viewport")) {
-		$(this).css('visibility', 'visible' )
-	    } 
-		else {
-		$(this).css('visibility', 'hidden' )
-	    }}) 
 	});
 
  function allUIfixes () {
