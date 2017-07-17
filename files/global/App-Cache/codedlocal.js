@@ -12,7 +12,7 @@
 
 //allUIfixes
 $( '#all-content, #ExternalPage' ).scroll(function() {
-	$("#all-content").on('scroll', playvid);
+	playvid ();
 	$("body").attr('style', 'width: 100vw !important; top: 0px !important; border: none !important');
 	$(".goog-te-banner-frame").attr('style', 'visibility: hidden');
 	$(".goog-tooltip").attr('style', 'visibility: hidden !important');
@@ -27,7 +27,7 @@ $( '#all-content, #ExternalPage' ).scroll(function() {
 	document.getElementById("infocontainer").style.background = "none";
  };
 
-//setTimeout(allUIfixes, 2000);
+setTimeout(allUIfixes, 2000);
 	  
 //localize
 /*
