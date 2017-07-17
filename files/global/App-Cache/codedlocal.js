@@ -34,7 +34,7 @@ $( '#all-content, #ExternalPage' ).scroll(function() {
 	document.getElementById("infocontainer").style.background = "none";
  };
 
-setTimeout(allUIfixes, 2000);
+//setTimeout(allUIfixes, 2000);
 	  
 //localize
 /*
