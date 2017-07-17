@@ -11,7 +11,8 @@
 
 
 //allUIfixes
-$( '#infocontainer, #all-content, #ExternalPage' ).scroll(function() {
+$( '#all-content, #ExternalPage' ).scroll(function() {
+	$("#all-content").on('scroll', playvid);
 	$("body").attr('style', 'width: 100vw !important; top: 0px !important; border: none !important');
 	$(".goog-te-banner-frame").attr('style', 'visibility: hidden');
 	$(".goog-tooltip").attr('style', 'visibility: hidden !important');
