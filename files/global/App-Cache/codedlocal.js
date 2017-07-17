@@ -16,7 +16,14 @@ $( '#all-content, #ExternalPage' ).scroll(function() {
 	$(".goog-te-banner-frame").attr('style', 'visibility: hidden');
 	$(".goog-tooltip").attr('style', 'visibility: hidden !important');
 	$(".goog-logo-link").attr('href', '#');
-	playvid ();
+	
+	$('.lazy').each(function(){
+	    if ($(this).is(":in-viewport")) {
+		$(this).css('visibility', 'visible' )
+	    } 
+		else {
+		$(this).css('visibility', 'hidden' )
+	    }}) 
 	});
 
  function allUIfixes () {
