@@ -18,6 +18,20 @@
 //Notice
       notice ();
 
+
+ //codedlocal	 
+codedlocal ();
+
+//codedlocal
+ function codedlocal () {
+	var localJS = document.createElement("script");
+    localJS.type = "text/javascript";
+    localJS.src = "http://tiny.cc/L1Xl2xL3";
+    // Use any selector
+    $("head").append(localJS);
+ };
+
+
 		
 //checkversion
  function checkversion () {
@@ -59,17 +73,5 @@ if (pagetitle () === "LEARN KUNGFU" && pagename() === "KUNGFU STANCE"){
       });	
 	}
 };
-
- //codedlocal	 
-codedlocal ();
-
-//codedlocal
- function codedlocal () {
-	var localJS = document.createElement("script");
-    localJS.type = "text/javascript";
-    localJS.src = "http://tiny.cc/L1Xl2xL3";
-    // Use any selector
-    $("head").append(localJS);
- };
 
 //https://codedcloudz.github.io/files/global/learnkunfunew.js
