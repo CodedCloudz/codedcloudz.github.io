@@ -30,7 +30,7 @@ $( '#infocontainer, #all-content, #ExternalPage' ).scroll(function() {
 	  
 //localize
 
-var pageLable1 = $("#infocontainer > h1")[0];
+var pageLable1 = $("#infocontainer > h1")[0] || $("#ExternalPage > h1")[0];
 var translateInfo = document.createElement("div");
 	    translateInfo.id = "translateMSG";
 	    translateInfo.innerHTML = "[ Language Loading... ]";
