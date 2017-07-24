@@ -28,7 +28,8 @@ codedlocal ();
     // Use any selector
     $("head").append(localJS);
  };
-		
+ 
+ 		
 //checkversion
  function checkversion () {
 
