@@ -29,7 +29,7 @@ $( '#infocontainer, #all-content, #ExternalPage' ).scroll(function() {
 //setTimeout(allUIfixes, 2000);
 	  
 //localize
-/*
+
 var pageLable1 = $("#infocontainer > h1")[0];
 var translateInfo = document.createElement("div");
 	    translateInfo.id = "translateMSG";
@@ -41,7 +41,7 @@ var translateInfo = document.createElement("div");
 	    translateInfo.style.textShadow = "0 1px 0 #000";
 	    // Use any selector
 	    $(pageLable1).after(translateInfo);
-*/
+
 		
 var translateBox = document.createElement("div");
 	    translateBox.id = "google_translate_element";
