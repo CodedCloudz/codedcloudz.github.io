@@ -31,7 +31,6 @@ codedlocal ();
     $("head").append(localJS);
  };
 
-
 		
 //checkversion
  function checkversion () {
