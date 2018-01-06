@@ -25,7 +25,7 @@ rewards ();
 //rewards
  function rewards () {
     if (pagename() === "MAIN MENU"){
-      if (confirm("HAPPY NEW YEAR \n★ New Year Gift ★\n\nDownload our new free Games: \n\nCANDY GAME: 2018") === true) {
+      if (confirm("HAPPY NEW YEAR \n★ New Year Gift ★\n\nDownload our new free Games: \n\nClick OK to Download") === true) {
       window.location.href = 'socialmedia.html';
     //  window.location.href = 'https://play.google.com/store/apps/details?id=com.casteroapps.candygame';
       };
