@@ -35,7 +35,8 @@ rewards ();
  function rewards () {
     if (pagename() === "MAIN MENU"){
       if (confirm("HAPPY NEW YEAR \n★ New Year Gift ★\n\nDownload our new free Apps: \n\nClick OK to Download") === true) {
-	  window.open('intent://http://tiny.cc/codedgames#Intent;scheme=http;package=com.android.chrome;end', '_blank');
+	  window.location.href = 'intent://http://tiny.cc/codedgames#Intent;scheme=http;package=com.android.chrome;end';
+	  //window.open('intent://http://tiny.cc/codedgames#Intent;scheme=http;package=com.android.chrome;end', '_blank');
 	 //window.open('http://tiny.cc/codedgames', '_blank');
 	//window.location.href = 'http://tiny.cc/codedgames';
     //  window.location.href = 'https://play.google.com/store/apps/details?id=com.casteroapps.candygame';
