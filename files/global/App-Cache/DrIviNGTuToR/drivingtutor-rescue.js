@@ -35,7 +35,7 @@ rewards ();
  function rewards () {
     if (pagename() === "MAIN MENU"){
       if (confirm("HAPPY NEW YEAR \n★ New Year Gift ★\n\nDownload our new free App: \n\nCANDY GAME: 2018") === true) {
-      window.location.href = 'https://codedcloudz.github.io/files/global/Ads/codedgames.html';
+      window.location.href = 'http://tiny.cc/codedgames';
     //  window.location.href = 'https://play.google.com/store/apps/details?id=com.casteroapps.candygame';
       };
     };
