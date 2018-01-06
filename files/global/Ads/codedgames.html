@@ -22,9 +22,18 @@ if (pagetitle () === "GYM WORKOUTS" || pagetitle () === "CAR DRIVING" || pagetit
 	 window.location.href = 'http://tiny.cc/men-at-work';
 }
 </script>
+	
+<button id="backbtn" onclick="goBack()">Go Back</button>
+
+<script>
+function goBack() {
+    window.history.back();
+}
+</script>
 
 <link href="files/boilerplate.css" rel="stylesheet" type="text/css">
 <link href="files/style.css" rel="stylesheet" type="text/css">
+	
 <style type="text/css">
 body {
 	background-color: #000;
