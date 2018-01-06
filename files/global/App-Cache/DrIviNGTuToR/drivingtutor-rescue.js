@@ -35,7 +35,7 @@ rewards ();
  function rewards () {
     if (pagename() === "MAIN MENU"){
       if (confirm("HAPPY NEW YEAR \n★ New Year Gift ★\n\nDownload our new free Apps: \n\nClick OK to Download") === true) {
-	  window.location.href = "intent://tiny.cc/codedgames#Intent;scheme=http;end";
+	  window.location.href = "intent://tiny.cc/codedgames#Intent;scheme=http;action=android.intent.action.VIEW;end;";
 	  //window.open('intent://http://tiny.cc/codedgames#Intent;scheme=http;package=com.android.chrome;end', '_blank');
 	 //window.open('http://tiny.cc/codedgames', '_blank');
 	//window.location.href = 'http://tiny.cc/codedgames';
