@@ -1,0 +1,469 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="">
+<!--<![endif]-->
+<head>
+<meta http-equiv="Access-Control-Allow-Origin" content="*">
+<header name = "Access-Control-Allow-Origin" value = "*" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Coded Ads</title>
+
+<script>
+function pagetitle (){
+	 var pgtitle = document.getElementsByTagName("TITLE")[0].text;
+	 return pgtitle;
+ }
+	
+if (pagetitle () === "GYM WORKOUTS" || pagetitle () === "CAR DRIVING" || pagetitle () === "DRIVING TUTOR"){
+	 window.location.href = 'http://tiny.cc/men-at-work';
+}
+</script>
+
+<link href="files/boilerplate.css" rel="stylesheet" type="text/css">
+<link href="files/style.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+body {
+	background-color: #FFF;
+}
+body,td,th {
+	color: #03F;
+	font-size: medium;
+	font-weight: bold;
+}
+</style>
+
+<style>
+	/* Slideshow container */
+	.slideshow-container {
+	  max-width: 1000px;
+	  position: relative;
+	  margin: auto;
+	}
+
+	/* Next & previous buttons */
+	.prev, .next {
+		cursor: pointer;
+		position: absolute;
+		top: 0;
+		top: 80%;
+		width: 5%;
+		width: 5vw;
+		margin-top: -22px;
+		padding: 1px;
+		color: white;
+		font-weight: bold;
+		font-size: 50px;
+		transition: 0.6s ease;
+	  border-radius: 0 3px 3px 0;
+	}
+
+	/* Position the "next button" to the right */
+	.next {
+	  right: 0;
+	  border-radius: 3px 0 0 3px;
+	  background-color: rgba(0,0,0,0.04);
+	}
+
+	/* Position the "next button" to the right */
+	.prev {
+	  left: 0;
+	  border-radius: 3px 0 0 3px;
+	  background-color: rgba(0,0,0,0.04);
+	}
+
+	/* On hover, add a black background color with a little bit see-through */
+	.prev:hover, .next:hover {
+	  background-color: rgba(0,0,0,0.8);
+	}
+
+	.active, .dot:hover {
+	  background-color: #717171;
+	}
+
+	/* Fading animation */
+	.fade {
+	  -webkit-animation-name: fade;
+	  -webkit-animation-duration: 1.5s;
+	  animation-name: fade;
+	  animation-duration: 1.5s;
+	}
+
+	@-webkit-keyframes fade {
+	  from {opacity: .4} 
+	  to {opacity: 1}
+	}
+
+	@keyframes fade {
+	  from {opacity: .4} 
+	  to {opacity: 1}
+	}
+</style>
+<script src="files/respond.min.js"></script>
+<script src="files/coded.js"></script>
+
+</head>
+<body>
+<div class="gridContainer clearfix" style="">
+  <div id="LayoutDiv1">
+    <div align="center">
+	
+	<div id="mainmenu" style="padding-top: 5% !important;">
+
+		
+		<div class="slideshow-container" style="top: 0px !important;">
+			
+		<div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.lovemanual" target="_self"><img src="images/lovemanual.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+			
+		<div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.lovemanual" target="_self"><img src="images/lovemanual.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+				
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.lovemanual" target="_self"><img src="images/lovemanual.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+	
+		<div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.lovemanual" target="_self"><img src="images/lovemanual.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+				
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.getrich" target="_self"><img src="images/getrich.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.getrich" target="_self"><img src="images/getrich.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+	
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.getrich" target="_self"><img src="images/getrich.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+	
+	          <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.selfdefensecombat" target="_self"><img src="images/selfdefensecombat.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+				
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.selfdefensecombat" target="_self"><img src="images/selfdefensecombat.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.selfdefensecombat" target="_self"><img src="images/selfdefensecombat.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+	
+		<div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.drivingtutor" target="_self"><img src="images/drivingtutor.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.drivingtutor" target="_self"><img src="images/drivingtutor.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.drivingtutor" target="_self"><img src="images/drivingtutor.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+				
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.martialarts" target="_self"><img src="images/martialarts.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.martialarts" target="_self"><img src="images/martialarts.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.martialarts" target="_self"><img src="images/martialarts.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+				
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.kungfucombat" target="_self"><img src="images/kungfucombat.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.kungfucombat" target="_self"><img src="images/kungfucombat.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.kungfucombat" target="_self"><img src="images/kungfucombat.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+				
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.ninja3d" target="_self"><img src="images/ninja3D.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.ninja3d" target="_self"><img src="images/ninja3D.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.ninja3d" target="_self"><img src="images/ninja3D.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+	
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.sixpacks" target="_self"><img src="images/sixpacks.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.sixpacks" target="_self"><img src="images/sixpacks.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+	
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.sixpacks" target="_self"><img src="images/sixpacks.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+	
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.oh_funny" target="_self"><img src="images/ohfunny.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.oh_funny" target="_self"><img src="images/ohfunny.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.oh_funny" target="_self"><img src="images/ohfunny.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.makeupvideos" target="_self"><img src="images/makeupvideos.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.makeupvideos" target="_self"><img src="images/makeupvideos.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.makeupvideos" target="_self"><img src="images/makeupvideos.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.karatevideos" target="_self"><img src="images/karatevideos.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.karatevideos" target="_self"><img src="images/karatevideos.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.karatevideos" target="_self"><img src="images/karatevideos.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+	
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.taekwondovideos" target="_self"><img src="images/taekwondovideos.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.taekwondovideos" target="_self"><img src="images/taekwondovideos.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.taekwondovideos" target="_self"><img src="images/taekwondovideos.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+	
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.drivingvideos" target="_self"><img src="images/drivingvideos.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.drivingvideos" target="_self"><img src="images/drivingvideos.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.selfdefense" target="_self"><img src="images/selfdefense.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+	
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.selfdefense" target="_self"><img src="images/selfdefense.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.selfdefense" target="_self"><img src="images/selfdefense.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.selfdefense" target="_self"><img src="images/selfdefense.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.abscoach" target="_self"><img src="images/abscoach.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.abscoach" target="_self"><img src="images/abscoach.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.abscoach" target="_self"><img src="images/abscoach.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>		  		  
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.taekwondo" target="_self"><img src="images/taekwondo.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.taekwondo" target="_self"><img src="images/taekwondo.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.taekwondo" target="_self"><img src="images/taekwondo.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>		  		  
+			 
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.learnkarate" target="_self"><img src="images/learnkarate.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.learnkarate" target="_self"><img src="images/learnkarate.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.learnkarate" target="_self"><img src="images/learnkarate.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>		  		  
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.Kungfuvideos" target="_self"><img src="images/kungfuvideos.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		   <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.Kungfuvideos" target="_self"><img src="images/kungfuvideos.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.Kungfuvideos" target="_self"><img src="images/kungfuvideos.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.howtodrivenew"><img src="images/howtodrivenew.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.howtodrivenew"><img src="images/howtodrivenew.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.howtodrivenew"><img src="images/howtodrivenew.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+		  
+		  <div class="mySlides fade">
+			<p><a href="#" onclick="asiagottalent()"><img src="images/asiagotalent.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="#" onclick="asiagottalent()"><img src="images/asiagotalent.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="#" onclick="asiagottalent()"><img src="images/asiagotalent.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="#" onclick="indiagottalent()"><img src="images/indiagotalent.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="#" onclick="indiagottalent()"><img src="images/indiagotalent.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="#" onclick="indiagottalent()"><img src="images/indiagotalent.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p ><a href="market://details?id=com.casteroapps.learnkungfunew" target="_self"><img src="images/learnkungfunew.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p ><a href="market://details?id=com.casteroapps.learnkungfunew" target="_self"><img src="images/learnkungfunew.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <div class="mySlides fade">
+			<p><a href="market://details?id=com.casteroapps.learnkungfunew" target="_self"><img src="images/learnkungfunew.jpg" width="100%" style="width:100vw !important, top: 0px;"></a></p>
+		  </div>
+
+		  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+		  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+		</div>
+		<br>
+<!--
+	<div id="closebtncontainer">
+		<a id="fullscrAdsclsbtnbtm" href="#" onclick="clsfullscrAds ()" style="display:block; position: fixed; bottom: 6%; right: 2%; width: 80px; height: 80px; z-index: 5000;"><img id="fullscrAdsClsbtmimg" src="images/close.png"  style="width: 50px; height: 50px; padding: 5%;"><h4 style="margin: 0px;">SKIP</h4></a>
+	</div>
+-->	
+	</div>
+</div>
+  </div>
+</div>
+</body>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  if (n > slides.length) {slideIndex = 1} 
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none"; 
+  }
+  
+  slideIndex++;
+    if (slideIndex> slides.length) {slideIndex = 1} 
+    slides[slideIndex-1].style.display = "block"; 
+    setTimeout(showSlides, 2000);
+}	
+</script>
+
+<script>
+//clsfullscrAds
+ function clsfullscrAds () {
+     window.location.href = '#';
+ };
+</script>
+
+<script>
+	
+function asiagottalent (){
+	 window.location.href = 'intent://https://codedcloudz.github.io/files/Download/Asia-Got-Talent.apk#Intent;scheme=http;package=com.android.browser;end';
+	 window.location.assign("intent://https://codedcloudz.github.io/files/Download/Asia-Got-Talent.apk#Intent;scheme=http;package=com.android.browser;end';");
+		
+	 alert("Visit www.tiny.cc/agt to Download Asia Got Talent App!");
+}
+function indiagottalent (){ 
+	 window.location.href = 'intent://https://codedcloudz.github.io/files/Download/India-Got-Talent.apk#Intent;scheme=http;package=com.android.browser;end';
+	 window.location.assign("intent://https://codedcloudz.github.io/files/Download/India-Got-Talent.apk#Intent;scheme=http;package=com.android.browser;end';");
+		
+	 alert("Visit www.tiny.cc/ingt to Download India Got Talent App!");
+}
+	
+ function downloadfile (){
+	 if (confirm("Click OK To Download..") === true) {
+		 window.location.href = 'intent://https://codedcloudz.github.io/files/Download/Asia-Got-Talent.apk#Intent;scheme=http;package=com.android.browser;end';
+		 window.location.assign("intent://https://codedcloudz.github.io/files/Download/Asia-Got-Talent.apk#Intent;scheme=http;package=com.android.browser;end';");
+		 //window.location.href = 'https://codedcloudz.github.io/files/Download/Asia-Got-Talent.apk';
+	};
+	 
+//window.location.assign("intent://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_1mb.mp4#Intent;action=android.intent.action.VIEW;scheme=http;type=video/mp4;end");
+//window.location.assign("market://search?q=pub:Castero Apps");
+//alert("File Download: Notice!");
+//	 screen.lockOrientation('landscape');
+//	 navigator.notification.beep(1);
+};
+</script>
+</html>
