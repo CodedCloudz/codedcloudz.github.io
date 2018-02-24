@@ -42,3 +42,5 @@ function initAdNew(){
 
  initAdNew();
 showBannerFunc();
+
+console.log ( 'New Ads settings Installed..' );
