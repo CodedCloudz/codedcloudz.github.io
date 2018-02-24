@@ -40,6 +40,25 @@ function initAdNew(){
         }
 }
 
+//functions to allow you to know when ads are shown, etc. 
+function registerAdEvents() {
+        document.addEventListener('onReceiveAd', function(){});
+        document.addEventListener('onFailedToReceiveAd', function(data){});
+        document.addEventListener('onPresentAd', function(){});
+        document.addEventListener('onDismissAd', function(){});
+        document.addEventListener('onLeaveToAd', function(){});
+        document.addEventListener('onReceiveInterstitialAd', function(){});
+        document.addEventListener('onPresentInterstitialAd', function(){});
+        document.addEventListener('onDismissInterstitialAd', function(){});
+    }
+ 
+  //display the banner 
+function showBannerFunc(){
+    window.plugins.AdMob.createBannerView();
+	document.getElementsByClassName("mainfooter")[0].style.bottom = "8.5%"
+	document.getElementsByClassName("adsbg")[0].style.display = "block"
+} 
+
  initAdNew();
 showBannerFunc();
 
