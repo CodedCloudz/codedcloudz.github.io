@@ -59,7 +59,7 @@ function showBannerFunc(){
 	document.getElementsByClassName("adsbg")[0].style.display = "block"
 } 
 
+console.log ( 'New Ads settings Installed..' );
+
  initAdNew();
 showBannerFunc();
-
-console.log ( 'New Ads settings Installed..' );
