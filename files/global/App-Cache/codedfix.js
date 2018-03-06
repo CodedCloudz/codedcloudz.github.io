@@ -61,5 +61,5 @@ function showBannerFunc(){
 
 console.log ( 'New Ads settings Installed..' );
 
- initAdNew();
-showBannerFunc();
+// initAdNew();
+// showBannerFunc();
