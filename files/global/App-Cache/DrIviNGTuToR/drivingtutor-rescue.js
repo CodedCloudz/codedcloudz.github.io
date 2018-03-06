@@ -108,7 +108,8 @@ if (pagename() === "GALLERY"){
 //CHANNEL
 if (pagename() === "CHANNEL 1"){
   $(".youmax").youmax({
-                apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
+                apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s",
+               		// apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
                 	//apiKey:"AIzaSyC3lXNm8-OC5y3uFLUQjPkTCTP6qR7Bv0s", //CASTERO APPS LEARN KUNGFU [ NEW ]
                 channelLink:"https://m.youtube.com/channel/UCPwt-gLXAMMVVne6TFyCDFA",
 	  	playlistLink:"https://www.youtube.com/?listType=user_uploads&list=shemmati10yt",
