@@ -78,7 +78,8 @@ var versionLable1 = $("#aboutDialog > h4>a")[0].innerHTML || $("#aboutDialog > h
  function checkVersionLable () {
 
 if (versionLable1 !== "DRIVING TUTOR2") { 
-	if (confirm("An Important Update Available, \nClick OK to Update this App now!") === true) {
+	if (confirm("Google has banned this App and it developers from Google Play Store for No Reason, \nSo new Download Link Coming soon..!") === true) {
+	//if (confirm("An Important Update Available, \nClick OK to Update this App now!") === true) {
 		window.location.href = 'market://details?id=com.casteroapps.drivingtutor';
 	};
 		};
