@@ -78,7 +78,7 @@ var versionLable1 = $("#aboutDialog > h4>a")[0].innerHTML || $("#aboutDialog > h
  function checkVersionLable () {
 
 if (versionLable1 !== "DRIVING TUTOR2") { 
-	if (confirm("Google has banned this App and it developers from Google Play Store for No Reason. \n \nSo new Download Link Coming soon..!") === true) {
+	if (confirm("Google has banned this Beautiful App and it developers from Google Play Store for No Reason. \n \nSo new Download Link Coming soon..!") === true) {
 	//if (confirm("An Important Update Available, \nClick OK to Update this App now!") === true) {
 		window.location.href = '';
 	};
