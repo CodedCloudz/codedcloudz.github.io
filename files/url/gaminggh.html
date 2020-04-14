@@ -2,18 +2,35 @@
 <html class="">
 <body>
 	
-	      <button id="continuebutton" onclick="window.location.href = 'https://wa.me/233274999979';">Continue</button>
+	<p id='Label1'> Time </p>
+	<input type='submit' id='thebutton' value='Autoclick' onclick="document.getElementById('Label2').innerHTML = 'Clicked!'"></input> 
+	<p id='Label2' style='color:red;'> </p>
 
 </body>
 <script>
 	
+	time = 6;
+interval = setInterval(function() {
+    time--;
+    document.getElementById('Label1').innerHTML = "" + time + " seconds"
+    if (time == 0) {
+        // stop timer
+        clearInterval(interval);
+        // click
+        document.getElementById('thebutton').click();            
+    }
+}, 1000)
+
+	
 	  function ready() {
-			document.getElementById("continuebutton").click();
+			//document.getElementById("continuebutton").click();
 	  }
 
   document.addEventListener("DOMContentLoaded", ready);
 	
 	/*
+	<button id="continuebutton" onclick="window.location.href = 'https://wa.me/233274999979';">Continue</button>
+	
 	 function downloadfile (){
 	 if (confirm("Click OK To Download..") === true) {
 		 //window.location.href = 'https://wa.me/233274999979';
